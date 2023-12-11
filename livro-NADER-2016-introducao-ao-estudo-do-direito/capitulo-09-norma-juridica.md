@@ -16,11 +16,6 @@
   - Não é suficiente que os homens estejam dispostos à prática de Justiça;
   - É necessário que se lhes indique a **FÓRMULA DE JUSTIÇA** que **satisfaça a sociedade em determinado momento histórico**;
   - É necessário que se lhes indique **COMO** e **QUANDO** agir;
-- **NORMAS JURÍDICAS** são:
-  - Padrões de conduta;
-  - Padrões de organização social;
-  - Fórmulas de agir;
-  - Determinações que fixam pautas (como será) de comportamento interindividual;
 - As expressões **NORMA JURÍDICA** e **REGRA JURÍDICA** são sinônimas;
 
 <table>
@@ -30,10 +25,23 @@
        <b>Definição</b>
     </td>
     <td valign="top">
-      <b>NORMA JURÍDICA</b> é a <sup>(1)</sup>conduta exigida ou o <sup>(2)</sup>modelo imposto de organização social</b>.
+      <span style="background-color:yellow">A <b>NORMA JURÍDICA</b> é</span>
+      <ul>
+        <li>A CONDUTA exigida; ou</li>
+        <li>O MODELO imposto de organização social</li>
+        <li>O Padrão de conduta;</li>
+        <li>O Padrão de organização social;</li>
+        <li>A Fórmula de agir;</li>
+        <li>A determinação que fixa pauta(s) de como será o <b>COMPORTAMENTO INTERINDIVIDUAL</b>;</li>
+      </ul>
     </td>
   </tr>
 </table>
+
+- A **NORMA JURÍDICA** é **parte da ORDEM JURÍDICA**, devendo demonstar com ela:
+  - Harmonia;
+  - Coerência lógica;
+  - Unidade de fim;
 
 <table>
   <tr>
@@ -42,7 +50,11 @@
        <b>Não Cometa Erros</b>
     </td>
     <td valign="top">
-      <b>NORMA JURÍDICA</b> NÃO É  a mesma coisa que LEI.<br>A Lei é apenas um das formas de expressão da NORMA JURÍDICA.<br>Em alguns países, inclusive, AS <b>NORMAS JURÍDICAS</b> se manifestam também pelo <sup>(1)</sup><b>DIREITO COSTUMEIRO</b> e pela <sup>(2)</sup><b>JURISPRUDÊNCIA</b>
+      Norma jurídica <span style="background-color:yellow"><b>NÃO É</b> a mesma coisa que LEI.</span><br>A Lei é apenas um das formas de expressão da NORMA JURÍDICA.<br>Em alguns países, inclusive, as <b>NORMAS JURÍDICAS</b> se manifestam também:</b>
+       <ul>
+         <li> Pelo <b>DIREITO COSTUMEIRO</b>; e</li>
+         <li> Pela <b>JURISPRUDÊNCIA</b></li>
+       </ul>
     </td>
   </tr>
 </table>
@@ -59,29 +71,63 @@
       <b>INSTITUTO JURÍDICO</b>:
       <ul>
         <li>É a reunião de NORMAS JURÍDICAS afins;</li>
-        <li>Que rege:
+        <ul>
+          <li>Que rege:
           <ul><li>Um TIPO DE RELAÇÃO SOCIAL</li><li>Um TIPO DE INTERESSE</li></ul>
-        <li>Se identifica pelo FIM que procura realizar</li>
+          <li>Se identifica pelo FIM que procura realizar</li>
+        </ul>  
       </ul>
     </td>
   </tr>
 </table>
 
-- A **NORMA JURÍDICA** é **parte da ORDEM JURÍDICA**, devendo demonstar com ela:
-  - Harmonia;
-  - Coerência lógica;
-  - Unidade de fim;
+<table>
+  <tr>
+    <td align="center">
+       <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-definicao.png?raw=true" heigh="80" width="80"><br>
+       <b>Definição</b>
+    </td>
+    <td valign="top">
+      O <b>INSTITUTO JURÍDICO</b> se refere:
+      <ul>
+        <li>A um tipo de <b>RELAÇÃO SOCIAL</b></li>
+        <li>A um tipo de <b>INTERESSE</b></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+- São EXEMPLOS de INSTITUTOS JURÍDICOS:
+  - Adoção;
+  - Poder Familiar;
+  - Naturalização;
+  - Hipoteca.
+
+<table>
+  <tr>
+    <td align="center">
+       <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-definicao.png?raw=true" heigh="80" width="80"><br>
+       <b>Definição</b>
+    </td>
+    <td valign="top">
+      Um <b>RAMO JURÍDICO</b> são diversos <b>INSTITUTO JURÍDICOS</b> afins</b>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+       <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-definicao.png?raw=true" heigh="80" width="80"><br>
+       <b>Definição</b>
+    </td>
+    <td valign="top">
+      A <b>ORDEM JURÍDICA</b> é um conjunto de <b>RAMOS JURÍDICOS</b>
+    </td>
+  </tr>
+</table>
+
 - A **ORDEM JURÍDICA** dispõem sobre a **GENERALIDADE** das **RELAÇÕES SOCIAIS**;
-- O **INSTITUTO JURÍDICO** se refere a **UM TIPO** de **RELAÇÃO SOCIAL** ou **INTERESSE**;
-  - Exemplo:
-    - Adoção;
-    - Poder Familiar;
-    - Naturalização;
-    - Hipoteca; etc.
-- Um **RAMO JURÍDICO** são diversos **INSTITUTO JURÍDICOS** afins;
-  - Exemplos:
-    - (...)
-- A **ORDEM JURÍDICA** é um conjunto de **RAMOS JURÍDICOS**;
 
 ## ESTRUTURA LÓGICA da Norma Jurídica
 
@@ -268,12 +314,12 @@
   - Técnicas
   - Naturais
 
-| # |  Norma   | Esquema                                             | Interpretação                                                                                                                  |
-|:-:|:--------:|:----------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------|
-| 1 |  Moral   | Deve ser "**A**"                                    | Impõe-se a si próprio (**A**)                                                                                                  |
-| 2 | Jurídica | Se "**A**" é, "**B**" deve ser, sob pena de "**S**" | Sob determinada CONDIÇÃO (**A**), deve-se agir de acordo com o que for previsto (**B**), sob pena de sofrer uma SANÇÃO (**S**) |
-| 3 | Técnica  | Se "**A**" é, tem que ser "**B**"                   | Ao escolher UM FIM (**A**), tem-se que adotar um MEIO (**B**)                                                                  |
-| 4 | Natural  | Se "**A**" é, é "**B**"                             | Ocorrida a CAUSA (**A**), ocorrerá o EFEITO (**B**)                                                                            |
+|   #   |  Norma   | Esquema                                             | Interpretação                                                                                                                  |
+| :---: | :------: | :-------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------- |
+|   1   |  Moral   | Deve ser "**A**"                                    | Impõe-se a si próprio (**A**)                                                                                                  |
+|   2   | Jurídica | Se "**A**" é, "**B**" deve ser, sob pena de "**S**" | Sob determinada CONDIÇÃO (**A**), deve-se agir de acordo com o que for previsto (**B**), sob pena de sofrer uma SANÇÃO (**S**) |
+|   3   | Técnica  | Se "**A**" é, tem que ser "**B**"                   | Ao escolher UM FIM (**A**), tem-se que adotar um MEIO (**B**)                                                                  |
+|   4   | Natural  | Se "**A**" é, é "**B**"                             | Ocorrida a CAUSA (**A**), ocorrerá o EFEITO (**B**)                                                                            |
 
 ## Caracteres (Características das NORMAS JURÍDICAS)
 
@@ -294,7 +340,7 @@
           <ul>
             <li>Empréstimo gratuito de coisa não fungível</li>
           </ul>
-        <li>É um exemplo de uma NORMA JURÍDICA que não encerra EM SI mesma nenhuma determinação.</li>
+        <li>É um exemplo de uma NORMA JURÍDICA que <u>não encerra EM SI</u> mesma nenhuma determinação.</li>
       </ul>
     </td>
   </tr>
@@ -392,7 +438,262 @@
     - **NORMA SECUNDÁRIA**: **Explicativa** ou **Declarativa** ; e
     - **NORMA PRIMÁRIA**: Objeto da explicação ou definição
 
+### Coercibilidade
+
+- Significa POSSIBILIDADE de USO DA COAÇÃO, possuindo DOIS ELEMENTOS:
+  - **PSICOLÓGICO**: Exerce a **INTIMIDAÇÃO**, através de **PENALIDADES** prevista para **hipótese de violação das normas jurídicas**;
+  - **MATERIAL**: É a FORÇA PROPRIAMENTE que é acionada quando o destinatário da norma não a cumpre espontaneamente;
+
+- COAÇÃO e SANÇÃO não se confundem
+
+<table>
+  <tr>
+    <td align="center">
+       <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-nao-cometa-erros.png?raw=true" heigh="80" width="80"><br>
+       <b>Não cometa Erros</b>
+    </td>
+    <td valign="top">
+      <b>A <span style="background-color:yellow">COAÇÃO</span> e a <span style="background-color:yellow">SANÇÃO</span> não se confumdem</b>:
+      <ul>
+        <li>A <b>COAÇÃO</b>:</li>
+        <ul>
+          <li>É a <b>RESERVA DE FORÇA</b> à serviço do Direito.</li>
+          <li>Exemplos de quando o juiz <b>aciona a força do Direito</b>:</li>
+          <ul>
+            <li>Quando o juiz determina a condução da testemunha _manu militari_; ou </li>
+            <li>Quando ordena o leilão de bens do executado.</li>
+          </ul>
+        </ul>
+       <li>A <b>SANÇÃO</b>:</li>
+        <ul>
+          <li>É a <b>MEDIDA PUNITIVA</b> para a <b>HIPÓTESE DE VIOLAÇÃO</b> de normas jurídicas.</li>
+          <li>Exemplos de quando o juiz <b>aplicação uma sanção legal</b>:</li>
+          <ul>
+            <li>Quando o juiz condena o acusado a uma pena privativa de liberdade ou pecuniária.</li>
+            <li>Quando o juiz condena o acusado a uma pena pecuniária.</li>
+          </ul>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+- Alguns autores se referem, também, à chamada **SANÇÃO PREMIAL**, partindo do entendimento de que **SANÇÃO** é o estímulo à **EFETIVIDADE da NORMA JURÍDICA**;
+- Denomina-se **SANÇÃO PREMIAL** o benefício conferido pelo ordenamento como **incentivo ao cumprimento de determinada obrigação**;
+  - É o que se passa, por exemplo, quando uma **ação de despejo** apresenta **pedido de retomada para uso próprio**;
+> A LEI, NESTA HIPÓTESE, OFERECE UM ESTÍMULO ESPECIAL: Se o locatário concorda com o pedido, <u>**pode permanecer no imóvel durante seis meses**</u> e **se livrar do ônus do pagamento de custas judiciais e de honorários advocatícios**, <u>caso entregue o imóvel dentro desse prazo</u>;
+
+#### COAÇÃO é elemento essencial ao Direito ?
+
+- Uma das indagações polêmicas que se apresentam na teoria do Direito refere-se à questão se a **COAÇÃO** <u>**é ou não elemento essencial ao Direito**</u>.
+
+<center><b>CORRENTE #1</b></center>
+
+  - Responde NEGATIVAMENTE;
+  - Entende que a ATRIBUTIVIDADE é o ELEMENTO ESSENCIAL do Direito;
+  - Entende que a ATRIBUTIVIDADE é CARACTERÍSTICA EXCLUSIVA do Direito (não presente em qualquer outra especie de norma, seja técnica, política ou moral)
+  - Se a coação somente é acionada excepcionalmente, é um **FATOR CONTINGENTE**, e não um FATOR NECESSÁRIO;
+  - Essencial é uma qualidade que não pode faltar a um objeto, sob pena de não existir como tal.
+
+<table>
+  <tr>
+    <td align="center">
+       <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-definicao.png?raw=true" heigh="80" width="80"><br>
+       <b>Definição</b>
+    </td>
+    <td valign="top">
+      <b>ATRIBUTIVIDADE</b> o fato de o <b>DIREITO POSITIVO</b> conceder, ao <b>SUJEITO ATIVO</b> de uma RELAÇÃO JURÍDICA, o poder de AGIR e de EXIGIR do <b>SUJEITO PASSIVO</b> o <b>cumprimento da sua obrigação</b>.
+    </td>
+  </tr>
+</table>
+
+<center><b>CORRENTE #2</b></center>
+
+- Dentre o rol de autores que defendem opinião contrária: **Ihering** e **Max Weber**;
+  - Para **Ihering**:
+    - O Direito sem a COAÇÃO “é um fogo que não queima; uma luz que não ilumina”;
+  - Para **Max Weber**:
+    - “o decisivo no conceito do direito é a existência de um quadro coativo”;
+    - “o clã mesmo pode representar esse quadro coativo (nos casos de vingança de sangue e de lutas internas), quando rege de fato, para as formas de suas reações, ordenações de qualquer índole”.
+    - **Max Weber** desconsidera o **DIREITO INTERNACIONAL PÚBLICO** como **RAMO JURÍDICO**, pois “não se pode designar por direito, em realidade, uma **ordem que se encontre garantida** apenas pela expectativa da REPROVAÇÃO e das REPRESÁLIAS DOS LESIONADOS;
+
+## Classificação das Normas Jurídicas
+
+- Muitas são as classificações propostas por diferente autores;
+- Classificar as NORMAS JURÍDICAS:
+  - Implica em um **ESPÍRITO PRÁTICO**;
+  - Possui sua **VALIDADE** revelada À MEDIDA QUE TRADUZ UMA **UTILIDADE TEÓRICO** OU **PRÁTICA**;
+
+```mermaid
+mindmap
+(("Critérios de Classificação<br>Das NORMAS JURÍDICAS<br>Quanto a(o)..."))
+  FONTE
+  SANÇÃO
+  QUALIDADE
+  HIERARQUIA
+  ÂMBITOS DE VALIDEZ
+  SISTEMA JURÍDICO<br>a que pertencem
+  RELAÇÕES DE COMPLEMENTAÇÃO
+  RELAÇÕES com a<br> VONTADE DOS PARTICULARES
+```
+
+### Quanto ao SISTEMA JURÍDICO A QUE PERTENCEM
+
+- Em relação a esse critério, as **NORMAS JURÍDICAS** podem ser:
+  - **NACIONAIS**:
+    - Obrigatórias no âmbito do Estado;
+    - Fazem parte do **ORDENAMENTO JURÍDICO** do Estato;
+    - É POSSÍVEL que uma **NORMA JURÍDICA** tenha aplicação **além do território** do Estado que a criou;
+  - **ESTRANGEIRAS**:
+    - Temos uma **NORMA JURÍDICA ESTRANGEIRA** quando em uma **RELAÇÃO JURÍDICA** existente em um Estado for **APLICÁVEL** uma **NORMA JURÍDICA PRÓPRIA** de **OUTRO ESTADO**;
+  - **DE DIREITO UNIFORME**:
+    - Temos uma **NORMA JURÍDICA DE DIREITO UNIFORME** quanto DOIS ESTADOS resolvem, MEDIANTE TRATADO, adotar INTERNAMENTE uma LEGISLAÇÃO PADRÃO;
+
+### Quanto à FONTE
+
+- De acordo com o SISTEMA JURÍCO a que pertencem as NORMAS JURÍDICAS podem ser:
+  - **LEGISLATIVAS**:
+    - São normas jurídicas **ESCRITAS**;
+    - **Codificadas** em Lei que **emanam do PODER LEGISLATIVO**
+    - **Codificadas** em decretos, medidas provisórias, etc. que **emanam do PODER EXECUTIVO**;
+  - **CONSUETUDINÁRIAS**:
+    - São as normas **NÃO ESCRITAS**, elaboradas espontaneamente **PELA SOCIEDADE**;
+    - São **PRÁTICAS SOCIAIS CONSTUMEIRAS** (=**COSTUME** como **VALOR JURÍDICO**):
+        - Reiteradas;
+        - Constantes;
+        - Uniformes;
+        - Enraizadas na CONSCIÊNCIA POPULAR como REGRA OBRIGATÓRIA;
+      - Sua importância varia de acordo com os SISTEMAS JURÍDICOS;
+  - **JURISPRUDENCIAIS**:
+    - São NORMAS JURÍDICAS criadas pelos TRIBUNAIS;
+    - No SISTEMA JURÍDICO de tradição ROMANO-GERMÂNICO
+      - A **jurisprudência** <u>não deve ser considerada</u> **FONTE FORMAL** do Direito
+    - No SISTEMA JURÍDICO **COMMON LAW**, adotado pela INGLATERRA e ESTADOS UNIDOS, **OS PRECEDENTES JUDICIAIS** têm força normativa.
+
+### Quanto aos diversos ÂMBITOS DE VALIDEZ
+
+- Temos o **ÂMBITO ESPACIAL** de VALIDEZ:
+  - GERAL:
+    - São as que se aplicam em <u>**TODO**</u> O TERRITÓRIO nacional;
+    - <span style="background-color:yellow"><b>São **SEMPRE** normas **FEDERAIS**</b></span>;
+  - LOCAL:
+    - São as que se aplicam em <u>**PARTE**</u> DO TERRITÓRIO nacional
+    - <span style="background-color:yellow"><b>PODEM</b> ser normas <b>FEDERAIS</b></span>;
+    - PODEM ser normas **ESTADUAIS** ou **MUNICIPAIS**;
+- Temos o **ÂMBITO TEMPORAL** de VALIDEZ:
+  - Normas de **VIGÊNCIA** por **PRAZO INDETERMINADO**
+    - Quando a **VIGÊNCIA** <u>NÃO é</u> determinada na própria norma jurídica, ela tem **VIGÊNCIA POR PRAZO INDETERMINADO**;
+  - Normas de **VIGÊNCIA** por **PRAZO DETERMINADO**;
+    - Quando a **VIGÊNCIA** <u>É</u> determinada na própria norma jurídica
+    - Ocorrem com menos frequência;
+    - Nesse caso, são denominadas normas de vigência por **PRAZO DETERMINADO**;
+- Temos o **ÂMBITO MATERIAL** de VALIDEZ:
+  - Normas **de Direito Público**:
+    - A **RELAÇÃO JURÍDICA** é de **SUBORDINAÇÃO**, com o Estado impondo o seu _imperium_
+  - Normas **de Direito Privado**:
+    - A **RELAÇÃO JURÍDICA** é de **COORDENAÇÃO**
+- Temos o **ÂMBITO PESSOAL** de VALIDEZ:
+  - **Normas GENÉRICAS**:
+    - É uma característica das normas jurídicas;
+    - Significa que a norma **se dirige a todos** que se acham na **MESMA SITUAÇÃO JURÍDICA**;
+  - **Normas INDIVIDUALIZADAS**:
+    - **DESIGNAM** a um ou a vários **MEMBROS** da **MESMA CLASSE,** individualmente determinados; ou
+    - **FACULTAM** a um ou a vários **MEMBROS** da **MESMA CLASSE,** individualmente determinados;
+
+### Quanto à HIERARQUIA
+
+<table>
+  <tr>
+    <td align="center">
+       <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-definicao.png?raw=true" heigh="80" width="80"><br>
+       <b>Definição</b>
+    </td>
+    <td valign="top">
+     <ul>
+      <li>As <b>NORMAS JURÍDICAS</b> guardam entre si:</li>
+      <ul>
+      <li>Uma hierarquia entre as diversas categorias;</li>
+      <li>Uma ordem de subordinação entre as diversas categorias</li>
+      </ul>
+     </ul> 
+    </td>
+  </tr>
+</table>
+
+- Dividem-se em:
+  - Normas Jurídicas **CONSTITUCIONAIS**:
+    - Estão no **PRIMEIRO PLANO** de hierarquia;
+    - Provém de EMENDAS CONSTITUCIONAIS ou são originais da CONSTITUIÇÃO;
+    - **CONDICIONAM A VALIDADE** de todas as outras NORMAS JURÍDICAS;
+    - Têm o poder de revogar todas as outras NORMAS JURÍDICAS;
+    - **QUALQUER NORMA JURÍDICA** <u>de categoria diversa</u>, ANTERIOR ou POSTERIOR à constitucional, <u>**não terá validade**</u> caso contrarie as disposições das NORMAS CONSTITUCIONAIS;
+  - Normas Jurídicas **COMPLEMENTARES**:
+    - Na ordem jurídica brasileira, há normas que se localizam em leis complementares à Constituição;
+    - Na ordem jurídica brasileira, há normas que se localizam, hierarquicamente, entre as **NORMAS CONSTITUCIONAIS** e as **NORMAS ORDINÁRIAS**;
+    - Sua APROVAÇÃO se dá de acordo com o **art. 69** do [CRFB 1988](https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm);
+  - Normas Jurídicas **ORDINÁRIAS**:
+    - São as leis, **art. 69** do [CRFB 1988](https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm);
+    - São as medidas provisórias e leis delegadas.
+  - Normas Jurídicas **REGULAMENTARES**:
+    - São os decretos;
+  - Normas Jurídicas**INDIVIDUALIZADAS**:
+    - Tem **DENOMINAÇÃO** e **ESPÉCIE** sugeridas por **MERKEL**;
+    - Abarcam uma grande variedade de **NEGÓCIOS JURÍDICOS**:
+      - Testamentos;
+      - Sentenças judiciais;
+      - Contratos;
+      - etc.
+
+### Quanto a SANÇÃO
+
+- Do PONTO DE VISTA da SANÇÃO, as NORMAS JURÍDICAS dividem-se em:
+  - Normas Jurídicas **PERFEITAS** (leges PERFECTAE):
+    - Quando prevê a **NULIDADE DO ATO**, na hipótese de sua violação;
+  - Normas Jurídicas **MAIS DO QUE PERFEITAS** (leges PLUS QUAM PERFECTAE):
+    - Quando além de **NULIDADE DO ATO**, estipular **PENA** para os casos de violação;
+  - Normas Jurídicas **MENOS QUE PERFEITAS** (leges MINUS QUAM PERFECTAE):
+    - Quando determina apenas a **PENA**, na hipótese de sua violação;
+  - Normas Jurídicas **IMPERFEITAS** (leges IMPERFECTAE):
+    - Quando <u>NÃO</u> PREVÊ **NULIDADE DO ATO**; e
+    - Quando <u>NÃO</u> estipular **PENA** para os casos de violação;
+    - Exemplo:
+      - Normas relacionadas na Lei Complementar no 95, de 26.02.1998, relativamente às técnicas de elaboração, redação e alteração das
+leis.
+
+> "Art. 18. Eventual inexatidão formal de norma elaborada mediante processo legislativo regular não constitui escusa válida para o seu descumprimento."<br>
+> <p style="text-align: right"><a href="https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp95.htm">Lei Complementar nº 95/1998</a></p>
+
+### Quanto à QUALIDADE
+
+### Quanto às RELAÇÕES DE COMPLEMENTAÇÃO
+
+### Quanto à VONTADE DAS PARTES
+
+### Quanto à FLEXIBILIDADE ou ARBÍTRIO DO JUIZ
+
+### Quanto ao MODO DE PRESENÇA no ordenamento jurídico
+
+### Quanto à INTELIGIBILIDADE
+
+## VIGÊNCIA, EFETIVIDADE, EFICÁCIA e LEGITIMIDADE da NORMA JURÍDICA
+
+### Vigência da Norma Jurídica
+
+### Efetividade da Norma Jurídica
+
+### Eficácia da Norma Jurídica
+
+### Legitimidade da Norma Jurídica
+
 ## Referências Bibliograficas
 
 [^MUNDO-DA-FILOSOFIA-KANT]: MUNDO DA FILOSOFIA. O que é Imperativo Categórico e Hipotético em Immanuel Kant? Disponivel em: <https://mundodafilosofia.com.br/o-que-e-imperativo-categorico-e-hipotetico-em-immanuel-kant/> Acesso em: 08 dez. 2023
 [^REALE-2004]: REALE, Miguel. Lições Preliminares de Direito. 27. ed. São Paulo: Saraiva: 2004.
+
+[^]: 41 – Mouchet y Zorraquin, Introducción al Derecho;
+[^]: 42 – Vicente Ráo, O Direito e a Vida dos Direitos; Benjamim de Oliveira Filho, Introdução à Ciência do Direito;
+[^]: 43 – Hans Kelsen, Teoria Pura do Direito; Aftalion, Olano e Vilanova, Introducción al Derecho; Miguel Reale, Lições Preliminares de
+Direito; Machado Netto, Compêndio de Introdução à Ciência do Direito;
+[^]: 44 – Alessandro Groppali, Introdução ao Estudo do Direito; Goffredo Telles Júnior, Filosofia do Direito;
+[^]: 45 – Eduardo García Máynez, Introducción al Estudio del Derecho; Machado Netto, Compêndio de Introdução à Ciência do Direito;
+[^]: 46 – Miguel Reale, Lições Preliminares de Direito; Elías Díaz, Sociología y Filosofía del Derecho; Luiz Diez Picazo, Experiencias
+Jurídicas y Teoria del Derecho; Paulo Nader, Filosofia do Direito.
