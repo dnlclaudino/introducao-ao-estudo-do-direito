@@ -843,7 +843,7 @@ dolo ou culpa)</li>
 - O estudo sobre a **NORMA JURÍDICA** não estará completo **se não for acompanhado** da abordagem dos atributos:
   - Vigência;
   - Efetividade;
-  - Eficácia (*); e
+  - Eficácia (:eight_spoked_asterisk:); e
   - Legitimidade
 
 ### Vigência da Norma Jurídica
