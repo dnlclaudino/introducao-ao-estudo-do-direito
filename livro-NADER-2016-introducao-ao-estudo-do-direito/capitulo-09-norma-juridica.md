@@ -222,6 +222,7 @@
        <b><a href="https://pt.wikipedia.org/wiki/Hans_Kelsen">Hans Kelsen</a><br>1881-1993<br><b>Grande Pensador</b>
     </td>
     <td valign="top">
+      <p style="text-align: center"><b>QUEM FOI HANS KELSEN ?</b></p>
       <p><b>Hans Kelsen</b> foi um jurista e filósofo austríaco.</p>
       <p style="text-align: justify">No ocidente, especialmente nos países europeus e latino-americanos, é considerado um dos mais importantes e influentes estudiosos do Direito e o principal representante da chamada Escola Normativista do Direito, ramo da Escola Positivista.</p>
       <p style="text-align: justify">Por volta de 1940, a reputação de Kelsen já estava bem estabelecida nos Estados Unidos, por sua defesa da democracia e pela <b>Teoria Pura do Direito</b>. A estatura acadêmica de Kelsen excedeu a teoria legal e alargou a filosofia política e teoria social. Sua influência abrange os campos da Filosofia, Direito, Sociologia, Teoria da Democracia e Relações Internacionais.</p>
@@ -255,8 +256,6 @@
 
 ### O Juízo Disjuntivo de CARLOS COSSIO
 
-### Quem foi Carlos Cossio ?
-
 <table>
   <tr>
     <td align="center">
@@ -264,6 +263,7 @@
        <b><a href="https://pt.wikipedia.org/wiki/Carlos_Cossio">Carlos Cossio</a><br>1903-1987
     </td>
     <td valign="top">
+      <p style="text-align: center"><b>QUEM FOI CARLOS COSSIO ?</b></p>
       <p style="text-align: justify"><b>Carlos Cossio</b> foi um militante universitário reformista, advogado, filósofo do Direito e professor argentino.</p>
       <p style="text-align: justify">Sua obra basilar é Ideologia e Direito, desenvolvida a partir do conceito de fenomenología de la sentencia (fenomenologia da sentença), do processo de interpretação do juiz e da compreensão do Direito, dos aspectos ideológicos e da transformação de classe do Direito liberal capitalista.</p>
       <p style="text-align: justify">Cossio aceita a Teoria Pura de Kelsen, tornando-a parte importante de sua própria teoria. Ainda assim, sempre houve tensão entre ambas as correntes.</p>
@@ -619,7 +619,7 @@ mindmap
   </tr>
 </table>
 
-- Dividem-se em:
+- Do ponto de vista da **HIERARQUIA**, as NORMAS JURÍDICAS dividem-se em:
   - Normas Jurídicas **CONSTITUCIONAIS**:
     - Estão no **PRIMEIRO PLANO** de hierarquia;
     - Provém de EMENDAS CONSTITUCIONAIS ou são originais da CONSTITUIÇÃO;
@@ -645,7 +645,7 @@ mindmap
 
 ### Quanto a SANÇÃO
 
-- Do PONTO DE VISTA da SANÇÃO, as NORMAS JURÍDICAS dividem-se em:
+- Do ponto de vista da **SANÇÃO**, as NORMAS JURÍDICAS dividem-se em:
   - Normas Jurídicas **PERFEITAS** (leges PERFECTAE):
     - Quando prevê a **NULIDADE DO ATO**, na hipótese de sua violação;
   - Normas Jurídicas **MAIS DO QUE PERFEITAS** (leges PLUS QUAM PERFECTAE):
@@ -664,17 +664,187 @@ leis.
 
 ### Quanto à QUALIDADE
 
+- De acordo com a classificação de **García Máynez**, do ponto de vista da **QUALIDADE**, as NORMAS JURÍDICAS podem ser:
+  - **POSITIVAS** ou **PERMISSIVAS**:
+    - São NORMAS JURÍDICAS que <u>permite</u> **AÇÃO** ou **OMISSÃO**;
+  - **NEGATIVAS** ou **PROIBITIVAS**:
+    - São NORMAS JURÍDICAS que <u>proibem</u> a **AÇÃO** ou **OMISSÃO**;
+
 ### Quanto às RELAÇÕES DE COMPLEMENTAÇÃO
+
+- Do ponto de vista das **RELAÇÕES DE COMPLEMENTAÇÃO**, as NORMAS JURÍDICAS podem ser:
+  - **PRIMÁRIAS**:
+    - São NORMAS JURÍDICAS que são completadas por outras (normas secundárias)
+  - **SECUNDÁRIAS**:
+    - São NORMAS JURÍDICAS que <u>complementam as normas primárias</u>;
+    - São **CLASSIFICADAS** em:
+      - De iniciação, duração e extinção da vigência;
+      - Declarativas ou explicativas;
+      - Permissivas;
+      - Interpretativas;
+      - Sancionadoras.
 
 ### Quanto à VONTADE DAS PARTES
 
+- De acordo com a classificação de **García Máynez**, do ponto de vista das **VONTADE DAS PARTES**, as NORMAS JURÍDICAS podem ser:
+  - **TAXATIVAS** ou **COGENTES**:
+    - Obrigam **INDEPENDENTEMENTE** da vontade das partes, por resguardarem os **INTERRESSES FUNDAMENTAIS da sociedade**;
+  - **DISPOSITIVAS**:
+    - Dizem respeito **APENAS** aos **INTERESSES DOS PARTICULARES**;
+    - **Admitem a NÃO ADOÇÃO** de seus preceitos, **DESDE QUE** por **VONTADE EXPRESSA** das <u>partes interessadas</u>;
+
 ### Quanto à FLEXIBILIDADE ou ARBÍTRIO DO JUIZ
+
+- As NORMAS JURÍDICAS:
+    - Apresentam, normalmente, ABSTRATIVIDADE para alcançar o maior número de casos possíveis;
+    - Apresentam **GRAUS DE ABSTRATIVIDADE**.
+
+- Do ponto de vista das **FLEXIBILIDADE**, as NORMAS JURÍDICAS podem ser:
+  - Normas **RÍGIDAS** ou **CERRADAS**:
+    - Não deixam margem à discricionariedade do juiz;
+    - Em alguns casos, **PODEM COMPROMETER A JUSTIÇA**, pois nem sempre há plena adequação da fórmula do legislador à exigência
+do caso concreto;
+      - Exemplo: Ainda convencido de que o jovem de **dezessete anos** possui discernimento e experiência, não pode considerá-lo
+**imputável criminalmente**;
+  - Normas **ELÁSTICAS** ou **ABERTAS**:
+    - Expressam **CONCEITOS VAGOS E/OU AMPLOS**, como **boa-fé objetiva**, **justa causa**, quando caberá ao juiz <u>**decidir com equidade os casos concretos**</u>;
+    - Confere-se ao julgador **CERTA MARGEM DE LIBERDADE** na definição da norma a ser aplicada;
+    - São tratadas pela doutrina também por **CLÁUSULAS GERAIS**;
+
+<table>
+  <tr>
+    <td align="center" width="100px">
+       <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-lembre-se.png?raw=true" heigh="80" width="80"><br>
+       <b>Lembre-se</b>
+    </td>
+    <td valign="top">
+     <ul>
+      <li>Uma das <b>CARACTERÍSTICAS DO CÓDIGO CIVIL DE 2002</b> é a <b>adoção de diversas NORMAS DE TIPO ABERTO</b>, que
+propiciam ao juiz uma contribuição pessoal na distribuição da justiça.</li>
+      <li>O <b>PODER DISCRICIONÁRIO</b> do juiz, nesta tarefa, <b>NÃO É ILIMITADO</b>, pois <b>deve guiar-se</b> de acordo com:</li>
+      <ul>
+        <li>O senso comum;</li>
+        <li>As regras da experiência;</li>
+        <li>A orientação jurisprudencial;</li>
+      </ul>
+     </ul> 
+    </td>
+  </tr>
+</table>
+
+- Para entender o quadr NÃO COMETA ERROS, abaixo, explicando o que são CONCEITOS JURÍDICOS INDETERMINADOS leia o art. 927 do Código Civil:
+
+> <b>Art. 927</b>. Aquele que, por ato ilícito (arts. 186 e 187), causar dano a outrem, fica obrigado a repará-lo.<br><br>
+> <b>Parágrafo único</b>. Haverá obrigação de reparar o dano, independentemente de culpa, nos casos especificados em lei, ou quando a <u>atividade normalmente desenvolvida pelo autor do dano</u> <b>IMPLICAR</b>, por sua natureza, <u><b>risco para os direitos</b></u> de outrem. (griffo nosso)<br>
+> <p style="text-align: right"><a href="https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm">Lei nº 10.406, de 10 de janeiro de 2002</a></p>
+
+<table>
+  <tr>
+    <td align="center" width="100px">
+       <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-nao-cometa-erros.png?raw=true" heigh="80" width="80"><br>
+       <b>Não Cometa Erros</b>
+    </td>
+    <td valign="top">
+    <p align="center">Distinção entre <b>CLÁUSULAS ABERTAS</b> e <b>CONCEITOS JURÍDICOS INDETERMINADOS</b></p>
+     <ul>
+      <li>Ambos contêm VAGUIDADE;</li>
+      <li>Nos <b>CONCEITOS JURÍDICOS INDETERMINADOS</b>: A vaguidade (imprecisão) está <b>APENAS</b> na <b>HIPÓTESE</b>;</li>
+      <ul>
+        <li>Exemplo: Art. 927 do Código Civil</li>
+        <ul>
+          <li>A <b>HIPÓTESE</b> é vaga/ampla/imprecisa: Atividade exercida pelo autor do dano implicar em risco para direitos de outrem (exatamente quais atividades ?)</li>
+          <li>A CONSEQUÊNCIA/DISPOSIÇÃO é precisa e específica: Caracterização da responsabilidade objetiva (a que independe de
+dolo ou culpa)</li>
+        </ul>
+      </ul>
+      <li>Nas <b>CLÁUSULAS ABERTAS</b>: A vaguidade (imprecisão) está na <b>HIPÓTESE</b> e na <b>CONSEQUÊNCIA/DISPOSIÇÃO</b>;</li>
+      <ul>
+        <li>A norma que atribui <b>FUNÇÃO SOCIAL DO CONTRATO</b> constitui <b>CLÁUSULA ABERTA</b>, pois:</li>
+         <ul>
+            <li> Deixa ao arbítrio do juiz a <b>CARACTERIZAÇÃO DA <u>HIPÓTESE</u></b> no caso concreto;</li>
+            <li> NÃO define a <b><u>DISPOSIÇÃO</u></b> ou <b><u>CONSEQUÊNCIA</u></b> (que pode ser NULIDADE ou INDENIZAÇÃO).</li>
+        </ul>
+      </ul>
+     </ul> 
+    </td>
+  </tr>
+</table>
 
 ### Quanto ao MODO DE PRESENÇA no ordenamento jurídico
 
+<table>
+  <tr>
+    <td align="center">
+       <img src="https://github.com/dnlclaudino/imagens/blob/master/pessoas/caspar-rudolf-von-ihering-1818-1892/caspar-rudolf-von-ihering-1818-1892.jpg?raw=true" heigh="80" width="80"><br>
+       <b><a href="https://pt.wikipedia.org/wiki/Rudolf_von_Ihering">Caspar Rudolf Von Ihering</a><br>1818-1892
+    </td>
+    <td valign="top">
+      <p style="text-align: center"><b>QUEM FOI RUDOLF VON IHERING ?</b></p>
+      <p style="text-align: justify"><b>Rudolf von Ihering</b> (Aurich, 22 de agosto de 1818 — Gotinga, 17 de setembro de 1892) foi um jurista alemão. Ocupa ao lado de Friedrich Karl von Savigny lugar ímpar na história do direito alemão, tendo sua obra grandemente influenciado a cultura jurídica em todo o mundo ocidental.</p>
+      <p style="text-align: justify">Conhece a escritora e feminista Auguste von Littrow, falecida em 1889, a quem dedicou a primeira edição do célebre opúsculo “A Luta pelo Direito” (em alemão: "Der Kampf ums Recht"). Que foi reeditado 12 vezes em dois anos e foi traduzida em 26 línguas, incluindo o português..</p>
+    </td>
+  </tr>
+</table>
+
+<hr>
+
+- Já vigorou a IDEIA (**JUSPOSITIVISTA**) do **PRINCÍPIO DA SUFICIÊNCIA DOS CÓDIGOS**, onde acreditava-se que esses <u>**NÃO APRESENTAVAM LACUNAS**</u>;
+- Com o tempo, a experiência foi revelando **ESPAÇOS EM BRANCO** na legislação;
+- Surgiu a **IDEIA DO DIREITO IMPLÍCITO** (Autor Rudolf Von Ihering)
+  - Clóvis Beviláqua: “... existem regras latentes, cuja aplicação se faz, por assim dizer, inconscientemente, que completam os preceitos expressamente formulados”
+
+<hr>
+
+- Do ponto de vista do **MODO DE PRESENÇA** no ordenamento jurídico, as NORMAS JURÍDICAS podem ser:
+  - Normas Jurídicas **EXPLÍCITAS**:
+    - Objetivamente definem a CONDUTA, PROCEDIMENTO ou MODELO DE ORGANIZAÇÃO;
+  - Normas Jurídicas **IMPLÍCITAS**:
+    - Complementam **FÓRMULAS** adotadas diretamente pelo legislador;
+    - Na revelação dessas normas temos **PROCEDIMENTOS DE INTEGRAÇÃO DO DIREITO**;
+      - Valiosa é a contribuição da **DOUTRINA**;
+      - Valiosa é a contribuição da **JURISPRUDÊNCIA**;
+
+<hr>
+
+- Para os adeptos do **POSITIVISMO JURÍDICO**:
+  - Seriam **deduções normativas** de princípios consagrados pelo legislador;
+- Para os **JUSNATURALISTAS**:
+  - Tais normas seriam **irradiações da ordem natural das coisas**, <u>especialmente</u> da natureza humana;
+
+<hr>
+
+- Para Nader (2011, p. XX), por **PRINCÍPIO DE COERÊNCIA LÓGICA** do sistema, que tais normas **DEVEM SER** apuradas tomando-se por paradigma os **critérios consagrados** no **código** e nas **leis**, avultando de **IMPORTÂNCIA O PROCEDIMENTO ANALÓGICO**.
+
 ### Quanto à INTELIGIBILIDADE
 
+- Do ponto de vista do **INTELIGIBILIDADE** no ordenamento jurídico, ou seja, do **processo de compreensão da norma jurídica**, as NORMAS JURÍDICAS podem ser:
+  - **NORMAS DE PERCEPÇÃO IMEDIATA**:
+    - São **diretamente assimiladas** pelo espírito cognoscente;
+    - O intérprete capta diretamente o **SENTIDO** e o **ALCANCE** da norma sem esforço intelectual;
+    - O **MÉTODO** utilizado é o **INTUITIVO**;
+    - **SE A NORMA É DE PERCEPÇÃO IMEDIATA** <u>não se justifica</u> a busca da interpretação
+      - Pelo aproveitamento de recursos metodológicos; ou
+      - Pelo Direito Comparado.
+  - **NORMAS DE PERCEPÇÃO REFLEXIVA OU MEDIATA**:
+    - O intérprete utiliza-se basicamente dos MÉTODOS **DEDUTIVO** E **INDUTIVO**;
+  - **NORMAS DE PERCEPÇÃO COMPLEXA**:
+    - Ao alcance apenas da classe (alguns) dos juristas;
+    - Daqueles que possuem **CONHECIMENTO DO SISTEMA JURÍDICO**;
+    - Daqueles que se acham **AFINADOS COM A TELEOLOGIA DOS INSTITUTOS JURÍDICOS**;
+    - O intérprete impõe toda a sua acuidade intelectual a fim de apurar o **SENTIDO** e o **ALCANCE** das normas dessa espécie;
+    - O interprete recorre:
+      - Aos princípios gerais de Direito;
+      - Aos elementos históricos;
+      - Aos elementos da lógica externa (Se revela nos usos e na organização social)
+      - Ao Direito Comparado.
+
 ## VIGÊNCIA, EFETIVIDADE, EFICÁCIA e LEGITIMIDADE da NORMA JURÍDICA
+
+- O estudo sobre a **NORMA JURÍDICA** não estará completo **se não for acompanhado** da abordagem dos atributos:
+  - Vigência;
+  - Efetividade;
+  - Eficácia (*); e
+  - Legitimidade
 
 ### Vigência da Norma Jurídica
 
