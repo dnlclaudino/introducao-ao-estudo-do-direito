@@ -848,6 +848,10 @@ dolo ou culpa)</li>
 
 ### Vigência da Norma Jurídica
 
+- Para a NORMA JURÍDICA produzir efeitos é indispensável que:
+  - Ela possua VIGÊNCIA (validade FORMAL)
+- Quando uma norma possui VIGÊNCIA é que ela ingressou no ORDENAMENTO JURÍDICO
+
 ### Efetividade da Norma Jurídica
 
 ### Eficácia da Norma Jurídica
