@@ -1,6 +1,6 @@
 # A Norma Jurídica
 
-## O conceito de norma jurídica
+## O conceito de norma jurídica[^SECAO-41]
 
 - A **NORMA JURÍDICA** é importante PORQUE:
   - É elemento essencial do **DIREITO OBJETIVO**;
@@ -59,7 +59,7 @@
   </tr>
 </table>
 
-## Instituto Jurídico
+## Instituto Jurídico[^SECAO-42]
 
 <table>
   <tr>
@@ -129,7 +129,7 @@
 
 - A **ORDEM JURÍDICA** dispõem sobre a **GENERALIDADE** das **RELAÇÕES SOCIAIS**;
 
-## ESTRUTURA LÓGICA da Norma Jurídica
+## ESTRUTURA LÓGICA da Norma Jurídica[^SECAO-43]
 
 - A visão moderna da **ESTRUTURA LÓGICA** da norma juridica foi precedida pela **distincao kantiana** dos **imperativos categoricos e hipotético**;
 - É importante, antes de compreender a **ESTRUTURA LÓGICA** atual da norma juridica, ter em mente a definição desses imperativos;
@@ -321,7 +321,7 @@
 |   3   | Técnica  | Se "**A**" é, tem que ser "**B**"                   | Ao escolher UM FIM (**A**), tem-se que adotar um MEIO (**B**)                                                                  |
 |   4   | Natural  | Se "**A**" é, é "**B**"                             | Ocorrida a CAUSA (**A**), ocorrerá o EFEITO (**B**)                                                                            |
 
-## Caracteres (Características das NORMAS JURÍDICAS)
+## Caracteres (Características das NORMAS JURÍDICAS)[^SECAO-44]
 
 - Para **Reale** (2004, p. 95)[^REALE-2004], O que efetivamente **CARACTERIZA** uma **NORMA JURÍDICA** de qualquer espécie:
   - É uma **ESTRUTURA PROPOSICIONAL ENUNCIATIVA** de uma **CONDUTA** ou **FORMA DE ORGANIZAÇÃO**;
@@ -516,7 +516,7 @@
     - “o clã mesmo pode representar esse quadro coativo (nos casos de vingança de sangue e de lutas internas), quando rege de fato, para as formas de suas reações, ordenações de qualquer índole”.
     - **Max Weber** desconsidera o **DIREITO INTERNACIONAL PÚBLICO** como **RAMO JURÍDICO**, pois “não se pode designar por direito, em realidade, uma **ordem que se encontre garantida** apenas pela expectativa da REPROVAÇÃO e das REPRESÁLIAS DOS LESIONADOS;
 
-## Classificação das Normas Jurídicas
+## Classificação das Normas Jurídicas [^SECAO-45]
 
 - Muitas são as classificações propostas por diferente autores;
 - Classificar as NORMAS JURÍDICAS:
@@ -838,7 +838,7 @@ dolo ou culpa)</li>
       - Aos elementos da lógica externa (Se revela nos usos e na organização social)
       - Ao Direito Comparado.
 
-## VIGÊNCIA, EFETIVIDADE, EFICÁCIA e LEGITIMIDADE da NORMA JURÍDICA
+## VIGÊNCIA, EFETIVIDADE, EFICÁCIA e LEGITIMIDADE da NORMA JURÍDICA[^SECAO-46]
 
 - O estudo sobre a **NORMA JURÍDICA** não estará completo **se não for acompanhado** da abordagem dos atributos:
   - Vigência;
@@ -850,24 +850,87 @@ dolo ou culpa)</li>
 
 - Para a NORMA JURÍDICA produzir efeitos é indispensável que:
   - Ela possua VIGÊNCIA (validade FORMAL)
-- Quando uma norma possui VIGÊNCIA é que ela ingressou no ORDENAMENTO JURÍDICO
+- SÓ QUANDO uma NORMA possui VIGÊNCIA é que ela ingressou no ORDENAMENTO JURÍDICO
+  - VALIDADE FORMAL = VIGÊNCIA
+  - VALIDADE FORMAL significa que a NORMA SOCIAL:
+    - Preenche os requisitos técnicos-formais;
+    - Imperativamente se impõe aos destinatários;
+    - Foi emanada do PODER LEGITIMADO;
+    - Satisfaz PRESSUPOSTOS EXTRÍNSECOS de VALIDEZ (trâmite prescrito, agente legítimo, etc.)
 
 ### Efetividade da Norma Jurídica
 
+- Efetividade é a OBSERVÂNCIA da NORMA JURÍDICA:
+  - Por seus destinatários;
+  - Pelos aplicadores do Direito;
+- A **EFETIVIDADE** <span style="background-color:red">**não é**</span> a mesma coisa que **EFICÁCIA**;
+- NORMAS JURÍDICAS são feitas para SEREM CUMPRIDAS (<span style="background-color:yellow">=**EFETIVIDADE**</span>)
+  - Busca-se sua MÁXIMA EFETIVIDADE;
+  - Em razão de fatores diversos, isto não ocorre, daí podermos falar em níveis de efetividade
+- Para o austríaco **Hans Kelsen** a **validade** da norma pressupõe a sua **efetividade**.
+
 ### Eficácia da Norma Jurídica
 
+- As normas jurídicas não são geradas por acaso, mas **VISANDO A ALCANÇAR CERTOS RESULTADOS SOCIAIS**.
+- O Direito é um processo de adaptação social;
+- O Direito elabora fórmulas (NORMAS JURÍDICAS) capaz de resolver:
+  - Problemas de convivência; e
+  - Problemas de organização da sociedade
+- <span style="background-color:green">O atributo **EFICÁCIA**</span> significa que <span style="background-color:yellow">a NORMA JURÍDICA produz, realmente, os **EFEITOS SOCIAIS PLANEJADOS** e seja **OBSERVADA SOCIALMENTE**.</span>.
+
+<center>
+<p><b>Figura:</b> Algumas características das normas relacionadas sequencialmente </p>
+
+```mermaid
+flowchart LR
+
+subgraph Vigência
+ A["A NORMA torna-se<br>de observância OBRIGATÓRIA"]
+end
+
+A-->B
+
+subgraph Efetividade
+ B["A NORMA é cumprida<br>realmente pela sociedade"]
+end
+
+B-->C
+
+subgraph Eficácia
+ C["A NORMA produz os<br>EFEITOS SOCIAIS vislumbrados<br>pelo legislador"]
+end
+
+```
+<p><b>Fonte: Própria do autor</b></p>
+</center>
+
 ### Legitimidade da Norma Jurídica
+
+- Esse atributo é objeto de estudo da FILOSOFIA DO DIREITO;
+- Para um **POSITIVISTA**, na abordagem da norma é suficiente o exame de seus **ASPECTOS EXTRÍNSECOS (VIGÊNCIA)** (= aspectos TÉCNICOS-FORMAIS).
+  - A pesquisa afeta ao **SISTEMA DE LEGITIMIDADE** seria algo **estranho à instância jurídica**
+- Via de regra, o **PONTO DE REFERÊNCIA** na pesquisa da **LEGITIMIDADE** é o exame da **FONTE** de onde emana a norma;
+  - SE a FONTE é **LEGÍTIMA**, a NORMA também será **LEGÍTIMA**;
+  - A expressão **FONTE LEGÍTIMA** depende do SISTEMA JURÍDICO ADOTADO
+    - **No CIVIL-LAW**: Seria a constituída pelos **REPRESENTANTES** escolhidos pelo povo ou então **PELO PRÓPRIO POVO**, no exercício da chamada <u>democracia direta</u>.
+    - **Em sistema jurídicos religiosos** como o ISLÃMICO: A fonte legitimadora é a DIVINA
+    - Adicionalmente, **OUTRA FONTE** poderá ser apontada como **INSTÂNCIA LEGITIMADORA**.
+    - Para um **JUSNATURALISTA**: A **NATUREZA HUMANA** como a fonte criadora dos princípios que
+configuram o **DIREITO NATURAL** e devem fornecer a estrutura básica do **DIREITO POSITIVADO**.
 
 ## Referências Bibliograficas
 
 [^MUNDO-DA-FILOSOFIA-KANT]: MUNDO DA FILOSOFIA. O que é Imperativo Categórico e Hipotético em Immanuel Kant? Disponivel em: <https://mundodafilosofia.com.br/o-que-e-imperativo-categorico-e-hipotetico-em-immanuel-kant/> Acesso em: 08 dez. 2023
 [^REALE-2004]: REALE, Miguel. Lições Preliminares de Direito. 27. ed. São Paulo: Saraiva: 2004.
 
-[^]: 41 – Mouchet y Zorraquin, Introducción al Derecho;
-[^]: 42 – Vicente Ráo, O Direito e a Vida dos Direitos; Benjamim de Oliveira Filho, Introdução à Ciência do Direito;
-[^]: 43 – Hans Kelsen, Teoria Pura do Direito; Aftalion, Olano e Vilanova, Introducción al Derecho; Miguel Reale, Lições Preliminares de
-Direito; Machado Netto, Compêndio de Introdução à Ciência do Direito;
-[^]: 44 – Alessandro Groppali, Introdução ao Estudo do Direito; Goffredo Telles Júnior, Filosofia do Direito;
-[^]: 45 – Eduardo García Máynez, Introducción al Estudio del Derecho; Machado Netto, Compêndio de Introdução à Ciência do Direito;
-[^]: 46 – Miguel Reale, Lições Preliminares de Direito; Elías Díaz, Sociología y Filosofía del Derecho; Luiz Diez Picazo, Experiencias
-Jurídicas y Teoria del Derecho; Paulo Nader, Filosofia do Direito.
+[^SECAO-41]: 41 – Mouchet y Zorraquin, Introducción al Derecho;
+
+[^SECAO-42]: 42 – Vicente Ráo, O Direito e a Vida dos Direitos; Benjamim de Oliveira Filho, Introdução à Ciência do Direito;
+
+[^SECAO-43]: 43 – Hans Kelsen, Teoria Pura do Direito; Aftalion, Olano e Vilanova, Introducción al Derecho; Miguel Reale, Lições Preliminares de Direito; Machado Netto, Compêndio de Introdução à Ciência do Direito;
+
+[^SECAO-44]: 44 – Alessandro Groppali, Introdução ao Estudo do Direito; Goffredo Telles Júnior, Filosofia do Direito;
+
+[^SECAO-45]: 45 – Eduardo García Máynez, Introducción al Estudio del Derecho; Machado Netto, Compêndio de Introdução à Ciência do Direito;
+
+[^SECAO-46]: 46 – Miguel Reale, Lições Preliminares de Direito; Elías Díaz, Sociología y Filosofía del Derecho; Luiz Diez Picazo, Experiencias Jurídicas y Teoria del Derecho; Paulo Nader, Filosofia do Direito.
