@@ -1,5 +1,3 @@
-# Livro - Introdução do Estudo do Direito
-
 <table align="right" border="0">
   <tr>
     <td align="center" valign="top">
@@ -19,6 +17,8 @@
     </td>
   </tr>
 </table><br><br><br><br><br>
+
+# Livro - Introdução do Estudo do Direito
 
 ## Como referenciar esta obra ?
 
