@@ -1,4 +1,3 @@
-# Introdução ao Estudo do Direito
 
 <table align="right" border="0">
   <tr>
@@ -14,6 +13,8 @@
     </td>
   </tr>
 </table><br><br><br><br><br>
+
+# Introdução ao Estudo do Direito
 
 Repositório para Gestão do Conhecimento da disciplina **Introdução ao Estudo do Direito**.
 
