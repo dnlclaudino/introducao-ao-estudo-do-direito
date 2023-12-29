@@ -318,11 +318,11 @@
   - A NORMA JURÍDICA apresenta com a seguinte FÓRMULA (ESQUEMA): SE "A" é, "B" deve ser, sob pena de "S"
   - Exemplo: <u>Quem é contribuinte do imposto de renda</u> (A), <u>deve apresentar declaração até determinada data</u> (B), <u>sob pena de incindir em multa</u> (S)
 
-> "A": Corresponde a SITUAÇÃO DE FATO
+> "A": Corresponde a **SITUAÇÃO DE FATO**
 > 
-> "B": Corresponde a CONDUTA EXIGIDA
+> "B": Corresponde a **CONDUTA EXIGIDA**
 > 
-> "S": Corresponde a SANSÃO aplicável, na eventualidade do não cumprimento de "B"
+> "S": Corresponde a **SANSÃO** aplicável, na eventualidade do não cumprimento de "B"
 
 ### Quadro das ESTRUTURAS LÓGICAS
 
