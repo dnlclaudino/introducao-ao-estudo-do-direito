@@ -13,9 +13,7 @@
       </a>
     </td>
     <td align="center" valign="top">
-      <a href="https://github.com/dnlclaudino/introducao-ao-estudo-do-direito#readme">
         <img src="https://github.com/dnlclaudino/imagens/blob/master/icones-aplicativos/pdf/pdf.png?raw=true" heigh="60" width="60"><br>Baixar em PDF
-      </a>
     </td>
   </tr>
 </table><br><br><br><br><br>
