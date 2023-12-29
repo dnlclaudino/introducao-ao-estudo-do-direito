@@ -54,7 +54,7 @@ NADER, Paulo. Introdução ao Estudo do Direito. Rio de Janeiro:Forense, 2016.
 
 ### PARTE IV - FONTES DO DIREITO
 
-#### Capítulo 14 - A LEI
+#### [Capítulo 14 - A LEI](./capitulo-14-a-lei.md)
 #### Capítulo 15 - DIREITO COSTUMEIRO
 #### Capítulo 16 - O DESUSO DAS LEIS
 #### Capítulo 17 - JURISPRUDÊNCIA
