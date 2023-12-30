@@ -307,6 +307,39 @@
 
 ### Lei em Sentido Estrito
 
+<table id="quadro-definicao-lei-em-sentido-estrito">
+  <tr>
+    <td align="center" width="140px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-definicao.png?raw=true" heigh="80" width="80"><br>
+      <b>Definição</b>
+    </td>
+    <td valign="top">
+     <p>A LEI <b>em sentido ESTRITO</b> é definida como:</p>
+     <ul>
+       <li>Regra <b>COMUM</b> e <b>OBRIGATÓRIA</b>;</li>
+       <li>Emanada do <b>PODER LEGISLATIVO</b>, no âmbito de sua competência;</li>
+       <li>Possuindo as <b>CARACTERÍSTICAS</b>:</li>
+       <ul>
+         <li><b>SUBSTANCIAIS</b>: Reunião de <b>características GERAIS</b> das <b>NORMAS JURÍDICAS</b>:</li>
+         <ul>
+           <li><b>Generalidade</b>: Tem a ver com as <b>pessoas</b>. A lei alcança todos os que se acham em <b>igual situação jurídica</b></li>
+           <li><b>Abstratividade</b>: Tem a ver com as situações. A lei é uma norma jurídica que alcança o <b>maior número possível de situações</b>. Ela regula os <b>casos/fatos como ocorrem, via de regra</b>, dentro do seu <b>denominador comum</b>. O contrário da abstratividade é a causuística, ou seja, em todas as variações e matizes. Se a lei perdesse a abstratividade não seria possível regular TODOS os casos/fatos como possivelmente poderiam ocorrer. Existem NORMAS JURÍDICAS que não possuem abstração (normas INDIVIDUAIS e CONCRETAS).</li>
+           <li><b>Imperatividade</b>: É característica essencial de TODA NORMA JURÍDICA.Apresenta-se como uma EXIGÊNCIA e/ou DETERMINAÇÃO. Significa IMPOSIÇÃO DE VONTADE. Não é um MERO ACONSELHAMENTO. (Veja também: normas declarativas, explicativas, preceptivas, proibitivas, assim como normas primárias e secunárias)</li>
+           <li><b>Coercibilidade</b>: É característica essencial da TODA NORMA JURÍDICA. Prevê a possibilidade de uso da força, caso necessário</li>
+         </ul>
+         <li><b>FORMAIS</b></li>
+         <ul>
+           <li>Forma <b>ESCRITA</b></li>
+           <li>Emanada do <b>PODER LEGISLATIVO</b>, em <b>PROCESSO DE FORMAÇÃO <u>REGULAR</u></b></li>
+           <li><b>PROMULGADA</b></li>
+           <li><b>PUBLICADA</b></li>
+         </ul>
+       </ul>
+     <ul>
+    </td>
+  </tr>
+</table>
+
 ### Lei em Sentido Formal e em Sentido Formal-Material
 
 ### Lei Substantiva e Lei Adjetiva
