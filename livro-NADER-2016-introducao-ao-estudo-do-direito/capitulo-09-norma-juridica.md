@@ -20,14 +20,14 @@
 
 ## O conceito de norma jurídica[^SECAO-41]
 
-- A **NORMA JURÍDICA** é importante PORQUE:
+- A **NORMA JURÍDICA** **<u>É IMPORTANTE</u>** PORQUE:
   - É elemento essencial do **DIREITO OBJETIVO**;
-  - É ponto culminante no **processo de elaboração do Direito**;
-  - É ponto de partida para **Dogmática Jurídica** sistematizar e descrever a ORDEM JURÍDICA vigente;
+  - É ponto culminante no **PROCESSO DE ELABORAÇÃO DO DIREITO**;
+  - É ponto de partida para **Dogmática Jurídica** sistematizar e descrever a **ORDEM JURÍDICA** vigente;
 - **CONHECER o Direito** é CONHECER as **NORMAS JURÍDICAS**:
   - Em seu **ENCADEAMENTO LÓGICO**;
   - Em seu **ENCADEAMENTO SISTEMÁTICO**;
-- Segundo **NADER (2011, p 83)**, as **NORMAS JURÍDICAS**, também chamadas de **regras jurídicas**, estão para o Direito, assim como as células estão para os organismos vivos;
+- Segundo **NADER (2011, p. 83)**, as **NORMAS JURÍDICAS**, também chamadas de **regras jurídicas**, estão para o Direito, assim como as células estão para os organismos vivos;
 - O **Direito Positivo** deve expressar-se de forma **PRÁTICA** para promover a **ORDEM SOCIAL**, ou seja:
   - Deve REVELAR-SE mediante **NORMAS ORIENTADORAS de CONDUTAS INTERINDIVIDUAIS**;
 - Para se **ALCANÇAR O EQUILÍBRIO EM SOCIEDADE**:
@@ -45,12 +45,12 @@
     <td valign="top">
       <span style="background-color:yellow">A <b>NORMA JURÍDICA</b> é</span>
       <ul>
-        <li>A CONDUTA exigida; ou</li>
-        <li>O MODELO imposto de organização social</li>
-        <li>O Padrão de conduta;</li>
-        <li>O Padrão de organização social;</li>
-        <li>A Fórmula de agir;</li>
-        <li>A determinação que fixa pauta(s) de como será o <b>COMPORTAMENTO INTERINDIVIDUAL</b>;</li>
+        <li>A CONDUTA exigida;</li>
+        <li>Um MODELO imposto de organização social;</li>
+        <li>Um padrão de conduta;</li>
+        <li>Um padrão de organização social;</li>
+        <li>Uma fórmula de agir;</li>
+        <li>Uma determinação que fixa PAUTA(S) de como será o <b>COMPORTAMENTO INTERINDIVIDUAL</b>;</li>
       </ul>
     </td>
   </tr>
@@ -68,7 +68,7 @@
        <b>Não Cometa Erros</b>
     </td>
     <td valign="top">
-      Norma jurídica <span style="background-color:yellow"><b>NÃO É</b> a mesma coisa que LEI.</span><br>A Lei é apenas um das formas de expressão da NORMA JURÍDICA.<br>Em alguns países, inclusive, as <b>NORMAS JURÍDICAS</b> se manifestam também:</b>
+      <span style="background-color:yellow"><b>NORMA JURÍDICA <u>NÃO É</u></b> a mesma coisa que <b>LEI</b>.</span><br>A LEI é apenas <u><b>UM DAS FORMAS DE EXPRESSÃO</b></u> da <b>NORMA JURÍDICA</b>.<br>Em alguns países, inclusive, as <b>NORMAS JURÍDICAS</b> se manifestam também:</b>
        <ul>
          <li> Pelo <b>DIREITO COSTUMEIRO</b>; e</li>
          <li> Pela <b>JURISPRUDÊNCIA</b></li>
@@ -88,11 +88,14 @@
     <td valign="top">
       <b>INSTITUTO JURÍDICO</b>:
       <ul>
-        <li>É a reunião de NORMAS JURÍDICAS afins;</li>
+        <li>É a reunião de <u><b>NORMAS JURÍDICAS afins</b></u>;</li>
         <ul>
           <li>Que rege:
-          <ul><li>Um TIPO DE RELAÇÃO SOCIAL</li><li>Um TIPO DE INTERESSE</li></ul>
-          <li>Se identifica pelo FIM que procura realizar</li>
+          <ul>
+            <li>Um <b>TIPO DE RELAÇÃO SOCIAL</b></li>
+            <li>Um <b>TIPO DE INTERESSE</b></li>
+          </ul>
+          <li>Se identifica pelo <b>FIM que procura realizar</b></li>
         </ul>  
       </ul>
     </td>
