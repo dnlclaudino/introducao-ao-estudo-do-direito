@@ -36,6 +36,24 @@
 
 ### Etimologia do Vocábulo Lei
 
+- A palavra lei possui origem em **TRÊS** possíveis verbos:
+  - **LEGERE (Ler)**
+    - Os antigos tinham o costume de
+      - Se REUNIR em local ou praça pública;
+      - Nesse local, AFIXAVAM cópias das leis para LEITURA e COMENTÁRIO de novos atos;
+  - **LIGARE (Ligar)**
+    - Refere-se a característica da BILATERALIDADE da NORMA JURÍDICA;
+    - A NORMA JURÍDICA e a LEI <u>VINCULAM</u> / <u>LIGAM</u> duas ou mais pessoas;
+    - A lei atribui
+      - A uma das pessas o PODER DE EXIGIR;
+      - A outra(s) pessoa(s) UM DEVER DE AGIR;
+  - **ELIGERE (Escolher)**
+    - Refere-se a ESCOLHA DO LEGISLADOR;
+    - É feita uma ESCOLHA dentre as VÁRIAS <u>PROPOSIÇÕES NORMATIVAS</u> POSSÍVEIS para tornar-se LEI;
+- Segundo o **imperador CÍCERO**, a origem da palavra LEI provém do verbo **ELIGERE (Escolher)**;
+- Para **SÃO TOMAS DE AQUINO**, a palavra LEI provém do verbo **LIGARE (Ligar)**, porque OBRIGA A AGIR
+- Para **Isodoro de Servilha**, a palavra LEI provém do verbo **LEGERE (Ler)** porque está escrita;
+
 ### Lei em Sentido Amplo
 
 <table id="quadro-definicao-lei-em-sentido-amplo">
@@ -316,23 +334,26 @@
     <td valign="top">
      <p>A LEI <b>em sentido ESTRITO</b> é definida como:</p>
      <ul>
-       <li>Regra <b>COMUM</b> e <b>OBRIGATÓRIA</b>;</li>
+       <li>Preceito <b>COMUM</b> e <b>OBRIGATÓRIA</b>;</li>
        <li>Emanada do <b>PODER LEGISLATIVO</b>, no âmbito de sua competência;</li>
-       <li>Possuindo as <b>CARACTERÍSTICAS</b>:</li>
+       <li>Que possui <b>CARACTERÍSTICAS</b> <b>formais</b> e <b>substanciais</b>:</li>
        <ul>
-         <li><b>SUBSTANCIAIS</b>: Reunião de <b>características GERAIS</b> das <b>NORMAS JURÍDICAS</b>:</li>
+         <li>São características <b>SUBSTANCIAIS</b> das leis:</li>
          <ul>
-           <li><b>Generalidade</b>: Tem a ver com as <b>pessoas</b>. A lei alcança todos os que se acham em <b>igual situação jurídica</b></li>
-           <li><b>Abstratividade</b>: Tem a ver com as situações. A lei é uma norma jurídica que alcança o <b>maior número possível de situações</b>. Ela regula os <b>casos/fatos como ocorrem, via de regra</b>, dentro do seu <b>denominador comum</b>. O contrário da abstratividade é a causuística, ou seja, em todas as variações e matizes. Se a lei perdesse a abstratividade não seria possível regular TODOS os casos/fatos como possivelmente poderiam ocorrer. Existem NORMAS JURÍDICAS que não possuem abstração (normas INDIVIDUAIS e CONCRETAS).</li>
-           <li><b>Imperatividade</b>: É característica essencial de TODA NORMA JURÍDICA.Apresenta-se como uma EXIGÊNCIA e/ou DETERMINAÇÃO. Significa IMPOSIÇÃO DE VONTADE. Não é um MERO ACONSELHAMENTO. (Veja também: normas declarativas, explicativas, preceptivas, proibitivas, assim como normas primárias e secunárias)</li>
-           <li><b>Coercibilidade</b>: É característica essencial da TODA NORMA JURÍDICA. Prevê a possibilidade de uso da força, caso necessário</li>
+           <li>A reunião de <b>características GERAIS</b> das <b>NORMAS JURÍDICAS</b>:</li>
+           <ul>
+             <li><b>GENERALIDADE</b>: Tem a ver com as <b>pessoas</b>. A lei alcança todos os que se acham em <b>igual situação jurídica</b></li>
+             <li><b>ABSTRATIVIDADE</b>: Tem a ver com as situações. A lei é uma norma jurídica que alcança o <b>maior número possível de situações</b>. Ela regula os <b>casos/fatos como ocorrem, via de regra</b>, dentro do seu <b>denominador comum</b>. O contrário da abstratividade é a causuística, ou seja, em todas as variações e matizes. Se a lei perdesse a abstratividade não seria possível regular TODOS os casos/fatos como possivelmente poderiam ocorrer. Existem NORMAS JURÍDICAS que não possuem abstração (normas INDIVIDUAIS e CONCRETAS).</li>
+             <li><b>IMPERATIVIDADE</b>: É característica essencial de TODA NORMA JURÍDICA.Apresenta-se como uma EXIGÊNCIA e/ou DETERMINAÇÃO. Significa IMPOSIÇÃO DE VONTADE. Não é um MERO ACONSELHAMENTO. (Veja também: normas declarativas, explicativas, preceptivas, proibitivas, assim como normas primárias e secunárias)</li>
+             <li><b>COERCIBILIDADE</b>: É característica essencial da TODA NORMA JURÍDICA. Prevê a possibilidade de uso da força, caso necessário</li>
+           </ul>
          </ul>
-         <li><b>FORMAIS</b></li>
+         <li>São características <b>FORMAIS</b> das leis:</li>
          <ul>
-           <li>Forma <b>ESCRITA</b></li>
            <li>Emanada do <b>PODER LEGISLATIVO</b>, em <b>PROCESSO DE FORMAÇÃO <u>REGULAR</u></b></li>
-           <li><b>PROMULGADA</b></li>
-           <li><b>PUBLICADA</b></li>
+           <li>Forma <b>ESCRITA</b></li>
+           <li><b>PROMULGADA</b>: Consiste na declaração formal da existência da lei</li>
+           <li><b>PUBLICADA</b>: É ato indispensável, feita por órgão oficial, para que a lei ENTRE EM VIGOR (passe a ser exigível)</li>
          </ul>
        </ul>
      <ul>
@@ -340,9 +361,99 @@
   </tr>
 </table>
 
+#### A Lei para os romanos
+
+- A LEI:
+  - É o que o povo ordena e constitui;
+  - É o preCEITO COMUM;
+
+#### A Lei para Tómas de Aquino
+
+- A LEI:
+  - É preceito racional orientado para o bem comum e promulgado por quem tem a seu cargo os cuidados da comunidade.
+
+#### A Lei para Crisipo, o estoico
+
+- A **LEI**:
+  - É a **rainha (governa)** de todas as coisas, divinas e humanas/
+  - É **critério** do justo e do injusto/
+  - É **preceptora** do que se deve fazer
+  - É **proibidora** do que não se deve fazer;
+
+#### A Lei para Isidoro de Servilha (As virtudes da Lei)
+
+- De acordo com a obra _Etimologias (V, 21)_, a **LEI** há de ser:
+  - Honesta;
+  - Justa;
+  - Possível;
+  - Adequada à natureza;
+  - Adequada aos costumes;
+  - Conveniente no tempo;
+  - Necessária;
+  - Proveitosa;
+  - Clara (sem obscuridade que ocasione dúvida);
+  - Estatuída para utilidade comum dos cidadãos e não para benefício particular;
+
+<table border="1" id="quadro-recurso-audio-visual-filme-guia-do-mochileiro-das-galaxias-qual-o-sentido-da-vida">
+  <tr>
+    <td align="center" width="180px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-youtube.png?raw=true" heigh="60" width="60">
+    </td>
+    <td valign="top">
+     <p style="text-align:center"><b>QUEM FOI ISIDORO DE SERVILHA ?</b></p>
+     <p><b>Vídeo</b>: <a href="https://www.youtube.com/watch?v=8OA8augEDhM"> História de Isidoro de Servilha, 555 d.C. a 636 d.C. - Padroeiro dos Historiadores</a></p>
+    </td>
+  </tr>
+</table>
+
+<center>
+
+ <span style="text-align:center"><b>Fonte</b>: Canal EXPEDIÇÃO 19. História de Santo Isidoro de Sevilha (555 - 636) - Padroeiro dos Historiadores e Doutor da Igreja. YouTube, 4 de abr. de 2018.[^EXPEDICAO-2023]</span>
+
+ </center>
+
+#### A Lei para Montesquieu
+
+- A **LEI**:
+  - É a **relação necessária**, derivada da natureza das coisas;
+
 ### Lei em Sentido Formal e em Sentido Formal-Material
 
-### Lei Substantiva e Lei Adjetiva
+- Em **SENTIDO FORMAL**:
+  - A lei é o instrumento que atende apenas a REQUISITOS FORMAIS (processo regular de formação, poder competente);
+  - É a lei que <u>NÃO POSSUI</u> pelo menos um dos ELEMENTOS SUBSTANCIAIS de conteúdo, TAL COMO:
+    - GENERALIDADE
+    - SANÇÃO
+    - CARECER DE SUBSTÂNCIA JURÍDICA
+      - Na Revolução Francesa (1889), a Assembleia Nacional promulgava uma lei que **declarava a existência de Deus** e a **imortalidade da alma**;
+- Em **SENTIDO FORMAL-MATERIAL**
+  - A lei possui <b>CARACTERÍSTICAS</b> <b>formais</b> e <b>substanciais</b>
+
+### Lei Substantiva, Lei Adjetiva e os INSTITUTOS UNOS
+
+- **Lei SUBSTANTIVA** ou **Lei MATERIAL**
+  - É a lei que reune normas de conduta social;
+  - É a lei que define os direito e deveres das pessoas em suas relações de vida;
+  - Normalmente, é a **LEI PRINCIPAL** que **<u>deve ser conhecida POR TODOS</u>**;
+  - São normalmente leis de **natureza SUBSTANTIVA** ou **MATERIAL**, as relativas ao:
+    - Direito Civil;
+    - Direito Penal;
+    - Direito Comercial;
+    - etc.
+- **Lei ADJETIVA** ou **Lei FORMAL**
+  - Consiste em um **agrupamento de regras** que **DEFINEM** os **PROCEDIMENTOS** a serem cumpridos no ANDAMENTO DE QUESTÕES FORENSES;
+  - É de natureza INSTRUMENTAL e o seu conhecimento é necessário SOMENTE ÀQUELES que participam das AÇÕES JUDICIAIS:
+    - Advogados;
+    - Promotores;
+    - Juízes;
+    - Serventuários;
+    - etc.
+  - São normalmente leis de **natureza ADJETIVA** ou **FORMAL**, as relativas ao:
+    - Direito Processual (Civil e Penal)
+- **Leis que REÚNEM normas SUBSTANTIVAS <u>E</u> ADJETIVAS**
+  - São chamadas de <u>**INSTITUTOS UNOS**</u>;
+  - Exemplo(s):
+    - Lei de Falências 
 
 ### Leis de Ordem Pública
 
@@ -387,3 +498,5 @@
 [^BRASIL-2018]: BRASIL. Presidência Da República. **Manual de Redação da Presidência da República**. 3.ed. Brasília: Presidência da República, 2018
 
 [^MEIRELLES-2013]: MEIRELLES, Hely Lopes. **Direito Administrativo**. 39. ed. São Paulo: Malheiros, 2013
+
+[^EXPEDICAO-2023]: CANAL EXPEDIÇÃO. História de Santo Isidoro de Sevilha (555 - 636) - Padroeiro dos Historiadores e Doutor da Igreja. YouTube, 4 de abr. de 2018. Disponível em: https://www.youtube.com/watch?v=8OA8augEDhM Acesso em: 05 de jan. 2024
