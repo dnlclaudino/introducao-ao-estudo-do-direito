@@ -457,25 +457,312 @@
 
 ### Leis de Ordem Pública
 
+- Leis de ORDEM PÚBLICA
+  - Reunem **PRECEITOS** de **importância fundamental** para
+    - **Equilíbrio** da sociedade;
+    - **Segurança** da sociedade;
+  - Disciplina os **FATOS** de **maior relevo** ao **BEM-ESTAR** da **coletividade**;
+  - Tutela **INTERESSES fundamentais** da sociedade;
+  - Prevalece **independentemente** da **VONTADE DAS PARTES** (É COGENTE);
+  - Se **SOBRELEVA** a **OPINIÃO** de todos, inclusive daqueles a quem beneficia;
+
+<table border="1" id="quadro-lembre-se">
+  <tr>
+    <td valign="top" align="center" width="140px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-brocardo-juridico.png?raw=true" heigh="80" width="80"><br>
+      <b>Brocardo Jurídico</b>
+    </td>
+    <td valign="top">
+     <p style="text-align:center"><b>Brocardo de PAPIANO</b></p>
+     <p><i>Jus publicum privatorum pactis mutari non potest.</i></p>
+     <p>Não pode o Direito Público ser substituído pelas convenções dos particulares.</p>
+    </td>
+  </tr>
+</table>
+
+<table border="1" id="quadro-exemplo-leis-de-ordem-publica">
+  <tr>
+    <td valign="top" align="center" width="140px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-exemplo.png?raw=true" heigh="80" width="80">
+    </td>
+    <td valign="top">
+     <p style="text-align:center"><b>Exemplos de Lei de Ordem Pública</b></p>
+     <p>São exemplos de <b>leis (normas) de ordem pública</b>:</p>
+     <ul>
+       <li>As <b>NORMAS</b> que dispõe sobre:</li>
+       <ul> 
+           <li>Família;</li>
+           <li>Direitos personalíssimos;</li>
+           <li>Capacidade das pessoas;</li>
+           <li>Prescrição;</li>
+           <li>Nulidade de atos;</li>
+           <li>Questões pertinentes à Segurança e à organização judiciária;</li>
+           <li>Trabalho;</li>
+           <li>Acidentes de trabalho;</li>
+           <li>Previdência;</li>
+        </ul>   
+       <li>Assim como as <b>NORMAS</b>:</li>
+       <ul>
+         <li>Constitucionais;</li>
+         <li>Administrativas;</li>
+         <li>Penais;</li>
+         <li>Processuais;</li>
+       </ul>
+     </ul>
+    </td>
+  </tr>
+</table>
+
+- Para **Nader (2010, p. 149)**:
+  - Para o **reconhecimento das leis de ordem pública** tem sido importante o papel da **JURISPRUDÊNCIA**;
+  - Entende a **DOUTRINA** que **lei de ordem pública** e **jurisprudência** devem ser **APLICADAS JUNTAS** para garantir o **EQUILÍBRO SOCIAL**;
+  - A **INTERPRETAÇÃO**:
+    - Deve ser **RESTRITA**;
+    - Utilizando **INTERPRETAÇÃO EXTENSIVA** e **ANALOGIA** <u>**NÃO SÃO**</u> admitidas;
+      - **EXCEÇÃO**: Normas que <u>não estabelecem limitações a **direitos individuais**</u> (**normas não preceptivas**) <u>**PODEM SER**</u> **INTERPRETADAS EXTENSIVAMENTE**;
+        - Exemplo: Normas que se destinam apenas à organização;
+
 ### Formação da Lei - O Processo Legislativo
+
+- O **PROCESSO LEGISLATIVO**:
+  - É estabelecido pela **CONSTITUIÇÃO FEDERAL**;
+  - Possui as seguintes subgraph B1;
+    REV-->S-->PR-->PUB
+  end:
+
+```mermaid
+flowchart LR;
+
+%% Elementos
+A("Apresentação de<br>Projeto de Lei");
+EC("Exame por Comissões");
+D("Discussão");
+APROV("Aprovação");
+REV("Revisão");
+S("Sanção");
+PR("Promulgação");
+PUB("Publicação");
+
+%% Ligações
+A-->EC-->D-->APROV-->REV-->S-->PR-->PUB
+```
 
 #### Iniciativa da Lei
 
+- A INICIATIVA de LEIS ORDINÁRIAS e LEIS COMPLEMENTARES compete:
+
+```mermaid
+mindmap
+(("Iniciativa de Leis<br>ORDINÁRIAS ou<br>COMPLEMENTARES"))
+  Qualquer Membro/Comissão da **Câmara de Deputados**
+  Qualquer Membro/Comissão do **Senado Federal**
+  Qualquer Membro/Comissão do **Congresso Nacional**
+  Presidente da República
+    Em regime de<br>**tramitação NORMAL**
+    Em regime de<br>**tramitação de URGÊNCIA<br>Exame CD e SF <br> em até 45d cada**
+  Supremo Tribunal Federal
+  Tribunais Superiores
+  Procurador-Geral da República
+  Aos **CIDADÃOS**
+```
+
+- Para saber mais sobre a ATIVIDADE LEGISLATIVA, consulte:
+  - No Senado Federal, a página "<a href="https://www.senado.leg.br/senado/hotsites/entendaatleg/">Entenda a atividade legislativa</a>"
+
 #### Exame pelas Comissões Técnicas, Discussões e Aprovação
+
+- Após a **APRESENTAÇÃO DO PROJETO DE LEI**:
+  - O projeto tramita pode diversas **comissões parlamentares**
+    - Conforme a pertinência entre seu **OBJETO** e as **ATRIBUIÇÕES DA COMISSÃO**
+
+<table border="1" id="quadro-confira-comissoes-do-senado-federal">
+  <tr>
+    <td align="center" width="140px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-verifique.png?raw=true" heigh="80" width="80"><br>
+      <b>Verifique</b>
+    </td>
+    <td>
+     <p style="text-align:center"><b>Comissões no SENADO FEDERAL</b></p>
+     <p>O SENADO FEDERAL possui comissões PERMANENTES e TEMPORÁRIAS, com funções LEGISLATIVAS e FISCALIZADORAS. É nas comissões que se estuda a conveniência de uma proposta legislativa e onde ocorrem debates que contam com a participação da sociedade. Atualmente, existem <b>17 comissões permanentes</b> no SENADO FEDERAL.</p>
+     <p>Existem <b>QUATRO TIPOS</b> de comissões no SENADO FEDERAL:</p>
+     <ul>
+       <li>Comissões Permanentes</li>
+       <li>Comissões Temporárias</li>
+       <li>Comissões Mistas</li>
+       <li>Comissões Permanentes de Inquérito (CPIs)</li>
+    </ul>
+     <p>Além das <b>COMISSÕES</b> existem as <b>SUBCOMISSÕES</b> com atribuições regulamentadas pelo <a href="">TÍTULO VI - DAS COMISSÕES, CAPÍTULO I-DAS COMISSÕES PERMANENTES E TEMPORÁRIAS (arts. 71 a 153) no REGIMENTO INTERNO do Senado Federal</a></p>
+     <p>Para mais informações sobre TODAS as comissões, consulte a página de <a href="https://legis.senado.leg.br/comissoes/pesquisa_comissao?casa=sf&tipo=prm&sit=func,aguard">Pesquisa Comissões do Senado Federal</a>.</p>
+    </td>
+  </tr>
+</table>
+
+<table border="1" id="quadro-confira-comissoes-da-camara-dos-deputados">
+  <tr>
+    <td align="center" width="140px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-verifique.png?raw=true" heigh="80" width="80"><br>
+      <b>Verifique</b>
+    </td>
+    <td>
+     <p style="text-align:center"><b>Comissões na CÂMARA DE DEPUTADOS</b></p>
+     <p>A CÂMARA DE DEPUTADOS possui comissões PERMANENTES e TEMPORÁRIAS, com funções LEGISLATIVAS e FISCALIZADORAS. É nas comissões que se estuda a conveniência de uma proposta legislativa e onde ocorrem debates que contam com a participação da sociedade. Atualmente, existem <b>30 comissões permanentes</b> na CÂMARA DE DEPUTADOS.</p>
+     <p>Existem <b>QUATRO TIPOS</b> de comissões na CÂMARA DE DEPUTADOS:</p>
+     <ul>
+       <li>Comissões Permanentes</li>
+       <li>Comissões Temporárias</li>
+       <li>Comissões Mistas</li>
+       <li>Comissões Permanentes de Inquérito (CPIs)</li>
+    </ul>
+     <p>Além das <b>COMISSÕES</b> existem as <b>SUBCOMISSÕES</b> com atribuições regulamentadas pelo <a href="https://www2.camara.leg.br/atividade-legislativa/legislacao/regimento-interno-da-camara-dos-deputados">TÍTULO II
+DOS ÓRGÃOS DA CÂMARA, CAPÍTULO IV - DAS COMISSÕES (arts. 22 a 64) no REGIMENTO INTERNO da CÂMARA DE DEPUTADOS</a></p>
+     <p>Para mais informações sobre TODAS as comissões, consulte a página de <a href="https://www.camara.leg.br/comissoes">Comissões da CÂMARA DE DEPUTADOS</a>.</p>
+    </td>
+  </tr>
+</table>
+
+<table border="1" id="quadro-verifique-comissoes-do-congresso-nacional">
+  <tr>
+    <td valign="top" align="center" width="140px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-verifique.png?raw=true" heigh="80" width="80"><br>
+      <b>Verifique</b>
+    </td>
+    <td valign="top">
+     <p style="text-align:center"><b>Comissões do CONGRESSO NACIONAL</b></p>
+     <p>Para conhecer as comissões, consulte o <a href="https://www25.senado.leg.br/documents/59501/97171143/RCCN.pdf">TÍTULO III – DAS COMISSÕES MISTAS (art. 9º a art. 21) do REGIMENTO COMUM do Congresso Nacional</a></p>
+    </td>
+  </tr>
+</table>
 
 #### Revisão do Projeto
 
-#### Sansão
+- Os **projetos de lei**
+  - Podem ser apresentados na CÂMARA DE DEPUTADOS ou no SENADO FEDERAL;
+  - Iniciados em uma casa, serão revisados por outra e vice-versa;
+  - Encaminhados pelo **presidente da republica**, **STF** e **tribunais superiores** <u>serão apreciadas **primeiramente**</u> pela **CÂMARA DE DEPUTADOS**;
+  - Se APROVADOS na CASA REVISORA:
+    - Deverão ser encaminhados para PRESIDÊNCIA DA REPÚBLICA para:
+      - Sanção;
+      - Promulgação; e
+      - Publicação.
+  - Se REJEITADOS na CASA REVISORA:
+    - Serão ARQUIVADOS, só permitindo nova apreciação em **nova legislatura**
+  - Se EMENDADOS na CASA REVISORA:
+    - Deverão VOLTAR a CASA DE ORIGEM
+      - Se **FOR ADMITIDA** a **EMENTA**
+        - Para nova apreciação;
+      - Se **<u>NÃO</u> FOR ADMITIDA** a **EMENTA**
+        - Deverão ser ARQUIVADOS, só permitindo nova apreciação em **nova legislatura**;
+
+#### Sanção
+
+- Significa **<u>CONCORDÂNCIA</u>** do **CHEFE DO EXECUTIVO** com o **projeto de lei** aprovado no **LEGISLATIVO**;
+- É **ATO <u>EXCLUSIVO</u>** do **CHEFE DO EXECUTIVO** (Presidente da república, governador e prefeito);
+- <span style="background-color: yellow">O **CHEFE DO EXECUTIVO**</span>:
+  - <span style="background-color: yellow">Possui **PRAZO** de **15 dias** para</span>:
+    - **SANCIONAR** o projeto de lei;
+    - **VETAR** o projeto de lei;
+  - <span style="background-color: yellow">O **PRAZO** é contado a partir da <u>aprovação</u> do **projeto de lei** pelo **LEGISLATIVO**</span>;
+- Existem **DOIS TIPOS DE SANÇÃO**:
+  - EXPRESSA
+    - Quando a CONCORDÂNCIA <u>**É**</u> declarada **dentro do PRAZO**;
+  - TÁCITA
+    - Quando transcorrido o **PRAZO** (15d), <u>**NÃO HÁ**</u> manifestação expressa do **CHEFE DO EXECUTIVO**;
+- Na **HIPÓTESE DE VETO**, o CONGRESSO NACIONAL:
+  - Tem <u>**ATÉ 30 DIAS**</u> para **apreciar o VETO**;
+    - <u>**OCORRENDO</u> APRECIAÇÃO** DENTRO dos 30 dias:
+      - O **VETO** pode ser **REJEITADO**, em escrutínio SECRETO, <u>por maioria ABSOLUTA</u> de DEPUTADOS e SENADORES;
+        - Deverá ser encaminhado para **PROMULGAÇÃO**:
+          - <u>**Em até 48h**</u> pelo **PRESIDENTE DA REPÚBLICA**;
+          - Caso o **PRESIDENTE DA REPÚBLICA** não promulgue a lei, <u>em até 48h</u>, caberá ao **PRESIDENTE DO SENADO FEDERAL**;
+          - Caso o **PRESIDENTE DO SENADO FEDERAL** não promulgue a lei, <u>em até 48h</u>, <u>**DEVERÁ**</u> ser PROMULGADA pelo **VICE-PRESIDENTE DO SENADO FEDERAL**;
+      - O **VETO** pode ser **APROVADO**, em escrutínio SECRETO, <u>por maioria ABSOLUTA</u> de DEPUTADOS e SENADORES;
+    - <u>**NÃO OCORRENDO</u> APRECIAÇÃO** DENTRO dos 30 dias, o **VETO**:
+      - Entrará na **ORDEM DO DIA** da SESSÃO SEGUINTE do CONGRESSO NACIONAL;
+      - Entrará em **REGIME PRIORITÁRIO** no CONGRESSO NACIONAL;
+      - Será **APRECIADO (REJEITADO/APROVADO)** em escrutínio SECRETO, <u>por maioria ABSOLUTA</u> de DEPUTADOS e SENADORES
+        - Deverá ser encaminhado para **PROMULGAÇÃO** <u>**em caso de REJEIÇÃO DO VETO**</u>:
+          - <u>**Em até 48h**</u> pelo **PRESIDENTE DA REPÚBLICA**;
+          - Caso o **PRESIDENTE DA REPÚBLICA** não promulgue a lei, <u>em até 48h</u>, caberá ao **PRESIDENTE DO SENADO FEDERAL**;
+          - Caso o **PRESIDENTE DO SENADO FEDERAL** não promulgue a lei, <u>em até 48h</u>, <u>**DEVERÁ**</u> ser PROMULGADA pelo **VICE-PRESIDENTE DO SENADO FEDERAL**;
 
 #### Promulgação
 
+- A lei "**<u>NASCE</u>**" (passa a existir) com a **PROMULGAÇÃO**;
+- Consiste na **<u>DECLARAÇÃO FORMAL DE EXISTÊNCIA</u>** da lei;
+- É **<b>ATO</b>**:
+  - Do **CHEFE DO EXECUTIVO** (Presidente da república, governador e prefeito);
+  - Podendo ser, em caertos casos abordados no item [SANÇÃO](#sanção) deste capítulo, ser realizada pelo **PRESIDENTE DO SENADO FEDERAL** e **VICE-PRESIDENTE DO SENADO FEDERAL**;
+
 #### Publicação
+
+- Deverá ser feita por **ÓRGÃO OFICIAL**;
+- Relaciona-se com a **VIGÊNCIA** da lei e o início de sua **OBRIGATORIEDADE**;
+  - Existem em **DUAS SITUAÇÕES**
+    - Com a PUBLICAÇÃO da lei;
+    - Após a _**VACATIO LEGIS**_ (vacancia da lei) definida na LEI promulgada;
+      - A **VACÂNCIA DA LEI** é o período expresso nela própria entre sua **PUBLICAÇÃO** e a **DATA DE INÍCIO DE SUA <u>VIGÊNCIA</u>**;
 
 #### Lei Delegada
 
+- A ELABORAÇÃO DA LEI é COMPETÊNCIA DO PODER LEGISLATIVO;
+- Em certos casos, **PODE OCORRER** a **DELEGAÇÃO** dessa competência
+  - Do **CONGRESSO NACIONAL** para o **PRESIDENTE DA REPÚBLICA**, nos termos do <a href="https://normas.leg.br/?urn=urn:lex:br:federal:constituicao:1988-10-05;1988!art68">art. 68 da Constituição da República</a>;
+- A **DELEGAÇÃO** é feita através de **RESOLUÇÃO DO CONGRESSO NACIONAL** em que
+  - Em que **DEVE CONSTAR**:
+    - A **MATÉRIA** de seu exercício;
+    - Os **TERMOS** de seu exercício;
+  - Em que **DEVE SER**:
+    - Apreciada pelo **CONGRESSO NACIONAL** em **VOTAÇÃO ÚNICA**;
+  - Em que é **<u>VEDADA</u>** qualquer **EMENDA**;
+  - <span style="background-color: yellow">**NÃO PODE OCORRER DELEGAÇÃO**</span>:
+    - Atos de **COMPETÊNCIA EXCLUSIVA** do **Congresso Nacional**;
+    - Atos de **COMPETÊNCIA PRIVATIVA** da **Câmara dos Deputados ou do Senado Federal**;
+    - **MATÉRIA** reservada à **LEI COMPLEMENTAR**;
+    - **LEGISLAÇÃO** sobre:
+      - **Organização** do **Poder Judiciário** e do **Ministério Público**;
+      - **Carreira** do **Poder Judiciário** e do **Ministério Público**;
+      - **Garantia** dos membros do **Poder Judiciário** e do **Ministério Público**;
+      - Nacionalidade;
+      - Cidadania
+      - Direito INDIVIDUAIS;
+      - Direito POLÍTICOS; e
+      - Direito ELEITORAL;
+      - Planos plurianuais;
+      - Diretrizes orçamentárias;
+      - Orçamentos
+
 ## Obrigatoriedade da Lei
 
+- A **CONSEQUÊNCIA NATURAL** da **VIGÊNCIA DA LEI** é a sua **OBRIGATORIEDADE**;
+  - Ninguém pode ser escusar de cumprir a lei alegando que não a conhece, conforme <a href="https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1942-09-04;4657!art3">art. 3º do Decreto-lei nº 4.657/1942 (LINDB)</a>;
+    - Seja uma **presunção** ou seja uma **fição jurídica**, o fato é que todos tem o dever de cumprir as leis, independente se a conhecem ou não;
+    - Esse preceito é uma **NECESSIDADE SOCIAL**, pois visa a atender INTERESSES COLETIVO da sociedade;
+    - Em decorrência deste PRINCÍPIO?
+      - ERRO DE DIREITO não é relevante em relação aos ATOS JURÍDICOS;
+      - SALVO na hipótese em que for a sua ÚNICA CAUSA;
+      - Em **MATERIA PENAL**:
+        - A **IGNORÂNCIA DA LEI** é <u>**INESCUSÁVEL**</u>;
+        - O **ERRO <u>INEVITÁVEL</u>** sobre a **ILICITUDE DO FATO**, <u>**ISENTA DE PENA**</u>, conforme <a href="https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1940-12-07;2848!art28">art. 21, Decreto-Lei 2.848/1942 (Código Penal)</a>;
+      - Em **MATÉRIA DE CONTRAVENÇÃO PENAL**
+        - O ERRO ESCUSÁVEL sobre a IGNORÂNCIA ou COMPREENSÃO da lei prevê a NÃO APLICAÇÃO DA PENA, conforme <a href="https://normas.leg.br/?urn=urn:lex:br:federal:decreto.lei:1941-10-03;3688!art8">art. 8, Decreto-Lei 3.688/1941 (Lei de Contravenções Penais)</a>;
+
 ### Teorias sobre a Obrigatoriedade da Lei
+
+- <span style="background-color: yellow">**Por que A LEI OBRIGA ?**</span>
+  - **TEORIA DA AUTORIDADE**
+    - Proposta por **Hobbes** e **Austin**;
+    - A **lei OBRIGA** porque ela é uma **SIMPLES DECORRÊNCIA DA FORÇA**;
+    - Alguns autores (**Icílio Vanni**) ACRESCENTAM que:
+      - A lei OBRIGA porque ANTES DA FORÇA, ela DECORRE DA <u>**VONTADE POPULAR**</u>;
+  - **TEORIA DA VALORAÇÃO**
+    - A **lei OBRIGA** porque ela DECORRE de seu **CONTEÚDO ÉTICO**; 
+  - **TEORIAS CONTRATUALISTAS**
+    - A **lei OBRIGA** porque **OS QUE DEVEM OBEDECÊ-LA** concorreram para sua **FORMAÇÃO**;
+    - Nessa teoria a OBDIÊNCIA só é exigida se quem deve obedecer a lei de fato, concorreu para sua formação;
+  - **TEORIAS NEOCONTRATUALISTAS**
+    - A **lei OBRIGA** porque os que são **SUBORDINADO A LEI** a **RECONHECEM** e **ADERIRAM A ELA**;
+  - **TEORIA POSITIVISTAS**
+    - A **lei OBRIGA** porque A LEI (norma jurídica) é o último elo de uma corrente que é representada pela ORDEM JURÍDICA de uma comunidade.
 
 ## Aplicação da Lei
 
