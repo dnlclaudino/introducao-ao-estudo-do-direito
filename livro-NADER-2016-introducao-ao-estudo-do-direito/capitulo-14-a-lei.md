@@ -715,8 +715,8 @@ DOS ÓRGÃOS DA CÂMARA, CAPÍTULO IV - DAS COMISSÕES (arts. 22 a 64) no REGIME
     - Apreciada pelo **CONGRESSO NACIONAL** em **VOTAÇÃO ÚNICA**;
   - Em que é **<u>VEDADA</u>** qualquer **EMENDA**;
   - <span style="background-color: yellow">**NÃO PODE OCORRER DELEGAÇÃO**</span>:
-    - Atos de **COMPETÊNCIA EXCLUSIVA** do **Congresso Nacional**;
-    - Atos de **COMPETÊNCIA PRIVATIVA** da **Câmara dos Deputados ou do Senado Federal**;
+    - Atos de **COMPETÊNCIA <u>EXCLUSIVA</u>** do **Congresso Nacional**;
+    - Atos de **COMPETÊNCIA <u>PRIVATIVA</u>** da **Câmara dos Deputados ou do Senado Federal**;
     - **MATÉRIA** reservada à **LEI COMPLEMENTAR**;
     - **LEGISLAÇÃO** sobre:
       - **Organização** do **Poder Judiciário** e do **Ministério Público**;
@@ -766,17 +766,152 @@ DOS ÓRGÃOS DA CÂMARA, CAPÍTULO IV - DAS COMISSÕES (arts. 22 a 64) no REGIME
 
 ## Aplicação da Lei
 
+- Consiste nas **FASES DE INTERPRETAÇÃO DO DIREITO**:
+
 ### Diagnose do Fato
+
+<center>
+
+```mermaid
+flowchart LR;
+
+%% Elementos
+AN("Análise da Narrativa<br>Apresentada");
+EP("Exame das Provas<Apresentadas");
+DMF("Diagnóstico da Matéria de Fato");
+
+subgraph "1. Diagnose do Fato"
+ AN-->EP-->DMF
+end
+
+```
+</center>
 
 ### Diagnose do Direito
 
+<center>
+
+```mermaid
+flowchart LR;
+
+%% Elementos
+
+DLDF("Existe Lei Que<br>Discipline os FATOS?")
+
+%% Ligações
+subgraph "2. Diagnose do Direito<br/>Exame do Ato<br/>Legislativo"
+  DLDF
+end
+```
+</center>
+
 ### Crítica Formal
+
+<center>
+
+```mermaid
+flowchart LR;
+
+%% Elementos
+
+LTA("A Lei possui<br>todos os<br>Autógrafos?");
+TATP("Texto Aprovado<br>é igual<br>Texto Publicado");
+PFR("O Processo de Formação<br>da Lei foi Regular ?");
+
+%% Ligações
+subgraph "3. Critica Formal"
+ LTA-->TATP-->PFR
+end
+
+```
+</center>
+
+- Consiste em **VERIFICAR** se o **ATO LEGISLATIVO**
+  - Possui **<u>TODOS</u>** os **REQUISITOS DE CARÁTER FORMAL**?
+    - A Lei possui todos os Autógrafos ?
+    - Texto Aprovado é igual Texto Publicado ?
+    - O Processo de Formação da Lei foi Regular ?
+      - Projeto de Lei
+      - Exame pelas comissões
+      - Aprovação do texto do projeto
+      - Sanção
+      - Promulgação
+      - Publicação
 
 ### Crítica Substancial
 
+<center>
+
+```mermaid
+flowchart LR;
+
+%% Elementos
+VEIVE("Verificação de Elementos<br>Intrínsecos de VALIDADE<br>e EFETIVIDADE")
+
+
+%% Ligações
+subgraph "4. Critica Substancial"
+  VEIVE
+end
+```
+</center>
+
+- Consiste em verificar **ELEMENTOS INTRÍNSECOS** da **VALIDADE** e **EFETIVIDADE**:
+  - O poder legiferante era **COMPETENTE** ?
+  - A lei **é constitucional** ?
+  - A lei é de <u>NATUREZA</u> **TAXATIVA** ou **DISPOSITIVA**?
+
 ### Interpretação da Lei
 
+<center>
+
+```mermaid
+flowchart LR;
+
+%% Elementos
+RSAN("Revelar o SENTIDO e<br>o ALCANCE das<br>Normas Jurídicas")
+
+%% Ligações
+
+subgraph "5. Interpretação da Lei"
+  RSAN
+end
+```
+</center>
+
+- **<u>APÓS</u>** as ETAPAS:
+  - De verificação da **definição dos fatos**;
+  - Certificação a **existência de lei** disciplinadora
+  - Certificação a **validade formal** da lei;
+  - Certificação a **validade substancial** da lei;
+- Cabe a **INTERPRETAÇÃO** a Lei que consiste **REVELAR**:
+  - O **SENTIDO** da norma jurídica;
+  - O **ALCANCE** da norma jurídica;
+
 ### Aplicação da Lei
+
+<center>
+
+```mermaid
+flowchart LR;
+
+%% Elementos
+PFL("Projeção dos Fatos na Lei")
+
+%% Ligações
+subgraph "6. APLICAÇÃO DA LEI"
+  PFL  
+end
+```
+</center>
+
+- É UMA **FORMA DE SILOGISMO**
+- A **aplicação do Direito** é uma **OPERAÇÃO LÓGICA** (**<u>NÃO EXCLUSIVAMENTE</u> lógica !!!**)
+  - A **PREMISSA MAIOR**: Lei
+  - A **PREMISSA MENOR**: Fato
+  - A **CONCLUSÃO**:
+    - É a **SUBSUNÇÃO (PROJEÇÃO)** dos **fatos** na **lei**;
+    - É a **SENTENÇA JUDICIAL**.
 
 ## Referências Bibliográficas do Capítulo
 
