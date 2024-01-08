@@ -955,3 +955,5 @@ configuram o **DIREITO NATURAL** e devem fornecer a estrutura básica do **DIREI
 [^SECAO-45]: 45 – Eduardo García Máynez, Introducción al Estudio del Derecho; Machado Netto, Compêndio de Introdução à Ciência do Direito;
 
 [^SECAO-46]: 46 – Miguel Reale, Lições Preliminares de Direito; Elías Díaz, Sociología y Filosofía del Derecho; Luiz Diez Picazo, Experiencias Jurídicas y Teoria del Derecho; Paulo Nader, Filosofia do Direito.
+
+[^NADER-2016]: NADER, Paulo. Introdução ao Estudo do Direito. 38. ed. Rio de Janeiro:Forense, 2016.
