@@ -22,17 +22,137 @@
 
 ### Aspectos Gerais
 
+- Não existe uma UNANIMIDADE na doutrina jurídica quando se fala em FONTES DO DIREITO, principalmente em relação ao ELENCO (ENUMERAÇÃO) DAS FONTES;
+- A **palavra FONTE** provem do latim _fons_, _fontis_ que significa **nascente de água**;
+  - A fonte de um rio é o local de onde suas águas saem da terra
+  - Buscar a **fonte de uma NORMA JURÍDICA** é buscar o ponto pelo qual ela sai da **VIDA SOCIAL** para aparecer na superfício do Direito;
+- Para **Nader (2016, p. 141)**[^NADER-2016], existem **<u>TRÊS ESPÉCIES</u> DE FONTES DO DIREITO**:
+  - Fontes históricas;
+  - Fontes materiais;
+  - Fontes formais;
+
 ### Fontes Históricas
+
+- O Direito contém muitas **IDEIAS** que **<u>MUDAM</u>** **NO TEMPO** e **NO ESPAÇO**;
+- **<u>APESAR DISSO</u>**, o Direito também contém muitas **IDEIAS** e **PRINCÍPIOS** que **PERMANECEM ATRAVÉS DO TEMPO**;
+  - **<u>NOVAS FORMAS DE APLICAÇÃO</u>** desses **PRINCÍPIOS** e **IDEIAS** são realizadas pelo LEGISLADOR em razão da **EVOLUÇÃO DOS COSTUMES** e do **PROGRESSO**;
+- A **IMPORTÂNCIA DAS FONTES HISTÓRICAS** do Direito é **SIGNIFICATIVA**:
+  - Para memorização do Direito;
+  - Para melhor compreensão das normas jurídicas da atualidade;
+    - No **campo da interpretação** do Direito **<u>É FUNDAMENTAL</u>** **compreender**:
+      - A **FINALIDADE** da norma jurídica;
+      - A **ESSÊNCIA** da norma jurídica;
+      - Os **VALORES PRINCIPAIS** da norma jurídica;
+- A **DOGMÁTICA JURÍDICA** estuda o Direito a partir do **ORDENAMENTO JURÍDICO VIGENTE**;
+  - Nessa perspectiva, **o estudo do DIREITO ROMANO**, como fonte do Direito ocidental **torna-se imperativo**;
 
 ### Fontes Materiais
 
+- O Direito
+  - **<u>NÃO É</u>** um **PRODUTO ARBITRÁRIO** da vontade do **legislador**;
+  - É uma criação que TEM ORIGEM na VONTADE SOCIAL;
+- A **SOCIEDADE**:
+  - É o centro das relações de vida;
+  - É a sede dos acontecimentos que envolvem o homem;
+  - É a **CAUSA** produtora do Direito;
+  - É quem fornece ao LEGISLADOR os **ELEMENTOS NECESSÁRIOS** à **formação das NORMAS JURÍDICAS**;
+- As **FONTES MATERIAIS**:
+  - São constituídas pelos
+    - **FATOS SOCIAIS**;
+    - **FATORES DO DIREITO** (Problemas que emergem da sociedade)
+      - Moral;
+      - Economia;
+      - Geografia;
+      - etc. (para saber mais, veja o capítulo 6 - Fatores do Direito)
+  - Para **Gallo (1923, p. 180)**[^GALLO-1923], as **FONTES MATERIAIS** do Direito são:
+    - **Fontes DIRETAS**:
+      - Os órgãos elaboradores do Direito Positivo:
+        - A sociedade, no Direito Consuetudinário;
+        - O Poder Legislativo, que elabora as leis;
+        - O Judiciário que produz a jurisprudência;
+    - **Fontes INDIRETAS**:
+      - São os FATORES JURÍDICOS (para saber mais, veja o capítulo 6 - Fatores do Direito)
+
 ### Fontes Formais
+
+- As **FONTES FORMAIS**:
+  - São as formas de **EXPRESSÃO DO DIREITO**;
+  - São as formas pelas quais as **NORMAS JURÍDICAS**:
+    -  Se EXTERIORIZAM;
+    -  Se TORNAM CONHECIDAS;
+- **CRIAR O DIREITO** significa **INTRODUZIR** no ordenamento jurídico **NOVAS NORMAS JURÍDICAS**;
+- **QUEM** possui a capacidade de **CRIAR NOVAS NORMAS JURÍDICAS** ?
+  - A relação de FONTES FORMAIS varias de acordo com
+    - O **SISTEMA JURÍDICO**:
+      - Paises que seguem a **tradição ROMANO-GERMÂNICA** (Direito legislado, **Civil law**)
+      - Paises que seguem a **tradição BRITÂNICA** (Direito do caso, **Common law**)
+    - A **FASE HISTÓRICA** do sistema jurídico.
+- Para **Nader (2016, p. 143)**[^NADER-2016], existem:
+  - Fontes **FORMAIS DIRETAS**:
+    - Direito escrito (**A LEI**): A aplicação de normas jurídicas;
+    - Para Nader (2016, p. 143)[^NADER-2016], tem se admitido ainda como FONTE FORMAL do Direito, pois criam regras de Direito Objetivo:
+      - ATOS JURÍDICOS
+      - ATOS-REGRAS
+        - Não possuem generalidade;
+        - Atingem um contingente de indivíduos
+        - Exemplos:
+          - Contratos particulares;
+          - Contratos públicos;
+          - Estatutos;
+  - Fontes **INDIRETAS**:
+    - NÃO cria o Direito (normas jurídicas);
+    - Fornece SUBSÍDIOS ao jurista para compreender a norma jurídica;
+    - É a DOUTRINA;
+    - É a JURISPRUDÊNCIA;
+    - É o COSTUME (No Direito legislado, **Civil law**)
+- Para Reale (141, p. 141):
+  - Toda **FONTE DO DIREITO** pressupõe uma ESTRUTURA DE PODER:
+    - A **LEI** é a emanação do **PODER LEGISLATIVO**;
+    - O **COSTUME** (no Commom Law) é a expressão do **PODER SOCIAL**;
+    - Os **ATOS-REGRAS** é a expressão do **PODER NEGOCIAL** ou da **AUTONOMIA DA VONTADE** (FONTE NEGOCIAL)
 
 ## O Direito Romano
 
 ## Conceito e Formação da Lei
 
 ### Considerações Prévias
+
+- A **LEI**:
+  - É a fonte de produção do DIREITO POSITIVO;
+  - É ATO do PODER LEGISLATIVO (que estabelece normas de acordo com os INTERESSES SOCIAIS);
+  - NÃO constitui expressão do INTERESSE INDIVIDUAL (como no Antigo Regime, Monarquias Absolutistas)
+  - Traduz as **ASPIRAÇÕES COLETIVAS**;
+  - <span style="background-color: yellow">**<u>NÃO</u>** tem por BASE a **RAZÃO** !!!</span>;
+    - Embora seja uma **ELABORAÇÃO INTELECTUAL** que exige **TÉCNICA ESPECÍFICA**;
+  - Sua **FONTE MATERIAL**:
+    - É representada por **fatos** e **valores** **<u>sociais</u>**;
+- É através da LEI:
+  - Que a CIÊNCIA DO DIREITO poderá aperfeiçoar as INSTITUIÇÕES JURÍDICAS;
+- A **LEI**:
+  - Possui **PONTOS VULNERÁVEIS** e **CRÍTICOS**;
+  - Possui **DOIS ASPECTOS** <span style="color:white;background-color: red">**NEGATIVOS**</span>:
+    - **DECRETISMO**
+      - Significa: <span style="background-color: yellow">O EXCESSO DE LEIS</span>;
+    - **VÍCIOS DO PARLAMENTARISMO**
+      - Há no parlementarismo:
+        - O não atendimento de interesses que não são os do povo;
+        - Improdutividade em razão de discussões inúteis;
+        - O não atendimento de exigências dos tempos modernos;
+  - Para superar as DEFICIÊNCIAS da LEI, surgiu a **corrente do DIREITO LIVRE**:
+    - Pregava o VALOR RELATIVO da lei;
+    - Alguns juristas pretenderam substituir a lei:
+      - Pelo Direito científico (A DOUTRINA);
+      - Pelo Direito Judicial
+- <span style="background-color: yellow"><b>SE HÁ DEFEITOS NA PRODUÇÃO DO DIREITO MEDIANTE LEIS</b></span>:
+  - As **FALHAS**:
+    - **SERIAM MAIORES** se consagrado o **DIREITO LIVRE** ou **DECISIONISMO**;
+    - **<u>NÃO</u> SÃO** decorrentes do **PROCESSO LEGISLATIVO**;
+    - Podem ser **SUPRIMIDAS**:
+      - Mediante <span style="background-color: yellow"><b>**RACIONALIZAÇÃO DE SUAS CAUSAS**</b></span>;
+      - Pela ação positiva do **_homo juridicus_**;
+
+- As **VANTAGENS** que a lei oferece do **PONTO DE VISTA** da **SEGURANÇA JURÍDICA**:
+  - Fazem **TOLERÁVEL** um coeficiente mínimo de **DISTORÇÕES** na **ELABORAÇÃO DO <u>DIREITO OBJETIVO</u>**;
 
 ### Etimologia do Vocábulo Lei
 
@@ -110,8 +230,8 @@
 <p style="text-align:center;background-color:lightgray"><b>O QUE SÃO ?</b></p>
 
 - É uma espécie de **lei em sentido amplo** criada em 2001, pela Emenda Constitucional nº 32/2001;
-- Substituiu o **Decreto-lei** em nosso ordenamento jurídico (NADER, 2016, p. 147);
-- Foi criada pela Constituição Federal de 1988 (NADER, 2016, p. 147);
+- Substituiu o **Decreto-lei** em nosso ordenamento jurídico (NADER, 2016, p. 147)[^NADER-2016];
+- Foi criada pela Constituição Federal de 1988 (NADER, 2016, p. 147)[^NADER-2016];
 - Sofreu alterações ditadas pela:
   - [Emenda Constitucional nº 32/2021](https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc32.htm);
 - É ato de **COMPETÊNCIA** do **PODER EXECUTIVO** que, **APÓS PUBLICADA**, <u>deve ser</u> encaminhada <u>**DE IMEDIATO**</u> para o CONGRESSO NACIONAL para APRECIAÇÃO;
@@ -513,7 +633,7 @@
   </tr>
 </table>
 
-- Para **Nader (2010, p. 149)**:
+- Para **Nader (2016, p. 149)**[^NADER-2016]:
   - Para o **reconhecimento das leis de ordem pública** tem sido importante o papel da **JURISPRUDÊNCIA**;
   - Entende a **DOUTRINA** que **lei de ordem pública** e **jurisprudência** devem ser **APLICADAS JUNTAS** para garantir o **EQUILÍBRO SOCIAL**;
   - A **INTERPRETAÇÃO**:
@@ -915,10 +1035,17 @@ end
 
 ## Referências Bibliográficas do Capítulo
 
-[^PINHEIRO-1962]: PRINHEIRO, Hedésio Fernandes. **Técnica Legislativa**. 2.ed. Rio de Janeiro: Freita Bastos, 1962.
 
 [^BRASIL-2018]: BRASIL. Presidência Da República. **Manual de Redação da Presidência da República**. 3.ed. Brasília: Presidência da República, 2018
 
+[^EXPEDICAO-2023]: CANAL EXPEDIÇÃO. História de Santo Isidoro de Sevilha (555 - 636) - Padroeiro dos Historiadores e Doutor da Igreja. YouTube, 4 de abr. de 2018. Disponível em: https://www.youtube.com/watch?v=8OA8augEDhM Acesso em: 05 de jan. 2024
+
+[^GALLO-1923]:GALLO, Jorge Iván Hübner. Introducción al derecho. 6. ed. Santiago:Jurídica de Chile, 1923.
+
 [^MEIRELLES-2013]: MEIRELLES, Hely Lopes. **Direito Administrativo**. 39. ed. São Paulo: Malheiros, 2013
 
-[^EXPEDICAO-2023]: CANAL EXPEDIÇÃO. História de Santo Isidoro de Sevilha (555 - 636) - Padroeiro dos Historiadores e Doutor da Igreja. YouTube, 4 de abr. de 2018. Disponível em: https://www.youtube.com/watch?v=8OA8augEDhM Acesso em: 05 de jan. 2024
+[^PINHEIRO-1962]: PRINHEIRO, Hedésio Fernandes. **Técnica Legislativa**. 2.ed. Rio de Janeiro: Freita Bastos, 1962.
+
+[^REALE-2004]: REALE. Miguel. **Lições Preliminares de Direito**. 27. ed. São Paulo: Saraiva, 2004
+
+[^NADER-2016]: NADER, Paulo. **Introdução ao Estudo do Direito**. 38. ed. Rio de Janeiro:Forense, 2016.
