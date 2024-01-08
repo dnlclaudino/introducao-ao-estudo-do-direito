@@ -22,7 +22,7 @@
 
 ## Como referenciar esta obra ?
 
-NADER, Paulo. Introdução ao Estudo do Direito. Rio de Janeiro:Forense, 2016.
+NADER, Paulo. Introdução ao Estudo do Direito. 38. ed. Rio de Janeiro:Forense, 2016.
 
 ## Como referenciar este material ?
 
