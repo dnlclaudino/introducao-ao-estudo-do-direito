@@ -1,5 +1,3 @@
-# Capítulo 14 - A Lei
-
 <table align="right" border="0">
   <tr>
     <td align="center" valign="top">
@@ -17,6 +15,52 @@
     </td>
   </tr>
 </table><br><br><br><br><br>
+
+# Capítulo 14 - A Lei
+
+<!-- TOC -->
+
+- [Capítulo 14 - A Lei](#capítulo-14---a-lei)
+    - [Fontes do Direito](#fontes-do-direito)
+        - [Aspectos Gerais](#aspectos-gerais)
+        - [Fontes Históricas](#fontes-históricas)
+        - [Fontes Materiais](#fontes-materiais)
+        - [Fontes Formais](#fontes-formais)
+    - [O Direito Romano](#o-direito-romano)
+    - [Conceito e Formação da Lei](#conceito-e-formação-da-lei)
+        - [Considerações Prévias](#considerações-prévias)
+        - [Etimologia do Vocábulo Lei](#etimologia-do-vocábulo-lei)
+        - [Lei em Sentido Amplo](#lei-em-sentido-amplo)
+        - [Lei em Sentido Estrito](#lei-em-sentido-estrito)
+            - [A Lei para os romanos](#a-lei-para-os-romanos)
+            - [A Lei para Tómas de Aquino](#a-lei-para-tómas-de-aquino)
+            - [A Lei para Crisipo, o estoico](#a-lei-para-crisipo-o-estoico)
+            - [A Lei para Isidoro de Servilha (As virtudes da Lei)](#a-lei-para-isidoro-de-servilha-as-virtudes-da-lei)
+            - [A Lei para Montesquieu](#a-lei-para-montesquieu)
+        - [Lei em Sentido Formal e em Sentido Formal-Material](#lei-em-sentido-formal-e-em-sentido-formal-material)
+        - [Lei Substantiva, Lei Adjetiva e os INSTITUTOS UNOS](#lei-substantiva-lei-adjetiva-e-os-institutos-unos)
+        - [Leis de Ordem Pública](#leis-de-ordem-pública)
+        - [Formação da Lei - O Processo Legislativo](#formação-da-lei---o-processo-legislativo)
+            - [Iniciativa da Lei](#iniciativa-da-lei)
+            - [Exame pelas Comissões Técnicas, Discussões e Aprovação](#exame-pelas-comissões-técnicas-discussões-e-aprovação)
+            - [Revisão do Projeto](#revisão-do-projeto)
+            - [Sanção](#sanção)
+            - [Promulgação](#promulgação)
+            - [Publicação](#publicação)
+            - [Lei Delegada](#lei-delegada)
+    - [Obrigatoriedade da Lei](#obrigatoriedade-da-lei)
+        - [Teorias sobre a Obrigatoriedade da Lei](#teorias-sobre-a-obrigatoriedade-da-lei)
+    - [Aplicação da Lei](#aplicação-da-lei)
+        - [Diagnose do Fato](#diagnose-do-fato)
+        - [Diagnose do Direito](#diagnose-do-direito)
+        - [Crítica Formal](#crítica-formal)
+        - [Crítica Substancial](#crítica-substancial)
+        - [Interpretação da Lei](#interpretação-da-lei)
+        - [Aplicação da Lei](#aplicação-da-lei)
+    - [Referências Bibliográficas do Capítulo](#referências-bibliográficas-do-capítulo)
+
+<!-- /TOC -->
+
 
 ## Fontes do Direito
 
@@ -112,6 +156,87 @@
     - Os **ATOS-REGRAS** é a expressão do **PODER NEGOCIAL** ou da **AUTONOMIA DA VONTADE** (FONTE NEGOCIAL)
 
 ## O Direito Romano
+
+- Apresenta-se neste item uma **VISÃO GLOBAL** do **Direito Romano** devido a sua **importância** e **influência**
+  - Para os ORDENAMENTOS JURÍDICOS do mundo OCIDENTAL;
+    - Notadamente, no **DIREITO PRIVADO**;
+  - No ramo do DIREITO PRIVADO para compreensão de
+    - Sua ORGANIZAÇÃO;
+    - Seus PRINCÍPIOS;
+    - Suas CARACTERÍSTICAS fundamentais.
+- A CULTURA JURÍDICA DOS ROMANDOS não teria alcançado seu nivel elevado sem o apoio de uma SEGURA ORIENTAÇÃO FILOSÓFICA;
+  - Os juristas romanos receberam influência do ESTOICISMO
+    - Juristas ESTOICOS:
+      - Cícero;
+      - Sêneca
+      - Marcos Aurélio
+      - Epíteto
+  - A influência e o sucesso da repercussão da **DOUTRINA ESTÓICA** em Roma são devidos as necessidades de:
+    - Sustentar, na esfera POLÍTICA, a **ideia do ESTADO ÚNICO**;
+    - Consolidar uma **DOUTRINA ÉTICA**
+
+<table border="1" id="quadro-verifique-periodos-historicos-civilizacao-romana">
+  <tr>
+    <td valign="top" align="center" width="140px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-verifique.png?raw=true" heigh="80" width="80"><br>
+      <b>Verifique</b>
+    </td>
+    <td valign="top">
+     <p>Para melhor compreensão da <b>visão geral do Direito Romano</b> abordada neste item, verifique as duas imagens abaixo contendo (1) os principais <a href="#figura-roma-antiga-principais-periodos"><b>períodos históricos</b> da civilização romana</a> e (2) <a href="#figura-fases-direito-romano">as <b>fases do direito romano</b></a>.</p>
+    </td>
+  </tr>
+</table>
+
+<hr>
+
+<center>
+<p><b name="figura-roma-antiga-principais-periodos">Figura:</b> Roma Antiga - Principais Períodos </p>
+
+<img src="https://github.com/dnlclaudino/historia/blob/master/imagens/idade-antiga/direito-romano-fases-mais-detalhado.png?raw=true">
+
+<p><b>Fonte:</b> NOVAES, Roberto. Periodização da História e seus limites. 2024. 1 imagem no formato PNG. Disponível em: <a href="https://www.robertonovaes.com.br/index.php/2018/08/18/historia-interna-e-historia-externa-periodizacao-instituicoes-de-direito-romano/">robertonovaes.com.br</a> Acesso em: 11 jan. 2024</p>
+</center>
+
+<hr>
+
+<center>
+<p><b name="figura-fases-direito-romano">Figura:</b> Fases do Direito Romano </p>
+
+<img src="https://github.com/dnlclaudino/historia/blob/master/imagens/idade-antiga/direito-romano-fases.png?raw=true" height="350" width="550">
+
+<p><b>Fonte:</b> FACULDADE DE DIREITO UFRGS. <b>Direito Romano - Linhas do Tempo</b>. 2024. 1 imagem no formato PNG. Elaborado por: Gustavo U. Lacerda. Prof. Dalva Carmem Tonato (coord., rev.). Disponível em: <a href="https://prezi.com/p/c1yjvedsl-su/linhas-do-tempo-direito-romano/">prezi.com</a> Acesso em: 11 jan. 2024 </p>
+</center>
+
+<hr>
+
+- As referências ao **DIREITO ROMANO**:
+  - Compreendem ao **PERÍODO** entre **754 a.C.** e **565 d.C.**;
+  - Abrangem **TRÊS FASES** <u>**do Direito Romano**</u>:
+    - Direito ANTIGO ou CLÁSSICO (**754 a.C.** a **126 a.C**)
+    - Direito CLÁSSICO (**125 a.C.** a **305 d.C.**)
+    - Direito PÓS-CLÁSSICO (**306 d.C.** a **565 d.C.**)
+  - Abrangem **TRÊS FASES** <u>**da HISTÓRIA DA CIVILIZAÇÃO ROMANA**</u> na Antiguidade:
+    - Período **RÉGIO**
+      - Período: da fundação de roma ATÉ 510 a.C.;
+      - O Direito Positivado (_Jus Positum_) era o **COSTUMEIRO** e o **RELIGIOSO** (**ligado à RELIGIÃO**, conhecido como _jus fas_);
+      - Quem dizia o Direito (a Jurisdição/"Juiz") era o **PONTÍFICE** exercendo o monopólio da jurisdição;
+    - Período **REPUBLICANO**
+      - Período: 510.a.C ATÉ 27 a.C.;
+      - O **DIREITO LAICO** (direito sem a religião) e o **DIREITO RELIGIOSO**(_jus fas_) **<u>se separam</u>**;
+      - Surgimento da classe dos **JURISCONSULTOS LEIGOS**;
+    - Período do **PRINCIPADO**
+      - Período: 27 a.C. (Imperador Augusto) ATÉ 285 d.C. (Diocleciano);
+      - Período considerado como MONARQUIA ATENUADA;
+      - Conhecido como período de transição entre a REPÚBLICA e a MONARQUIA ABSOLUTA (DOMINATO);
+      - As FONTES DO DIREITO eram
+        - Os COSTUMES;
+        - Leis (em sentido estrito);
+        - Édito dos MAGISTRADOS (Éditos Pretorianos);
+        - Os SENATUS-CONSULTUM;
+        - As CONSTITUIÇÕES IMPERIAIS;
+        - As "_RESPONSA PREDENTIUM_":
+          - Eram pareceres dos JURISCULSULTOS (...)
+    - Período DOMINATO ou da MONARQUIA ABSOLUTA
 
 ## Conceito e Formação da Lei
 
@@ -319,7 +444,7 @@
         a) nacionalidade, cidadania, direitos políticos, partidos políticos e direito eleitoral;<br>
         b) direito penal, processual penal e processual civil;<br>
         c) organização do Poder Judiciário e do Ministério Público, a carreira e a garantia de seus membros;<br>
-        d) planos plurianuais, diretrizes orçamentárias, orçamento e créditos adicionais e suplementares, ressalvado o previsto no art. 167, § 3º;</p>
+        d) planos plurianuais, diretrizes orçamentárias, orçamento e créditos adicionais e suplementares, ressalvado o previsto no <a href="https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm#art167%C2%A73">art. 167, § 3º</a>;</p>
         <p>II – que vise a detenção ou seqüestro de bens, de poupança popular ou qualquer outro ativo financeiro;</p>
         <p>III – reservada a lei complementar;</p>
         <p>IV – já disciplinada em projeto de lei aprovado pelo Congresso Nacional e pendente de sanção ou veto do Presidente da República.</p>
