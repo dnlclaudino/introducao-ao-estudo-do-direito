@@ -27,6 +27,7 @@
         - [Fontes Materiais](#fontes-materiais)
         - [Fontes Formais](#fontes-formais)
     - [O Direito Romano](#o-direito-romano)
+        - [O SISTEMA ROMANO](#o-sistema-romano)
     - [Conceito e Formação da Lei](#conceito-e-formação-da-lei)
         - [Considerações Prévias](#considerações-prévias)
         - [Etimologia do Vocábulo Lei](#etimologia-do-vocábulo-lei)
@@ -228,15 +229,249 @@
       - Período: 27 a.C. (Imperador Augusto) ATÉ 285 d.C. (Diocleciano);
       - Período considerado como MONARQUIA ATENUADA;
       - Conhecido como período de transição entre a REPÚBLICA e a MONARQUIA ABSOLUTA (DOMINATO);
-      - As FONTES DO DIREITO eram
+      - As **FONTES DO DIREITO** eram
         - Os COSTUMES;
         - Leis (em sentido estrito);
-        - Édito dos MAGISTRADOS (Éditos Pretorianos);
-        - Os SENATUS-CONSULTUM;
-        - As CONSTITUIÇÕES IMPERIAIS;
-        - As "_RESPONSA PREDENTIUM_":
-          - Eram pareceres dos JURISCULSULTOS (...)
-    - Período DOMINATO ou da MONARQUIA ABSOLUTA
+        - **Édito dos MAGISTRADOS** (Éditos Pretorianos);
+        - Os **_SENATUS-CONSULTUM_**;
+        - As **CONSTITUIÇÕES IMPERIAIS**;
+        - As "**_RESPONSA PRUDENTIUM_**":
+          - Eram **pareceres** dos JURISCULSULTOS que definiam o direito;
+          - Eram o _jus publice respondendi_ (**Direito de resposta pública**);
+          - O Imperador tornava-as **obrigatórias** aos pretores a sua orientação;
+    - Período **DOMINATO** ou da **MONARQUIA ABSOLUTA**
+      - Período: 285 a.C. ATÉ 565 d.C.;
+      - Nesse período:
+        - O imperador passa a ser a única fonte do Direito;
+        - Surge a **Lei das Citas**;
+        - Surge o **_Corpus Juris Civilis_**;
+<hr>
+
+- O Direito Romano
+  - É o único que passou por **todas as fases** que um **sistema jurídico** pode expérimentar:
+    - Direito Sacerdotal;
+    - Direito das Gentes;
+    - Direito Judicial;
+    - Direito de Funcionários;
+    - Direito Legislativo;
+    - Direito Decretado pelo imperador;
+
+<hr>
+
+<p style="text-align:center;font-size:2rem;font-weight:bold">O Direito Romano</p>
+
+<table id="quadro-lista-o-direito-romano-1">
+  <tr>
+    <td valign="top" align="center" width="50px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-1.png?raw=true" heigh="40" width="40">
+    </td>
+    <td valign="top">
+     <p>Foi constituído INICIALMENTE pelo <b><u>JUS CIVILE</b></u> (Direito apenas dos cidadãos romanos);.</p>
+     <ul>
+      <li>Era constituído dos <b>constumes</b> envolvidos com <b>práticas solenes de fundo religioso</b></li>
+     </ul>
+    </td>
+  </tr>
+</table>
+
+<table id="quadro-lista-o-direito-romano-2">
+  <tr>
+    <td valign="top" align="center" width="50px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-2.png?raw=true" heigh="40" width="40">
+    </td>
+    <td valign="top">
+     <p>Foi constituído POSTERIORMENTE pelas <b>LEIS</b>:</p>
+     <ul>
+      <li>Votadas em <b>comícios</b> na <b>época republicada</b>;</li>
+      <li>Que tinham a função de <b><u>COMPLEMENTAR</u></b> as <b>NORMAS CONSUETUDINÁRIAS</b>;</li>
+      <ul>
+        <li>Suprindo <b>lacunas</b>;</li>
+        <li>Corrigindo <b>distorções</b>;</li>
+        <li>Dispor sob o <b>REGIME DE GOVERNO</b>;</li>
+      </ul>
+     </ul>
+    </td>
+  </tr>
+</table>
+
+<table id="quadro-lista-o-direito-romano-3">
+  <tr>
+    <td valign="top" align="center" width="50px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-3.png?raw=true" heigh="40" width="40">
+    </td>
+    <td valign="top">
+     <p>Quando os romanos entraram em contato <b>COM OUTROS POVOS</b>:</p>
+     <ul>
+      <li>Surgiu o <b><u>JUS GENTIUM</b></u> que:</li>
+      <ul>
+        <li>Não possuia excessos formalistas;</li>
+        <li>Era menos constumeiro;</li>
+        <li>Era mais universal;</li>
+        <li>Era destinado:</li>
+        <ul>
+          <li>Aos estrangeiros entre si;</li>
+          <li>Entre os estrangeiros os cidadãos romanos</li>
+        </ul>
+      </ul>
+     </ul>
+    </td>
+  </tr>
+</table>
+
+<table id="quadro-lista-o-direito-romano-4">
+  <tr>
+    <td valign="top" align="center" width="50px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-4.png?raw=true" heigh="40" width="40">
+    </td>
+    <td valign="top">
+     <p>Os <b>PRETORES</b>:
+     <ul>
+      <li><b><u>NÃO TINHAM</u> o poder de CRIAR o Direito</b>;</li>
+      <li><b><u>TINHAM</u> o poder de DECLARAR o Direito</b></li>
+      <li>O Direito era declarado por meio de <b><u>ÉDITOS</u></b></li>
+      <li>Os ÉDITOS mencionavam as REGRAS que aplicariam no exercício de suas funções;</li>
+      <li>Os ÉDITOS <b><u>NÃO CONTRADIZIAM</u></b> ao JUS CIVILE, mas o COMPLEMENTAVA;</li>
+     </ul>
+    </td>
+  </tr>
+</table>
+
+<table id="quadro-lista-o-direito-romano-5">
+  <tr>
+    <td valign="top" align="center" width="50px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-5.png?raw=true" heigh="40" width="40">
+    </td>
+    <td valign="top">
+      <p>O Pretor Urbano (<u>praetor urbanus</u>):</p>
+      <ul>
+        <li>Aplicava o JUS CIVILE</li>
+      </ul>
+      <p>O Pretor Peregino (<u>praetor peregrinus</u>):</p>
+      <ul>
+        <li>Decidia questões afetas aos estrangeiros;</li>
+        <li>Aplicava o JUS GENTIUM</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<table id="quadro-lista-o-direito-romano-6">
+  <tr>
+    <td valign="top" align="center" width="50px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-6.png?raw=true" heigh="40" width="40">
+    </td>
+    <td valign="top">
+      <p>O DIREITO PRETORIANO também era chamado de DIREITO HONORÁRIO (Em honra aos pretores), segundo Papiano:</p>
+      <ul>
+        <li>Introduziram os PRETORES por razões de utilidade pública;</li>
+        <li>Introduziram os PRETORES para SUPRIR ou CORRIGIR o Direito Civil;</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<table id="quadro-lista-o-direito-romano-7">
+  <tr>
+    <td valign="top" align="center" width="50px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-7.png?raw=true" heigh="40" width="40">
+    </td>
+    <td valign="top">
+      <p>O DIREITO PRETORIANO também era chamado de DIREITO HONORÁRIO (Em honra aos pretores), segundo Papiano:</p>
+      <ul>
+        <li>Introduziram os PRETORES por razões de utilidade pública;</li>
+        <li>Introduziram os PRETORES para SUPRIR ou CORRIGIR o Direito Civil;</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<table id="quadro-lista-o-direito-romano-8">
+  <tr>
+    <td valign="top" align="center" width="50px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-8.png?raw=true" heigh="40" width="40">
+    </td>
+    <td valign="top">
+      <p>O DIREITO ROMANO:</p>
+      <ul>
+        <li>Não se originou de uma única fonte;</li>
+        <li>Não resultou de um esforço isolado de uma época;</li>
+        <li>Sua FORMAÇÃO:</li>
+        <ul>
+          <li>Foi <b>LENTA</b>;</li>
+          <li>Sedimentou-se a partir das <b>Lei das XII Tábuas</b>;</li>
+          <li>Estendeu-se até o período da MONARQUIA ABSOLUTA;</li>
+        </ul>
+        <li>A <b>Lei das XII Tábuas</b>:</li>
+        <ul>
+          <li>Elaborada em 452 a.C.;</li>
+          <li>Era destinado a <b>comunidade rural</b>;</li>
+          <li>Inspirou-se em <b>fontes gregas</b>;</li>
+          <li>Ordenou a vida romana durante vários séculos;</li>
+        </ul>
+        <li>Entre a <b>Lei das XII Tábuas</b> e o <b><i>Corpus Juris Civilis</i></b>:</li>
+        <ul>
+          <li>A <b>JURISPRUDÊNCIA</b> evoluiu muito;</li>
+          <ul>
+            <li> Principalmente em relação aos <b>juristas</b> dos <b>dois últimos séculos a.C.</b>;</li>
+            <li>Esses <b>juristas</b> adaptaram a cultura jurídica à realidade econômica da época (industria e comércio)</li>
+          </ul>
+        </ul>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<table id="quadro-lista-o-direito-romano-9">
+  <tr>
+    <td valign="top" align="center" width="50px">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-9.png?raw=true" heigh="40" width="40">
+    </td>
+    <td valign="top">
+      <p>O <b>APOGEU DO DIREITO ROMANO</b></p>
+      <ul>
+        <li>Se deu nos primeiros séculos da nossa era (d.C.) graças aos JURISCULSULTOS e aos ÉDITOS DOS MAGISTRADOS;</li>
+        <li>A <b>LEI DAS CITAS</b> (426 d.C.);</li>
+        <ul>
+          <li>Obrigava os PRETORES a seguir as LIÇÕES do chamado TRIBUNAL DOS MORTOS, formado pelos JURISCONSULTOS:</li>
+          <ul>
+            <li>Papiano;</li>
+            <li>Gaio;</li>
+            <li>Paulo;</li>
+            <li><b><u>ULPIANO</u></b></li>
+            <li>Modestino</li>
+          </ul>
+        </ul>
+        <li>O <b>CÓDIGO DE TEODOSIANO</b> (século V d.C.);</li>
+        <ul>
+          <li>Influenciou o <b>ORDENAMENTO JURÍDICO FRANCÊS</b> anterior ao <b>CODÉ NAPOLEON</b></li>
+        </ul>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+### O SISTEMA ROMANO
+
+- Foi expresso notadamente no <b><i>Corpus Juris Civilis</i></b>;
+- Constitui o **GRANDE LEGADO ROMANO** à humanidade;
+- Foi alicerçado em **vários séculos** de experiência;
+- É uma **CODIFICAÇÃO** que compõe-se de **QUATRO PARTES**:
+  - A **PRIMEIRA PARTE**: "**CÓDIGO**":
+    - Reune a **legislação vigente** a partir do reinado de Adriano (76 d.C. a 138 d.C.);
+  - A **SEGUNDA PARTE**: "**DIGESTO**" ou "**PANDECTAS**"
+    - Elaborada em 532 d.C.;
+    - Corresponde a COLETÂNEA DE LIÇÕES de GRANDES JURISCONSULTOS;
+  - A **TERCEIRA PARTE**: "**INSTITUTAS**"
+    - Formado por uma APRESENTAÇÃO DIDÁTICA dos PRINCÍPIOS existentes no <b>CÓDIGO</b> e no <b>DIGESTO/PANDECTAS</b>
+    - No preâmbulo estão os famosos **PRECEITOS DO DIREITO**;
+    - Inicia-se com a **DEFINIÇÃO DE JUSTIÇA**;
+    - Depois com a **DEFINIÇÃO DO DIREITO**;
+    - Proclamou que **O DIREITO NATURAL**:
+      - Não seria privativo do gênero humano;
+      - Seria "o que a natureza ensinou a todos os animais."
+  - A **QUARTA PARTE**: "**NOVELAS**"
+    - Contém a legislação promulgada por JUSTINIANO;
+    - Acrecenta LEIS SUPERVINIENTES
 
 ## Conceito e Formação da Lei
 
