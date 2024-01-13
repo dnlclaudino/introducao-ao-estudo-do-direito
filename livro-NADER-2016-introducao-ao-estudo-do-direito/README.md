@@ -40,7 +40,7 @@ NADER, Paulo. Introdução ao Estudo do Direito. 38. ed. Rio de Janeiro:Forense,
 #### Capítulo 3 - O DIREITO COMO PROCESSO DE ADAPTAÇÃO SOCIAL
 #### Capítulo 4 - SOCIEDADE E DIREITO
 #### Capítulo 5 - INSTRUMENTOS DE CONTROLE SOCIAL
-#### Capítulo 6 - FATORES DO DIREITO
+#### [Capítulo 6 - FATORES DO DIREITO](./capitulo-06-fatores-do-direito.md)
 
 ### PARTE III - A NOÇÃO DE DIREITO
 
