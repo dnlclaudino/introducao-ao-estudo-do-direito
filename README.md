@@ -50,41 +50,24 @@ A versão da [Política de Gestão do Conhecimento](https://github.com/dnlclaudi
 
 ## Navegação nos arquivos deste repositório
 
-Conforme definido na **Gestão do Conhecimento**, cada repositório possui uma ou mais fontes (livros, apostilas, cursos, vídeos, normas, etc.). Cada fonte, por sua vez, possui um ou mais **partes** que podem ser capítulos, unidades, etc. Cada parte terá um arquivo PDF correspondente que poderá ser baixado separadamente. 
+Este repositório segue as regras estabelecidas na **Gestão do conhecimento** na seção [Regras para cada Repositório ou Subrepositório](https://github.com/dnlclaudino/gestao-do-conhecimento?tab=readme-ov-file#regras-para-cada-reposit%C3%B3rio-ou-subreposit%C3%B3rio)
 
-Optou-se por não colocar esses arquivos PDFs nos repositório do GITHUB, uma vez que ele tem um tamanho consideravelmente alto o que acabaria inviabilizando a manutenção de muitos repositórios na gestão do conhecimento facilmente em um futuro próximo (muitas partes/capítulos) de muitas fontes de muitos subrepositórios.
-
-Optou-se, ainda, por armazenar esses arquivos em PDF no meu OneDrive em uma estrutura de pastas e arquivos localizados em **ONEDRIVE.COM** > **MEUS ARQUIVOS** > **GESTÃO DE COMPETÊNCIAS** > **GESTÃO DO CONHECIMENTO** > "**<u>NOME-DO-REPOSITÓRIO</u>**" > "<u>**NOME-DA-FONTE**</u>" > "**<u>NOME-DA-PARTE-OU-CAPITULO.PDF</u>**".
-
-Dessa forma, os arquivos PDFs do atual repositório ficarão localizados em **ONEDRIVE.COM** > **MEUS ARQUIVOS** > **GESTÃO DE COMPETÊNCIAS** > **GESTÃO DO CONHECIMENTO** > "**<u>[INTRODUÇÃO AO ESTUDO DO DIREITO](https://1drv.ms/f/s!Au-CrfNP6c0bhqdXWk-Cr9JgI9mFFQ?e=MGgAKi)</u>**" > "<u>**NOME-DA-FONTE**</u>" > "**<u>NOME-DA-PARTE-OU-CAPITULO.PDF</u>**".
-
-Em todos os arquivos markdown (*.md) deste repositório, serão disponibilizados os ícones abaixo, no ínício e canto superior direito de cada arquivo, para uma navegação básica para **página inicial da fonte** e para **página inicial da minha gestão do conhecimento**. Após a conclusão da redação de cada arquivo deste repositório, o ícone **Baixar em PDF** apontará para o arquivo PDF que será gerado possibilitando obter o conteúdo também no formato PDF.
-
-<table align="right" border="0">
-  <tr>
-    <td align="center" valign="top">
-      <a href="https://github.com/dnlclaudino/gestao-do-conhecimento#readme">
-        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/casa3.png?raw=true" heigh="60" width="60"><br>Início da <br>Gestão do <br>Conhecimento
-      </a>
-    </td>
-    <td align="center" valign="top">
-      <a href="https://github.com/dnlclaudino/introducao-ao-estudo-do-direito#readme">
-        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/casa2.png?raw=true" heigh="60" width="60"><br>Início deste <br>Repositório
-      </a>
-    </td>
-    <td align="center" valign="top">
-      <a href="https://github.com/dnlclaudino/introducao-ao-estudo-do-direito#readme">
-        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones-aplicativos/pdf/pdf.png?raw=true" heigh="60" width="60"><br>Baixar em PDF
-      </a>
-    </td>
-  </tr>
-</table><br><br><br><br><br>
+Os arquivos PDFs do atual repositório ficarão localizados em **ONEDRIVE.COM** > **MEUS ARQUIVOS** > **GESTÃO DE COMPETÊNCIAS** > **GESTÃO DO CONHECIMENTO** > "**<u>[INTRODUÇÃO AO ESTUDO DO DIREITO](https://1drv.ms/f/s!Au-CrfNP6c0bhqdXWk-Cr9JgI9mFFQ?e=MGgAKi)</u>**" > "<u>**NOME-DA-FONTE**</u>" > "**<u>NOME-DA-PARTE-OU-CAPITULO.PDF</u>**".
 
 ## Licença
 
 Este material está sob licença especificada no arquivo [LICENCE](./LICENSE). Esta licença permite que outros remixem, adaptem e criem a partir do seu trabalho para **fins não comerciais**, DESDE QUE **atribuam o devido crédito ao autor (Daniel Claudino)** e que licenciem as **novas criações** sob **termos idênticos**.
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">A <b>Gestão do Conhecimento</b></span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/dnlclaudino/gestao-do-conhecimento" property="cc:attributionName" rel="cc:attributionURL">Daniel Claudino</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons - Atribuição-NãoComercial 4.0 Internacional</a>.  
+<center>
+<table width="350px">
+<tr>
+<td align="center">
+ 
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">A <b>Gestão do Conhecimento</b></span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/dnlclaudino/gestao-do-conhecimento" property="cc:attributionName" rel="cc:attributionURL">Daniel Claudino</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons - Atribuição-NãoComercial 4.0 Internacional</a>.
+</td>
+</tr>
+</table>
+</center>  
 
 ## Referências Bibliográficas
 
