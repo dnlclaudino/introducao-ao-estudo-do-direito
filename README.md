@@ -26,13 +26,20 @@ Repositório para Gestão do Conhecimento da disciplina **Introdução ao Estudo
 | 2 | Livro |**MIGUEL REALE**<br>[Lições Preliminares de Direito](./livro-REALE-2002-licoes-preliminares-de-direito/README.md) | 0% | Junho/2023 | v0.0.1 |  [Link para o Livro](https://1drv.ms/b/s!Au-CrfNP6c0brFMJlj3Kfj6w2Mdl?e=I51rxo) | - |
 | 3 | Livro |**TÉRCIO SAMPAIO FERRAZ JÚNIOR**<br>[Introdução do Estudo do Direito - Técnica, Decisão e Dominação](./livro-SAMPAIOJR-2016-introducao-ao-estudo-do-direito/README.md) | 0% | Junho/2023 | v0.0.1 | - | - |
 
-## Relação das Competências Desenvolvidas
+## Competências Relacionadas com Este Repositório
 
-O estudo de todas as fontes desse repositório permitiram o desenvolvimento das seguintes competências:
+-  O estudo de todas as fontes desse repositório:
+  - Poderão possibilitar o desenvolvimento de competências:
+    - Organizacionais (CPT-O-);
+    - Acadêmicas (CPT-A-);
+    - Técnicas (CPT-T-);
+    - Gerenciais (CPT-G-); e/ou
+    - Individuais (CPT-I-)
+  - Desenvolveram efetivamente as seguintes competências organizacionais, acadêmicas, técnicas, gerenciais e/ou individuais:
 
-### Competência Acadêmicas | Categoria | Descrição breve da competência
+### Competência | Categoria (organizacionais, acadêmicas, técnicas, gerenciais e/ou individuais) | Descrição breve da competência
 
-- **Código**: CPT-A-IEDIR-XXX-A001
+- **Código**: CPT-O-IEDIR-XXX-A001 | CPT-A-IEDIR-XXX-A001 | CPT-T-IEDIR-XXX-A001 | CPT-G-IEDIR-XXX-A001 | CPT-I-IEDIR-XXX-A001
 
 |**Verbo**|**Objeto**|**Condição**|**Critério**|
 |:---|:---|:---|:---|
@@ -43,10 +50,6 @@ O estudo de todas as fontes desse repositório permitiram o desenvolvimento das 
 |-|-|-|
 
 Para mais informações, acesse minha [Gestão de Competências](https://github.com/dnlclaudino/gestao-de-competencias/tree/master)
-
-## Versão da Política de Gestão do Conhecimento
-
-A versão da [Política de Gestão do Conhecimento](https://github.com/dnlclaudino/gestao-do-conhecimento/tree/master) utilizada é **v0.0.1**. As regras para realização de **commits** estão disponíveis em [Regras para commits no Github](https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/README.md#regras-para-nomenclatura-de-commits-no-github)
 
 ## Navegação nos arquivos deste repositório
 
