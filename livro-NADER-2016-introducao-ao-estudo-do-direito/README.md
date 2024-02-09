@@ -22,7 +22,7 @@
 
 ## Como referenciar esta obra ?
 
-NADER, Paulo. Introdução ao Estudo do Direito. Rio de Janeiro:Forense, 2016.
+NADER, Paulo. Introdução ao Estudo do Direito. 38. ed. Rio de Janeiro:Forense, 2016.
 
 ## Como referenciar este material ?
 
@@ -40,7 +40,7 @@ NADER, Paulo. Introdução ao Estudo do Direito. Rio de Janeiro:Forense, 2016.
 #### Capítulo 3 - O DIREITO COMO PROCESSO DE ADAPTAÇÃO SOCIAL
 #### Capítulo 4 - SOCIEDADE E DIREITO
 #### Capítulo 5 - INSTRUMENTOS DE CONTROLE SOCIAL
-#### Capítulo 6 - FATORES DO DIREITO
+#### [Capítulo 6 - FATORES DO DIREITO](./capitulo-06-fatores-do-direito.md)
 
 ### PARTE III - A NOÇÃO DE DIREITO
 
@@ -54,7 +54,7 @@ NADER, Paulo. Introdução ao Estudo do Direito. Rio de Janeiro:Forense, 2016.
 
 ### PARTE IV - FONTES DO DIREITO
 
-#### Capítulo 14 - A LEI
+#### [Capítulo 14 - A LEI](./capitulo-14-a-lei.md)
 #### Capítulo 15 - DIREITO COSTUMEIRO
 #### Capítulo 16 - O DESUSO DAS LEIS
 #### Capítulo 17 - JURISPRUDÊNCIA
@@ -105,6 +105,14 @@ NADER, Paulo. Introdução ao Estudo do Direito. Rio de Janeiro:Forense, 2016.
 
 Este material está sob licença especificada no arquivo [LICENCE](../LICENSE). Esta licença permite que outros remixem, adaptem e criem a partir do seu trabalho para **fins não comerciais**, DESDE QUE **atribuam o devido crédito ao autor (Daniel Claudino)** e que licenciem as **novas criações** sob **termos idênticos**.
 
+<center>
+<table width="350px">
+<tr>
+<td align="center">
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">A <b>Gestão do Conhecimento</b></span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/dnlclaudino/gestao-do-conhecimento" property="cc:attributionName" rel="cc:attributionURL">Daniel Claudino</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons - Atribuição-NãoComercial 4.0 Internacional</a>.
+</td>
+</tr>
+</table>
+</center> 
 
 ## Outras Referências

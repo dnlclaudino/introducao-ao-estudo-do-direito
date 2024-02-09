@@ -1,35 +1,79 @@
-# A Norma Jurídica
-
 <table align="right" border="0">
   <tr>
     <td align="center" valign="top">
       <a href="https://github.com/dnlclaudino/gestao-do-conhecimento#readme">
-        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-icone-casa3.png?raw=true" heigh="60" width="60"><br>Início da <br>Gestão do <br>Conhecimento
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-casa3.png?raw=true" heigh="60" width="60"><br>Início da <br>Gestão do <br>Conhecimento
+      <a href="https://github.com/dnlclaudino/introducao-ao-estudo-do-direito/tree/master/livro-NADER-2016-introducao-ao-estudo-do-direito#readme">
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/sumario.png?raw=true" heigh="60" width="60"><br>Sumário<br>da Fonte
       </a>
     </td>
     <td align="center" valign="top">
       <a href="https://github.com/dnlclaudino/introducao-ao-estudo-do-direito#readme">
-        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-icone-casa2.png?raw=true" heigh="60" width="60"><br>Início deste <br>Repositório
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-casa2.png?raw=true" heigh="60" width="60"><br>Início deste <br>Repositório
       </a>
     </td>
     <td align="center" valign="top">
-      <a href="https://github.com/dnlclaudino/introducao-ao-estudo-do-direito#readme">
         <img src="https://github.com/dnlclaudino/imagens/blob/master/icones-aplicativos/pdf/pdf.png?raw=true" heigh="60" width="60"><br>Baixar em PDF
-      </a>
     </td>
   </tr>
 </table><br><br><br><br><br>
 
-## O conceito de norma jurídica[^SECAO-41]
+# Capítulo 09 - A Norma Jurídica
 
-- A **NORMA JURÍDICA** é importante PORQUE:
+<!-- TOC updateonsave:false -->
+
+- [Capítulo 09 - A Norma Jurídica](#capítulo-09---a-norma-jurídica)
+  - [O conceito de norma jurídica](#o-conceito-de-norma-jurídica)
+  - [Instituto Jurídico](#instituto-jurídico)
+  - [ESTRUTURA LÓGICA da Norma Jurídica](#estrutura-lógica-da-norma-jurídica)
+    - [Os IMPERATIVOS kantianos](#os-imperativos-kantianos)
+    - [Concepção de KELSEN](#concepção-de-kelsen)
+    - [O Juízo Disjuntivo de CARLOS COSSIO](#o-juízo-disjuntivo-de-carlos-cossio)
+    - [A Estrutura da norma jurídica para carlos cossio](#a-estrutura-da-norma-jurídica-para-carlos-cossio)
+    - [Resumo do pensamento de Carlos Cossio](#resumo-do-pensamento-de-carlos-cossio)
+    - [Conclusões](#conclusões)
+    - [Quadro das ESTRUTURAS LÓGICAS](#quadro-das-estruturas-lógicas)
+  - [Caracteres (Características das NORMAS JURÍDICAS)](#caracteres-características-das-normas-jurídicas)
+    - [Bilateralidade](#bilateralidade)
+    - [Generalidade](#generalidade)
+    - [Abstratividade](#abstratividade)
+    - [Imperatividade](#imperatividade)
+    - [Coercibilidade](#coercibilidade)
+      - [COAÇÃO é elemento essencial ao Direito ?](#coação-é-elemento-essencial-ao-direito-)
+  - [Classificação das Normas Jurídicas](#classificação-das-normas-jurídicas)
+    - [Quanto ao SISTEMA JURÍDICO A QUE PERTENCEM](#quanto-ao-sistema-jurídico-a-que-pertencem)
+    - [Quanto à FONTE](#quanto-à-fonte)
+    - [Quanto aos diversos ÂMBITOS DE VALIDEZ](#quanto-aos-diversos-âmbitos-de-validez)
+    - [Quanto à HIERARQUIA](#quanto-à-hierarquia)
+    - [Quanto a SANÇÃO](#quanto-a-sanção)
+    - [Quanto à QUALIDADE](#quanto-à-qualidade)
+    - [Quanto às RELAÇÕES DE COMPLEMENTAÇÃO](#quanto-às-relações-de-complementação)
+    - [Quanto à VONTADE DAS PARTES](#quanto-à-vontade-das-partes)
+    - [Quanto à FLEXIBILIDADE ou ARBÍTRIO DO JUIZ](#quanto-à-flexibilidade-ou-arbítrio-do-juiz)
+    - [Quanto ao MODO DE PRESENÇA no ordenamento jurídico](#quanto-ao-modo-de-presença-no-ordenamento-jurídico)
+    - [Quanto à INTELIGIBILIDADE](#quanto-à-inteligibilidade)
+  - [VIGÊNCIA, EFETIVIDADE, EFICÁCIA e LEGITIMIDADE da NORMA JURÍDICA](#vigência-efetividade-eficácia-e-legitimidade-da-norma-jurídica)
+    - [Vigência da Norma Jurídica](#vigência-da-norma-jurídica)
+    - [Efetividade da Norma Jurídica](#efetividade-da-norma-jurídica)
+    - [Eficácia da Norma Jurídica](#eficácia-da-norma-jurídica)
+    - [Legitimidade da Norma Jurídica](#legitimidade-da-norma-jurídica)
+  - [Referências Bibliograficas](#referências-bibliograficas)
+
+<!-- /TOC -->
+<!-- /TOC -->
+
+
+
+## O conceito de norma jurídica
+
+- A **NORMA JURÍDICA** **<u>É IMPORTANTE</u>** PORQUE:
   - É elemento essencial do **DIREITO OBJETIVO**;
-  - É ponto culminante no **processo de elaboração do Direito**;
-  - É ponto de partida para **Dogmática Jurídica** sistematizar e descrever a ORDEM JURÍDICA vigente;
+  - É ponto culminante no **PROCESSO DE ELABORAÇÃO DO DIREITO**;
+  - É ponto de partida para **Dogmática Jurídica** sistematizar e descrever a **ORDEM JURÍDICA** vigente;
 - **CONHECER o Direito** é CONHECER as **NORMAS JURÍDICAS**:
   - Em seu **ENCADEAMENTO LÓGICO**;
   - Em seu **ENCADEAMENTO SISTEMÁTICO**;
-- Segundo **NADER (2011, p 83)**, as **NORMAS JURÍDICAS**, também chamadas de **regras jurídicas**, estão para o Direito, assim como as células estão para os organismos vivos;
+- Segundo **NADER (2011, p. 83)**, as **NORMAS JURÍDICAS**, também chamadas de **regras jurídicas**, estão para o Direito, assim como as células estão para os organismos vivos;
 - O **Direito Positivo** deve expressar-se de forma **PRÁTICA** para promover a **ORDEM SOCIAL**, ou seja:
   - Deve REVELAR-SE mediante **NORMAS ORIENTADORAS de CONDUTAS INTERINDIVIDUAIS**;
 - Para se **ALCANÇAR O EQUILÍBRIO EM SOCIEDADE**:
@@ -47,12 +91,12 @@
     <td valign="top">
       <span style="background-color:yellow">A <b>NORMA JURÍDICA</b> é</span>
       <ul>
-        <li>A CONDUTA exigida; ou</li>
-        <li>O MODELO imposto de organização social</li>
-        <li>O Padrão de conduta;</li>
-        <li>O Padrão de organização social;</li>
-        <li>A Fórmula de agir;</li>
-        <li>A determinação que fixa pauta(s) de como será o <b>COMPORTAMENTO INTERINDIVIDUAL</b>;</li>
+        <li>A CONDUTA exigida;</li>
+        <li>Um MODELO imposto de organização social;</li>
+        <li>Um padrão de conduta;</li>
+        <li>Um padrão de organização social;</li>
+        <li>Uma fórmula de agir;</li>
+        <li>Uma determinação que fixa PAUTA(S) de como será o <b>COMPORTAMENTO INTERINDIVIDUAL</b>;</li>
       </ul>
     </td>
   </tr>
@@ -70,7 +114,7 @@
        <b>Não Cometa Erros</b>
     </td>
     <td valign="top">
-      Norma jurídica <span style="background-color:yellow"><b>NÃO É</b> a mesma coisa que LEI.</span><br>A Lei é apenas um das formas de expressão da NORMA JURÍDICA.<br>Em alguns países, inclusive, as <b>NORMAS JURÍDICAS</b> se manifestam também:</b>
+      <span style="background-color:yellow"><b>NORMA JURÍDICA <u>NÃO É</u></b> a mesma coisa que <b>LEI</b>.</span><br>A LEI é apenas <u><b>UM DAS FORMAS DE EXPRESSÃO</b></u> da <b>NORMA JURÍDICA</b>.<br>Em alguns países, inclusive, as <b>NORMAS JURÍDICAS</b> se manifestam também:</b>
        <ul>
          <li> Pelo <b>DIREITO COSTUMEIRO</b>; e</li>
          <li> Pela <b>JURISPRUDÊNCIA</b></li>
@@ -79,7 +123,7 @@
   </tr>
 </table>
 
-## Instituto Jurídico[^SECAO-42]
+## Instituto Jurídico
 
 <table>
   <tr>
@@ -90,11 +134,14 @@
     <td valign="top">
       <b>INSTITUTO JURÍDICO</b>:
       <ul>
-        <li>É a reunião de NORMAS JURÍDICAS afins;</li>
+        <li>É a reunião de <u><b>NORMAS JURÍDICAS afins</b></u>;</li>
         <ul>
           <li>Que rege:
-          <ul><li>Um TIPO DE RELAÇÃO SOCIAL</li><li>Um TIPO DE INTERESSE</li></ul>
-          <li>Se identifica pelo FIM que procura realizar</li>
+          <ul>
+            <li>Um <b>TIPO DE RELAÇÃO SOCIAL</b></li>
+            <li>Um <b>TIPO DE INTERESSE</b></li>
+          </ul>
+          <li>Se identifica pelo <b>FIM que procura realizar</b></li>
         </ul>  
       </ul>
     </td>
@@ -149,12 +196,12 @@
 
 - A **ORDEM JURÍDICA** dispõem sobre a **GENERALIDADE** das **RELAÇÕES SOCIAIS**;
 
-## ESTRUTURA LÓGICA da Norma Jurídica[^SECAO-43]
+## ESTRUTURA LÓGICA da Norma Jurídica
 
 - A visão moderna da **ESTRUTURA LÓGICA** da norma juridica foi precedida pela **distincao kantiana** dos **imperativos categoricos e hipotético**;
 - É importante, antes de compreender a **ESTRUTURA LÓGICA** atual da norma juridica, ter em mente a definição desses imperativos;
 
-### Os IMPERATIVOS kantianos [^MUNDO-DA-FILOSOFIA-KANT]
+### Os IMPERATIVOS kantianos
 
 <table>
   <tr>
@@ -320,11 +367,11 @@
   - A NORMA JURÍDICA apresenta com a seguinte FÓRMULA (ESQUEMA): SE "A" é, "B" deve ser, sob pena de "S"
   - Exemplo: <u>Quem é contribuinte do imposto de renda</u> (A), <u>deve apresentar declaração até determinada data</u> (B), <u>sob pena de incindir em multa</u> (S)
 
-> "A": Corresponde a SITUAÇÃO DE FATO
+> "A": Corresponde a **SITUAÇÃO DE FATO**
 > 
-> "B": Corresponde a CONDUTA EXIGIDA
+> "B": Corresponde a **CONDUTA EXIGIDA**
 > 
-> "S": Corresponde a SANSÃO aplicável, na eventualidade do não cumprimento de "B"
+> "S": Corresponde a **SANSÃO** aplicável, na eventualidade do não cumprimento de "B"
 
 ### Quadro das ESTRUTURAS LÓGICAS
 
@@ -341,7 +388,7 @@
 |   3   | Técnica  | Se "**A**" é, tem que ser "**B**"                   | Ao escolher UM FIM (**A**), tem-se que adotar um MEIO (**B**)                                                                  |
 |   4   | Natural  | Se "**A**" é, é "**B**"                             | Ocorrida a CAUSA (**A**), ocorrerá o EFEITO (**B**)                                                                            |
 
-## Caracteres (Características das NORMAS JURÍDICAS)[^SECAO-44]
+## Caracteres (Características das NORMAS JURÍDICAS)
 
 - Para **Reale** (2004, p. 95)[^REALE-2004], O que efetivamente **CARACTERIZA** uma **NORMA JURÍDICA** de qualquer espécie:
   - É uma **ESTRUTURA PROPOSICIONAL ENUNCIATIVA** de uma **CONDUTA** ou **FORMA DE ORGANIZAÇÃO**;
@@ -536,7 +583,7 @@
     - “o clã mesmo pode representar esse quadro coativo (nos casos de vingança de sangue e de lutas internas), quando rege de fato, para as formas de suas reações, ordenações de qualquer índole”.
     - **Max Weber** desconsidera o **DIREITO INTERNACIONAL PÚBLICO** como **RAMO JURÍDICO**, pois “não se pode designar por direito, em realidade, uma **ordem que se encontre garantida** apenas pela expectativa da REPROVAÇÃO e das REPRESÁLIAS DOS LESIONADOS;
 
-## Classificação das Normas Jurídicas [^SECAO-45]
+## Classificação das Normas Jurídicas
 
 - Muitas são as classificações propostas por diferente autores;
 - Classificar as NORMAS JURÍDICAS:
@@ -858,7 +905,7 @@ dolo ou culpa)</li>
       - Aos elementos da lógica externa (Se revela nos usos e na organização social)
       - Ao Direito Comparado.
 
-## VIGÊNCIA, EFETIVIDADE, EFICÁCIA e LEGITIMIDADE da NORMA JURÍDICA[^SECAO-46]
+## VIGÊNCIA, EFETIVIDADE, EFICÁCIA e LEGITIMIDADE da NORMA JURÍDICA
 
 - O estudo sobre a **NORMA JURÍDICA** não estará completo **se não for acompanhado** da abordagem dos atributos:
   - Vigência;
@@ -954,3 +1001,5 @@ configuram o **DIREITO NATURAL** e devem fornecer a estrutura básica do **DIREI
 [^SECAO-45]: 45 – Eduardo García Máynez, Introducción al Estudio del Derecho; Machado Netto, Compêndio de Introdução à Ciência do Direito;
 
 [^SECAO-46]: 46 – Miguel Reale, Lições Preliminares de Direito; Elías Díaz, Sociología y Filosofía del Derecho; Luiz Diez Picazo, Experiencias Jurídicas y Teoria del Derecho; Paulo Nader, Filosofia do Direito.
+
+[^NADER-2016]: NADER, Paulo. Introdução ao Estudo do Direito. 38. ed. Rio de Janeiro:Forense, 2016.
