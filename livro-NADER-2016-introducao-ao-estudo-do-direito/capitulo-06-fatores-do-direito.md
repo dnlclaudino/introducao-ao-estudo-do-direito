@@ -397,6 +397,59 @@ não encontra amparo na ordem jurídica vigente
 
 ## Direito e Revolução
 
+- **Fatores jurídicos** provocam uma evolução gradativa no Direito;
+- Um **FATO HISTÓRICO DE UMA REVOLUÇÃO** desencadeia, necessariamente:
+  - **RÁPIDAS** modificações na área do **Direito Público**; e
+  - **AMPLAS** modificações na área do **Direito Público**.
+- A **REVOLUÇÃO**:
+  - É um **ACONTECIMENTO POLÍTICO**; 
+  - **MOTIVADO** Pela **INSATISFAÇÃO SOCIAL**:
+    - Quanto às instituições; e
+    - Quanto ao regime vigente.
+  - Caracteriza-se por uma **DUPLA AÇÃO**:
+    - **INTELECTUAL**; e
+    - **DE FORÇA**.
+  - Pressupõe: 
+    - Idealismo que se funda
+      - Em **novas concepções** que se pretende implantar na organização social;
+      - Em **uma ideologia** que se pretende implantar na organização social;
+- Imbuído pelo espírito revolucionário:
+  - O **GRUPO** que **destitui os governantes** e **assume o poder**:
+    - Deve iniciar o <span style="background-color:yellow">**<u>TRABALHO DE REFORMULAÇÃO SOCIAL</u>**</span> de acordo com a filosofia preconizada;
+    - É <span style="background-color:yellow"> **COM <u>ESSA MUDANÇA</u> EFETIVA QUE A REVOLUÇÃO SE COMPLETA**</span>.
+-  Se o movimento contraria o **SISTEMA DE LEGALIDADE DO ESTADO**:
+   - Possui o **PODER** de **INSTITUIR** uma **NOVA ORDEM JURÍDICA**.
+   - A legitimidade do Direito criado baseia-se no **APOIO POPULAR**
+     - Pois **REVOLUÇÃO** <u>implica</u> **ADESÃO SOCIAL**
+   - A possibilidade de **INSTAURAÇÃO DE UM NOVO DIREITO**, **notadamente, o CONSTITUCIONAL**, <u><span style="background-color:yellow">**É BÁSICA**</span></u>.
+    - Pois a luta revolucionária **EXIGE UM NOVO INSTRUMENTAL JURÍDICO** capaz de dar **VALIDADE** e **EFICÁCIA**?
+      - às transformações que visa a operar no quadro social.
+
+<table border="1" id="quadro-para-saber-mais-o-que-significa-revolucao-reinhold-zippelius">
+  <tr>
+    <td align="center" width="140px" style="border-right-style:hidden">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-para-saber-mais.png?raw=true" heigh="80" width="80"><br>
+      <b>Para Saber<br>Mais</b>
+    </td>
+    <td valign="top">
+     <p style="text-align:center"><b>QUAL O SIGNIFICADO JURÍDICO DA REVOLUÇÃO ?</b></p>
+     <p style="text-align:justify">Comenta, <b>Nader (2016, p.59)</b>, segundo o Reinhold Zippellius, em seu livro _Teoria Geral do Estado_:</p>
+     <p style="text-align:justify;font-size:1.4em">"Significa modificação não legal dos princípios fundamentais da ordem constitucional existente."</p>
+    </td>
+  </tr>
+</table>
+
+- Em relação às **CONSEQUÊNCIAS DA REVOLUÇÃO**:
+  - Se ocorre **VITÓRIA**, ter-se-á **REVOLUÇÃO**:
+    - Se o movimento triunfou, a **qualificação** será **JURÍDICO-POLÍTICA**.
+  - Se ocorrer **FRACASSO**:
+    - A **relevância** será **JURÍDICO-PENAL**;
+- Em relação ao **EFEITOS JURÍDICOS**, os “**GOLPES DE ESTADO**”:
+  - Causam **MENORES EFEITOS JURÍDICOS** que os promovidos pelas **REVOLUÇÕES** pelo fato:
+    - De objetivarem apenas a **QUEDA DE UM GOVERNO**;
+    - De objetivarem a consequente **ASCENSÃO DO GRUPO** que se tornou vitorioso **<u>pelo emprego da força</u>**.
+  - Normalmente, os movimentos desse tipo (GOLPE) **<u>não se fazem acompanhar de maiores alterações no Direito Positivo</u>**, SENDO COMUM, inclusive, a **permanência da constituição vigente**.
+
 ## Referências Bibliográficas
 
 [^MONTESQUIEU-1960]: MONTESQUIEU, Charles de Secondat, Baron de. O espírito das leis. São Paulo: Ed. e Publ. Brasil, 1960.
