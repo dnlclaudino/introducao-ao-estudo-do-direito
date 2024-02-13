@@ -7,7 +7,7 @@
     </td>
     <td align="center" valign="top">
       <a href="https://github.com/dnlclaudino/introducao-ao-estudo-do-direito#readme">
-        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/casa2.png?raw=true" heigh="60" width="60"><br>Início deste <br>Repositório
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/icone-casa2.png?raw=true" heigh="60" width="60"><br>Início deste <br>Repositório
       </a>
     </td>
     <td align="center" valign="top">
