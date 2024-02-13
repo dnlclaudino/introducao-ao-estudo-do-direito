@@ -107,13 +107,66 @@
     - Os NATURAIS; e
     - Os CULTURAIS;
 
-## Princípios Metodológicos
+## Princípios Metodológicos para Análise dos Fatores do Direito
+
+- Antes de estudar os FATORES DO DIREITO:
+  - Deve-se entender os PRINCÍPIOS METOLÓGICOS aplicáveis ao estudo dos fatores do Direito;
+- Esses PRINCÍPIOS METOLÓGICOS
+  - Orientam o PROCESSO DE INVESTIGAÇÃO dos fatores do Direito
+  - Orientam a FASE DE CONCLUSÃO dos fatores do Direito;
 
 ### Interferência das Causas
 
+- Fenômenos Sociais:
+  - São dotados de máxima complexidade;
+  - Não decorrem de fator exclusivo;
+  - Decorrem de uma pluralidade de fatores;
+- Em um **primeiro momento**, o pesquisador **DEVE**:
+  - Conhecerer **QUAIS FATORES** influenciam <u>um fenômeno social</u>;
+  - Apurar **EM QUE PROPORÇÃO OU MEDIDA** esses fatores contribuem para formação de <u>um fenômeno social</u>;
+- Essa análise da interferência das causas constitui a <u>**parte mais difícil** da investigação.</u>
+
 ### Distinção dos Fatores em Categorias
 
+- **Quanto mais** a sociedade evolui, **mais** <u>aumenta a complexidade</u> dos fenômenos sociais;
+- Os FATORES DO DIREITO **não se apresentam** sempre <u>de modo idêntico</u>:
+  - **NÃO** se repetem **QUANTITATIVAMENTE**
+    - Em mesma proporção e medida;
+  - **NÃO** se repetem **QUALITATIVAMENTE**
+    - Não <u>**são sempre os mesmos**</u>;
+    - Seu **grau de eficácia** varia de acordo com a evolução social;
+- Em **TEMPOS PRIMITIVOS**
+  - A **interferência das causas** se dava fundamentalmente por **FATORES NATURAIS**;
+    - Pois os homens viviam <span style="background-color:yellow">**dominados pela natureza**</span>;
+- Nos **TEMPOS MODERNOS**:
+  - O homem progride culturalmente;
+  - Os homens vivem dominados (hegemônicamente) por fatores culturais e históricos;
+- Fatores culturais e históricos são **criações sociais**;
+- O **DESENVOLVIMENTO SOCIAL**:
+  - **Não se apresenta**
+    - Uniforme; nem
+    - Predeterminado;
+  - **PORQUE**
+    - A evolução dos Fatores do Direito de que dependem também não possuem as caracteristicas de UNIFORMIDADE e PREDETERMINISMO;
+
 ### Eficácia Direta e Indireta dos Fatores
+
+- Há **FATORES DO DIREITO**:
+  - Que atuam **DIRETAMENTE** sobre o **fenômeno social**;
+  - Que atuam **INDIRETAMENTE** sobre o **fenômeno social**
+    - Nesse caso, sua **EFICÁCIA** é medida por intermédio de OUTROS FATORES DO DIREITO;
+- A <u>**maioria dos fenômenos naturais**</u> só INDIRETAMENTE exerce influência sobre os **fenômenos sociais**;
+- Em relação aos **FATORES DO DIREITO** que atuam **INDIRETAMENTE** sobre o **fenômeno social**:
+  - Caso o homem deseje **NEUTRALIZAR SEUS EFEITOS**
+    - Deverá escolher, NA CADEIA CAUSAL, o fator do direito para ser ENFRENTADO;
+  - Exemplo:
+    - Contexto:
+      - Uma Região insalúbre;
+      - Contendo insetos transmissores da malária;
+      - Constitui desafio imediato para o homem;
+    - Qual será a ação humana?
+      - Atacar a causa imetiada (inferindo preventivamente, quinino) ? ou
+      - Dessecar os pantanos ?
 
 ## Fatores Naturais do Direito
 
