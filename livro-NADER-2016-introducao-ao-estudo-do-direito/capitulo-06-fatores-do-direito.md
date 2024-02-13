@@ -170,23 +170,147 @@
 
 ## Fatores Naturais do Direito
 
-- Os FATORES NATURAIS DO DIREITO exercem um amplo condicionamento sobre o homem no tocante:
+- Os **FATORES NATURAIS DO DIREITO** exercem um amplo condicionamento sobre o homem no tocante:
   - a Sobrevivência;
   - ao Espaço Vital;
   - à Criação dos Objetos Culturais.
-- Os FATORES NATURAIS DO DIREITO podem ser agrupados conforme os subtipos descritos nas subseções seguintes. 
+- Os **FATORES NATURAIS DO DIREITO** podem ser agrupados conforme os subtipos:
+  - Geográfico;
+  - Demográfico; e
+  - Fatores Antropológicos.
 
 ### Fator Geográfico
 
-### Clima
+- Dentre os fatores geográficos, merecem atenção especial os subtipos:
+  - Clima;
+  - Recursos Naturais;
+  - Território
 
-### Recursos Naturais
+#### Clima
 
-### Território
+- É fator de **influência INDIRETA**;
+- Influi no **CRESCIMENTO** e **COMPORTAMENTO HUMANO**;
+- Influencia **HÁBITOS** e **COSTUMES**, **<u>SEM</u>** contudo **DETERMINAR** a esfera da MORAL;
+  - A **EDUCAÇÃO** e a **RELIGIÃO** cumprem importante papel na determinação dos **HÁBITOS** e **COSTUMES**;
+
+<table border="0" id="quadro-definicao-monismo-climatico">
+  <tr>
+    <td align="center" width="140px" style="border-right-style:hidden">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-definicao.png?raw=true" heigh="80" width="80"><br>
+      <b>Atenção</b>
+    </td>
+    <td valign="top">
+     <p style="text-align:center"><b>MONISMO CLIMÁTICO</b></p>
+     <p style="text-align:justify"><b>MONISMO</b> significa <b>princípio único</b>, <b>unidade</b> ou <b>fundamento elemental</b> do qual derivam outros elementos. Elementos esses que, em última instância, são redutíveis a essa unidade, princípio ou fundamento. </p>
+     <p style="text-align:justify"><b>MONISMO CLIMÁTICO</b>, dessa forma, é a crença que o clima é, em última instância, o fator determinante do comportamento humano.</p>
+    </td>
+  </tr>
+</table>
+
+<table border="0" id="quadro-atencao-monismo-climatico">
+  <tr>
+    <td align="center" width="140px" style="border-right-style:hidden">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-nao-erre.png?raw=true" heigh="80" width="80"><br>
+      <b>Atenção</b>
+    </td>
+    <td valign="top">
+     <p style="text-align:center"><b>MONISMO CLIMÁTICO</b></p>
+     <p style="text-align:justify">O <b>MONISMO CLIMÁTICO</b> é um conceito ultrapassado, que não possui embasamento científico, possuindo uma visão retrógrada que minimiza a <b>importância dos processos educacionais</b> na <b>formação do caráter</b>.</p>
+    </td>
+  </tr>
+</table>
+
+- O autor <b>Nader (2016, p.54)</b>, cita como exemplo de <b>MONISMO CLIMÁTICO</b> na História do Direito contido na obra _O Espírito das Leis_, do emitente autor francês **Montesquieu** do qual trazemos uma breve citação abaixo
+
+<!--  Exemplo de Link direito:
+  - Para artigo: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13105compilada.htm#art127
+  - Para parágrafo: https://www.planalto.gov.br/ccivil_03/decreto-lei/Del4657.htm#art18%C2%A72
+-->
+
+<table border="1" id="quadro-citacao-montesquieu-livro-o-espirito-das-leis">
+  <tr>
+    <td align="center" width="140px" style="border-right-style:hidden">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-citacao.png?raw=true" heigh="80" width="80"><br>
+      <b>LIVRO: O ESPÍRITO DAS LEIS<br><br>TERCEIRA PARTE, <br>Capítulo II - Quanto os homens são diferentes nos diversos climas</b>
+    </td>
+    <td valign="top">
+     <p style="text-align:center"><b>EXEMPLO DE MONISMO CLIMÁTICO NA HISTÓRIA DO DIREITO</b></p>
+     <p style="text-align:justify">"Nos climas do Norte, o físico do amor mal tem força para se tornar bem sensível; nos climas temperados, o amor, acompanhado de mil acessórios, torna-se agradável por coisas que a princípio parecem ser amor, e ainda não o são; nos climas mais quen-tes, ama-se o amor por si mesmo; ele é a causa única da felicidade; ele é a vida.</p>
+     <p style="text-align:justify">Nos países do Sul, uma máquina delicada, fraca, mas sensível, entrega-se a um amor que, num harém, nasce e acalma-se sem parar; ou então a um amor que, ao deixar as mulheres numa maior independência, está exposto a mil perturbações.</p>
+     <p style="text-align:justify">Nos países do Norte, uma máquina sã e bem constituída, mas pesada, encon-tra os seus prazeres em tudo o que pode repor os espíritos em movimento: a caça, as viagens, a guerra, o vinho. Encontrareis nos climas do Norte povos que têm poucos vícios, bastantes virtudes, muita sinceridade e franqueza. Aproximai-vos dos países do Sul e pensareis que vos afastastes da própria moral: as paixões mais vivas multiplicarão os crimes; cada um procurará adquirir sobre os outros todas as vantagens que podem favorecer essas mesmas paixões. Nos países temperados, vereis povos inconstantes nas suas maneiras, até nos seus vícios e nas suas virtudes; aí, o clima não tem uma qualidade suficientemente determinada para fixá-los.</p>
+     <p style="text-align:justify">O calor do clima pode ser tão excessivo que o corpo fique absolutamente sem força. (...)"</p>
+    </td>
+  </tr>
+</table>
+
+<center>
+
+ <span style="text-align:center"><b>Fonte</b>: Montesquieu (1960, p. 260)[^MONTESQUIEU-1960]</span>
+
+</center>
+
+#### Recursos Naturais
+
+- O mundo atual é o dos **objetos culturais**
+  - Chips;
+  - Celulares;
+  - Computadores;
+  - Carros; etc.
+- A **matéria-prima** utilizada na **industrialização** desses objetos culturais é fornecido pela natureza e extraído de **diversas jazidas e fontes**;
+- São exemplos de **RECURSOS NATURAIS**:
+  - Petróleo;
+  - Flora;
+  - Fauna;
+  - Água; etc.
+- A **EXPLORAÇÃO DOS RECURSOS NATURAIS** é **<u>regulamentada</u>** por **normas jurídicas**, em decorrência de sua **IMPORTÂNCIA** e **LIMITAÇÃO**;
+
+#### Território
+
+- As **CARACTERÍSTICAS DE UM TERRITÓRIO** influenciam:
+  - As formas de vida;
+  - As formas de habitação;
+  - Na economia; e
+  - Na organização social.
+- A **ADAPTAÇÃO AO TERRÍTÓRIO** é **PROVIDÊNCIA IMEDIATA** com **PRIORIDADE** em relação a **outros interesses**;
+- Ao longo da história:
+  - **GRUPOS SOCIAIS** deram **PREFERÊNCIA** às <u>**regiões mais favoráveis ao cultivo da terra**</u>;
+  - Foram **ASPECTOS <u>FUNDAMENTAIS</u>** para **FIXAÇÃO DOS GRUPOS SOCIAIS** em um TERRITÓRIO:
+    - Regiões mais favoráveis ao cultivo da terra;
+    - **LOCALIZAÇÃO DAS TERRAS** em relação:
+      - Aos rios;
+      - Aos mares;
+      - Às montanhas.
+  - Em relação à **DISTÂNCIA**, <u>**TORNOU-SE RELATIVA**</u>
+    - Face ao desenvolvimento dos MEIOS DE COMUNICAÇÃO;
+- No Brasil, temos como exemplo da importância do fator geográfico na formação do Direito:
+  - O **POLÍGONO DAS SECAS**: Objeto de várias leis de proteção.
 
 ### Fator Demográfico
 
+- É **UM FATOR IMPORTANTE** para vida de um pais, a maior ou menor concentração humana por quilômetro quadrado.
+- O **<u>EQUILÍBRIO DO FATOR DEMOGRÁFICO</u>** influencia:
+  - A segurança do território;
+  - Problemas de habitação;
+  - Problemas de alimentação;
+- Os Estados utilizam-se da **LEGISLAÇÃO** para influenciar nesse **EQUILÍBRIO DEMOGRÁFICO**;
+- Paises de **BAIXA DENSIDADE DEMOGRÁFICA** tem interesse, por meio da legislação:
+  - Incentivar a natalidade;
+  - Facilitar a naturalização;
+  - Incentivar a imigração de mão de obra qualificada;
+- Paises de **ALTA DENSIDADE DEMOGRÁFICA** tem interesse, por meio da legislação:
+  - Adotam políticas de desistímulo à imigração;
+  - Favorecem a emigração
+  - Incentivam o controle de natalidade
+  - Regulamentar o abordo;
+
 ### Fatores Antropológicos
+
+- São fatores que decorrem do próprio homem;
+- Referem-se ao grau de desenvolvimento dos membros da sociedade;
+- Abrangem o caráter:
+  - Étnico;
+  - Aptiões peculiares;
+  - Tendências peculiares;
 
 ## Fatores Culturais do Direito
 
@@ -213,3 +337,7 @@
 ### Medidas de Hostilidade
 
 ## Direito e Revolução
+
+## Referências Bibliográficas
+
+[^MONTESQUIEU-1960]: MONTESQUIEU, Charles de Secondat, Baron de. O espírito das leis. São Paulo: Ed. e Publ. Brasil, 1960.
