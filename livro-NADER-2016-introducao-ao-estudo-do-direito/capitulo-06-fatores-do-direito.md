@@ -50,12 +50,13 @@
 
 ## Conceito e Função dos Fatores do Direito
 
-- O Direito Positivo, as normas jurídicas instituciuonalizadas pelo estado e vigentes em determinado tempo e lugar, REFERE-SE:
-  - À **organização do Estado**;
-  - Aos **acontecimentos sociais**;
-- São os **acontecimentos da vida** que indicam ao legislador as **questões sociais** que devem ser **regulamentadas**;
+- O **DIREITO POSITIVO** é concebido como
+  - O **conjunto de NORMAS JURÍDICAS** instituciuonalizadas pelo estado e vigentes em determinado tempo e lugar, REFERE-SE:
+    - À **organização do Estado**;
+    - Aos **acontecimentos sociais**;
+- São os **ACONTECIMENTOS DA VIDA** que indicam ao legislador as **questões sociais** que devem ser **regulamentadas**;
 - As **LEIS** **<u>REFLETEM</u>**:
-  - Os **VALORES PERMANENTES** de convivência, oriundos do Direito Natural;
+  - Os **VALORES PERMANENTES** <u>de convivência</u>, oriundos do Direito Natural;
   - Os **ELEMENTOS VARIÁVEIS** (contingentes) que decorrem tanto de **motivações** (históricas, de condições diversas impostas pela natureza, etc.)
 - A **FORMAÇÃO** e a **EVOLUÇÃO** do Direito:
   - **<u>NÃO</u>** resultam da simples **VONTADE DO LEGISLADOR** (perspectiva científica do Direito);
@@ -97,10 +98,14 @@
   - Com as **PECULIARIDADES REGIONAIS**;
 - Os **FENÔMENOS SOCIAIS** estão sujeitos a um **<u>princípio análogo</u>** a uma **LEI BIOLOGICA**:
   - Existem **ELEMENTOS ESTÁVEIS** que <u>**RARAMENTE SE MODIFICAM**</u>;
-  - **AS MUDANÇAS** são de **MAIOR IMPORTÂNCIA**, <u>QUANDO OCORRE</u> uma modificação nesses **ELEMENTOS ESTÁVEIS**;
+    - **AS MUDANÇAS** são de **MAIOR IMPORTÂNCIA**, <u>QUANDO OCORRE</u> uma modificação nesses **ELEMENTOS ESTÁVEIS**;
   - O **Direito Privado**, por exemplo, é mais conservador em relação ao **Direito Público**:
     - No **Direito Público**: Ocorrem mais modificações em relação aos efeitos mais recorrentes de transformações políticas;
     - No **Direito Privado**: Quando ocorrem transformações, notadamente no **Direito de Família** e no **Direito de Propriedade**, <u>elas são sentidas **muito mais profundamente**</u>;
+- A **SOCIOLOGIA DO DIREITO** estuda os **FATORES JURÍDICOS** responsáveis pela <u>CRIAÇÃO</u> e <u>MODIFICAÇÃO</u> (aceleração) dos **INSTITUTOS DE DIREITO**.
+  - Há **DOIS GRUPOS** de **FATORES JURÍDICOS**:
+    - Os NATURAIS; e
+    - Os CULTURAIS;
 
 ## Princípios Metodológicos
 
