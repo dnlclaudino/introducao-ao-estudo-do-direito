@@ -170,6 +170,12 @@
 
 ## Fatores Naturais do Direito
 
+- Os FATORES NATURAIS DO DIREITO exercem um amplo condicionamento sobre o homem no tocante:
+  - a Sobrevivência;
+  - ao Espaço Vital;
+  - à Criação dos Objetos Culturais.
+- Os FATORES NATURAIS DO DIREITO podem ser agrupados conforme os subtipos descritos nas subseções seguintes. 
+
 ### Fator Geográfico
 
 ### Clima
