@@ -328,13 +328,72 @@
 
 ## Forças Atenuantes da Legislação
 
+- O LEGISLADOR elabora leis, considerando os FATORES DO DIREITO:
+  1) De forma ESPONTÂNEA;
+  2) Impulsionado mediante **APOIO** ou **FORÇAS** atuantes na sociedade, tais como:
+      - a Política;
+      - a Opinião pública;
+      - Grupos organizados;
+      - Medidas de ostilidade.
+
 ### Política
+
+- Cada **SEGMENTO POLÍTICO** corresponde:
+  - a um **IDEÁRIO DE VALORES SOCIAIS**;
+  - ligado à **ORGANIZAÇÃO DA SOCIEDADE** em seu amplo sentido;
+- Em função de sua LINHA DOUTRINÁRIA:
+  - Cada PARTIDO POLÍTICO deve movimentar-se para que suas TESES se realizem concretamente;
+
+<table border="1" id="quadro-reflexao-forcas-atuantes-politica">
+  <tr>
+    <td align="center" width="140px" style="border-right-style:hidden">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-reflexao.png?raw=true" heigh="80" width="80"><br>
+      <b>Reflexão</b>
+    </td>
+    <td valign="top">
+     <p style="text-align:center"><b>A ELABORAÇÃO DAS LEI E A POLÍTICA</b></p>
+     <p style="text-align:justify">Comenta, <b>Nader (2016, p.57)</b>: “Os tratados de Direito Civil nenhuma alusão fazem a esta influência do Poder Político sobre a confecção e a transformação das leis.</p>
+     <p style="text-align:justify">Acusam, com frequência, a <b>inabilidade do legislador</b>, mas <b>nunca ousam dizer o interesse político</b> que (1) ditou o projeto ou (2) deformou a lei.”</p>
+    </td>
+  </tr>
+</table>
 
 ### Opinião Pública
 
+- A **OPINIÃO PÚBLICA** se manifesta, <u>**eventualmente**</u>, em relação às leis;
+- A **ATENÇÃO DA OPINIÃO PÚBLICA** é despertada:
+  - **QUANDO VEM A PÚBLICO** algum caso particular, da sua simpatia, e que
+não encontra amparo na ordem jurídica vigente
+  - **POR MEIO DAS MAIS VARIADAS FORMAS**:
+    - Artigos de jornais;
+    - Rádio;
+    - Televisão;
+    - Cartas;
+    - Telegramas.
+-  A **CONSTITUIÇÃO FEDERAL**, pelo art. 61, prevê a **APRESENTAÇÃO DE PROJETO DE LEI** por **INICIATIVA DO POVO**.
+   -  A chamada **LEI DA FICHA LIMPA**, por exemplo, que veda a candidatura de político com antecedentes criminais, **NASCEU** de um **PROJETO DE INICIATIVA POPULAR**.
+
 ### Grupos Organizados
 
+- As pessoas procuram se organizar em grupos na defesa de seus interesses comuns;
+  - Conforme as diversas classes;
+  - A fim de alcançar maior força e prestígio perante as autoridades públicas
+- São **EXEMPLOS** de tais grupos:
+  - Sindicatos;
+  - Associação de inquilinos;
+  - Sociedades pró-melhoramentos de bairros;
+  - entre outros
+- Tais grupos lutam, junto ao poder público, pleiteando em favor de seus interesses e <u>**muitas vezes influenciando na legislação**</u>.
+
+
 ### Medidas de Hostilidade
+
+- Dentre as **MEDIDAS HOSTIS** utilizadas para **pressionar o poder público** pera o **ATENDIMENTO DE REINVIDICAÇÕES**, temos:
+  - a greve do trabalhador;
+  - o lock-out;
+  - a greve dos contribuintes;
+  - o engarrafamento do trânsito;
+  - dentre outras.
 
 ## Direito e Revolução
 
