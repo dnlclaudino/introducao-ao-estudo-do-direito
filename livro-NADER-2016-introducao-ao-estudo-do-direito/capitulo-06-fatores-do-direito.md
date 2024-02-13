@@ -433,8 +433,8 @@ não encontra amparo na ordem jurídica vigente
     </td>
     <td valign="top">
      <p style="text-align:center"><b>QUAL O SIGNIFICADO JURÍDICO DA REVOLUÇÃO ?</b></p>
-     <p style="text-align:justify">Comenta, <b>Nader (2016, p.59)</b>, segundo o Reinhold Zippellius, em seu livro _Teoria Geral do Estado_:</p>
-     <p style="text-align:justify;font-size:1.4em">"Significa modificação não legal dos princípios fundamentais da ordem constitucional existente."</p>
+     <p style="text-align:justify">Comenta, <b>Nader (2016, p.59)</b> que, segundo o Reinhold Zippellius, em seu livro <b><i>Teoria Geral do Estado</b></i>:</p>
+     <p style="text-align:justify;font-size:1.4em"><span style="font-size:2rem">"</span>Revolução significa modificação não legal dos princípios fundamentais da ordem constitucional existente.<span style="font-size:2rem">"</span></p>
     </td>
   </tr>
 </table>
