@@ -210,8 +210,8 @@
 <table border="0" id="quadro-atencao-monismo-climatico">
   <tr>
     <td align="center" width="140px" style="border-right-style:hidden">
-      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-nao-erre.png?raw=true" heigh="80" width="80"><br>
-      <b>Atenção</b>
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-nao-cometa-erros.png?raw=true" heigh="80" width="80"><br>
+      <b>Não Cometa<br>Erros</b>
     </td>
     <td valign="top">
      <p style="text-align:center"><b>MONISMO CLIMÁTICO</b></p>
