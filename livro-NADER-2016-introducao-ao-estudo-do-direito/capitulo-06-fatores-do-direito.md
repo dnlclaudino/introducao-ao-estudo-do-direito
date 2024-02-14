@@ -314,7 +314,25 @@
 
 ## Fatores Culturais do Direito
 
+- **FATORES CULTURAIS DO DIREITO** também são chamados **FATORES HISTÓRICOS DO DIREITO**, pois são produzidos pelo homem;
+- Dentre tais fatores destacam-se os fatores:
+  - Econômico;
+  - Invenções;
+  - Moral;
+  - Religião;
+  - Educação; e
+  - Ideologia
+
 ### Fator Econômico
+
+- O **FATOR ECONÔMICO**:
+  - É <u>muito importante</u> para:
+    - **Formação** do Direito;
+    - **Evolução** do Direito;
+  - PODE SER AVALIADO PECUNIARIAMENTE;
+  - Refere-se à RIQUEZAS;
+  - 
+- Esse 
 
 ### Invenções
 
