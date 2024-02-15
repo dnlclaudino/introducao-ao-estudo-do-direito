@@ -331,8 +331,29 @@
     - **Evolução** do Direito;
   - PODE SER AVALIADO PECUNIARIAMENTE;
   - Refere-se à RIQUEZAS;
-  - 
-- Esse 
+  - Está presente em vários RAMOS DO DIREITO:
+    - Direito do Trabalho;
+    - Direito Empresarial;
+    - Direito Tributário;
+    - Direito Civil;
+      - Direitos Reais;
+      - Direitos Obrigacionais;
+      - Direitos Sucessórios;
+- Para relação entre o DIREITO e o FATOR ECONÔMICO:
+  - Existem CORRENTES DE PENSAMENTO que SUSTENTAM A TESE de que o DIREITO <span style=background-color:orange>(1)</span> <span style=background-color:yellow> SUBORDINA-SE</span> inteiramente ao FATOR ECONÔMICO;
+    - Trata-se da **TEORIA DO MONISMO ECONÔMICO**;
+  - Concordando com o **MONISMO ECONÔMICO**, há **CORRENTE DE PENSAMENTO** que trata do **MATERIALISMO HISTÓRICO** que afirma que o fator econômico <span style=background-color:orange>(2)</span> <span style=background-color:yellow> DETERMINA</span> o Direito:
+    - A **ECONOMIA** compõe a **INFRAESTRUTURA DA VIDA SOCIAL**.
+    - A **ECONOMIA** <span style=background-color:yellow>determina a **SUPERESTRUTURA**</span>;
+      - Nessa CORRENTE DE PENSAMENTO, a <span style=background-color:yellow>**SUPERESTRUTURA**</span> é formada por:
+        - pela Moral;
+        - pela Política;
+        - pelo Direito;
+        - pela religião;
+        - Entre outros
+- A influência do FATOR ECONÔMICO no DIREITO <span style=background-color:yellow> É UMA REALIDADE</span>.
+- A influência do DIREITO sobre os PROCESSOS ECONÔMICOS não é menos real.
+
 
 ### Invenções
 
