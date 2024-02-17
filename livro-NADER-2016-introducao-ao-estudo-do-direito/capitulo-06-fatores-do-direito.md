@@ -11,7 +11,7 @@
       </a>
     </td>
     <td align="center" valign="top">
-        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones-aplicativos/pdf/pdf.png?raw=true" heigh="60" width="60"><br>Baixar em PDF
+        <a href="https://1drv.ms/b/s!Au-CrfNP6c0bhq01WWT8jtdqaPwPxA?e=aQMh10"><img src="https://github.com/dnlclaudino/imagens/blob/master/icones-aplicativos/pdf/pdf.png?raw=true" heigh="60" width="60"><br>Baixar em PDF</a>
     </td>
   </tr>
 </table><br><br><br><br><br>
