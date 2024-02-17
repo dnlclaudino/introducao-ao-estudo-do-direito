@@ -357,13 +357,50 @@
 
 ### Invenções
 
+- A ciência é a base para a tecnologia da qual decorre as INVENÇÓES;
+  - O homem procura satisfazes as necessidades humanas a partir dos conhecimentos das leis da natureza;
+  - A satisfação das necessidades humanas por meio de invenções:
+    - Provoca **NOVOS HÁBITOS**;
+    - Cria ou modifica **COSTUMES**; 
+  - As Invenções são imprevisíveis e, dessa forma, o legislador não pode previnir-se com instrumentos jurídicos para seu surgimento;
+- NOVOS HÁBITOS e COSTUMES impulsionam a evolução de **INSTITUIÇÕES JURÍDICAS** de forma a refletirem a realidade social;
+- Para Nader (2016, p. 56), se por um lado as **invenções** envelhecem o Direito, de outro, geram a necessidade social de **novos instrumentos jurídicos**;
+
 ### Moral
+
+- A **MORAL** favorece o direito emprestando-lhe **VALORES**;
+- O **DIREITO** <span style="color:red;font-weight:bold">não é</span> completamente determinado pela **MORAL**;
+  - A MORAL não é onipresente no mundo jurídico;
+- O DIREITO se revela sensível às mutações que ocorrem na MORAL SOCIAL, acompanhando essa evolução a fim de adaptar-se às novas necessidades sociais
 
 ### Religião
 
+- Na ANTIGUIDADE, o DIREITO se achava subordinado à RELIGIÃO;
+- No PRESENTE, DIREITO e RELIGIÃO encontram-se INDEPENDENTES visando objetivos distintos;
+- A RELIGIÃO influencia INDIRETAMENTE o **fenômeno jurídico**;
+  - O homen religioso (_homo religiosus_) é **participante no processo social** com seu **MODO DE PENSAR** e **MODO DE SENTIR** na <span style="background-color:yellow">**FORMAÇÃO DA VONTADE SOCIAL**</span> que por sua vez é decisiva na <span style="background-color:green">**ELABORAÇÃO DO DIREITO**</span>
+  Ainda existem, contudo, traços de influência da presença da Religião no ordenamento jurídico brasileiro:
+    - P. E.x: A Lei civil admite os efeitos jurídicos ao casamento religioso, mediante certas exigências, conforme arts. 1511 e 1512 do Código Civil de 2002.
+
 ### Ideologia
 
+- As **TENDÊNCIAS DA ORDEM JURÍDICA** estão diretamente ligadas à **IDEOLOGIA** consagrada pelo **PODER SOCIAL**;
+  - Cada ideologia:
+    - Corresponde a uma concepção distinta de **ORGANIZAÇÃO SOCIAL**;
+    - Reúne **VALORES DISTINTOS**;
+- Foram citados exemplos das IDEOLOGIAS que influenciam, sobretudo nas áreas da POLÍTICA e ECONOMIA: 
+  - Socialismo;
+  - Liberalismo;
+  - Nacionalismo
+
 ### Educação
+
+- O <span style="background-color:green">**progresso de uma sociedade**</span> pressupõe o seu **desenvolvimento** no campo <span style="background-color:yellow">moral</span>, <span style="background-color:yellow">técnico</span> e <span style="background-color:yellow">científico</span>;
+- <span style="background-color:yellow">É através da **EDUCAÇÃO**</span> que se pode dotar o **corpo social** de um <span style="background-color:yellow">**STATUS ÉTICO**</span> e <span style="background-color:yellow">**STATUS INTELECTUAL**</span> capaz de promover a superação de seus principais problemas;
+- O Estado utiliza-se de leis que orgenizam a educação em todos os níveis:
+  - Para assegurar o conhecimento;
+  - Para assegurar a cultura; e
+  - Para assegurar a pesquisa
 
 ## Forças Atenuantes da Legislação
 
