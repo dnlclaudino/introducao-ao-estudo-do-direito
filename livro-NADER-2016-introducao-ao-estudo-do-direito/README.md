@@ -45,7 +45,7 @@ NADER, Paulo. Introdução ao Estudo do Direito. 38. ed. Rio de Janeiro:Forense,
 ### PARTE III - A NOÇÃO DE DIREITO
 
 #### Capítulo 7 - O DIREITO NO QUADRO DO UNIVERSO
-#### Capítulo 8 - DEFINIÇÕES E ACEPÇÕES DA PALAVRA DIREITO
+#### [Capítulo 8 - DEFINIÇÕES E ACEPÇÕES DA PALAVRA DIREITO](./capitulo-08-definicoes-e-acepcoes-direito.md)
 #### [Capítulo 9 - NORMA JURÍDICA](./capitulo-09-norma-juridica.md)
 #### Capítulo 10 - A DIVISÃO DO DIREITO POSITIVO
 #### Capítulo 11 - JUSTIÇA E EQUIDADE
