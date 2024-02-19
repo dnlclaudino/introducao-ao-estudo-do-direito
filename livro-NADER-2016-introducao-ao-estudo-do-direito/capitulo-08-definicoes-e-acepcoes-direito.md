@@ -34,7 +34,7 @@ Definições e Acepções da Palavra Direito
 - [Definições Reais ou Lógicas](#definições-reais-ou-lógicas)
 - [Definições Históricas do Direito](#definições-históricas-do-direito)
 - [Acepções da Palavra Direito](#acepções-da-palavra-direito)
-  - [Considerações Prévias](#considerações-prévias)
+  - [Considerações Prévias](#considerações-prévias-1)
   - [Ciência do Direito](#ciência-do-direito)
   - [Direito Natural e Direito Positivo](#direito-natural-e-direito-positivo)
   - [Direito Objetivo e Direito Subjetivo](#direito-objetivo-e-direito-subjetivo)
@@ -86,6 +86,26 @@ Definições e Acepções da Palavra Direito
 
 ## Definições Nominais
 
+- <span style="background-color:green">**ANTES**</span> de elaborarmos uma <span style="background-color:yellow">**DEFINIÇÃO DO DIREITO**</span>, devemos alcançar o seu <span style="background-color:yellow">**CONCEITO**</span>;
+  - Entenda-se como **CONCEITO DE DIREITO**  a sua 1º representação intelectual;
+  - A familiaridade com o CONCEITO DE DIREITO permitirá a sua DEFINIÇÃO;
+- DEFINIÇÃO:
+  - É a **ARTE** de **EXTERIORIZAÇÃO DE UM CONCEITO**;
+  - Que segue um **MÉTODO DE EXPOSIÇÃO**;
+  - É uma **ATIVIDADE DE FINALIZAÇÃO** quando o sujeito (cognoscente) já conhece o OBJETO (cognoscido)
+- Para **NADER (2016, p. XX)**, o **CONCEITO DE DIREITO** <span style="color:red;font-weight:bold">**não é captado**</span> pelo estudioso <u>**nas primeiras reflexões**</u>.
+  - A **formação** de um **CONCEITO DE DIREITO** passa por um **processo evolutivo**;
+    - <u>**Partindo**</u> do **CONHECIMENTO VULGAR**;
+    - <u>**Buscando alcançar**</u> o seu **CONHECIMENTO CIENTÍFICO** e, até, o CONHECIMENTO FILOSÓFICO, na medida em que **ADQUIRE NOVAS EXPERIÊNCIAS**;
+- A IMPORTÂNCIA do CONCEITO DE DIREITO:
+  - É importante para a teoria;
+  - É importante para atividades práticas que envolvem
+    - Interpretação do Direito em casos concretos;
+    - Aplicação do Direito em casos concretos;
+  - O **conceito** é um valioso **INSTRUMENTO DO RACIOCÍNIO JURÍDICO**;
+    - É interessante notar que:
+      - Em **outras áreas do saber**, o **conceito da ciência** <span style="color:red;font-weight:bold">**NÃO É essencial**</span> às práticas correspondentes;
+      - Para o Direito, o **conceito da ciência** <span style="color:red;font-weight:bold">**É essencial e fundamental**</span> para as suas práticas correspondentes;
 
 ### Definição Etimológica
 
