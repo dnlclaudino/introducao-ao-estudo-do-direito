@@ -135,8 +135,26 @@ flowchart LR
 
 ### Definição Etimológica
 
+- Esta espécie explica a origem do vocábulo, a sua genealogia.
+A palavra Direito é oriunda do adjetivo latino directus, a, um (qualidade do que está conforme a reta; o que não tem inclinação, desvio ou curvatura), que provém do particípio passado do verbo dirigo, is, rexi,
+rectum, dirigere, equivalente a guiar, conduzir, traçar, alinhar.
+- O vocábulo surgiu na Idade Média, aproximadamente no século IV, e não foi empregado pelos romanos, que se utilizaram de jus, para designar o que era lícito e de injuria, para expressar o ilícito.
+- A etimologia de jus é discutida pelos filólogos. 
+  - Para uma corrente, provém do latim Jussum (mandado), particípio passado do verbo jubere, que corresponde, em nossa língua, a mandar, ordenar. O radical seria do sânscrito Yu (vínculo). 
+  - Para outra corrente, o vocábulo estaria ligado a Justum (o que é justo), que teria o seu radical no védico Yós, que significa bom, santidade, proteção. Do vocábulo jus surgiram outros termos, que se incorporaram à terminologia jurídica: justiça, juiz, juízo, jurisconsulto, jurista, jurisprudência, jurisdição. 
+- A preferência dos povos em geral pelo emprego do vocábulo Direito decorre, provavelmente, do fato de possuir significado mais amplo do que jus.
 
 ### Definição Semântica
+
+- Semântica é a parte da gramática que registra os diferentes sentidos que a palavra alcança em seu desenvolvimento. O mundo das palavras possui vida e é dinâmico. O povo cria a linguagem e é agente de sua evolução. 
+- A palavra Direito também possui história. 
+  - Desde a sua formação, até o presente, passou por significados vários. 
+  - Expressou, primeiramente, a qualidade do que está conforme a reta; e
+  - Sucessivamente, designou: Aquilo que está conforme a lei; a própria lei; conjunto de leis; a ciência que estuda as leis.
+- A definição nominal, a par de algumas contribuições que oferece, não pode ser indicada como fator decisivo à formação do conhecimento científico. 
+  - O excessivo recurso à lexicografia, Herman Kantorowicz denomina de “<span style="background-color:yellow">**REALISMO VERBAL**</span>” e o condena: “uma definição científica não pode ser estruturada através da lexicografia, ainda quando uma grande parte dos juristas de todos os tempos haja acreditado na possibilidade da utilização desse método.
+  - Constitui, pois, erro fundamental, que tem viciado numerosas investigações em todos os campos do conhecimento, o fato de estimar as definições como algo relacionado com a questão do uso verdadeiro ou errôneo da linguagem.”
+
 
 
 ## Definições Reais ou Lógicas
