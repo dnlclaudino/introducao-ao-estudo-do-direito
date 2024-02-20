@@ -97,7 +97,7 @@ Definições e Acepções da Palavra Direito
   - A **formação** de um **CONCEITO DE DIREITO** passa por um **processo evolutivo**;
     - <u>**Partindo**</u> do **CONHECIMENTO VULGAR**;
     - <u>**Buscando alcançar**</u> o seu **CONHECIMENTO CIENTÍFICO** e, até, o CONHECIMENTO FILOSÓFICO, na medida em que **ADQUIRE NOVAS EXPERIÊNCIAS**;
-- A IMPORTÂNCIA do CONCEITO DE DIREITO:
+- A **IMPORTÂNCIA** do **CONCEITO DE DIREITO**:
   - É importante para a teoria;
   - É importante para atividades práticas que envolvem
     - Interpretação do Direito em casos concretos;
@@ -106,6 +106,33 @@ Definições e Acepções da Palavra Direito
     - É interessante notar que:
       - Em **outras áreas do saber**, o **conceito da ciência** <span style="color:red;font-weight:bold">**NÃO É essencial**</span> às práticas correspondentes;
       - Para o Direito, o **conceito da ciência** <span style="color:red;font-weight:bold">**É essencial e fundamental**</span> para as suas práticas correspondentes;
+  - Quando o jurista articula um PROCESSO ARGUMENTATIVO diante de certas questões:
+    - Ele recorre a PARADIGMAS
+      - Um dos paradigmas é o CONCEITO DE DIREITO;
+    - Ele deve buscar seu próprio conceito de Direito (_JUS_) como grande referencial que lhe proporcionará o encamihamento para as soluções a apresentar;
+- As DEFINIÇÕES PARA O DIREITO podem ser:
+  - <span style="background-color:green">**NOMINAIS**</span>
+    - Podem ser
+      - <span style="background-color:yellow">Etimológicas</span>; ou
+      - <span style="background-color:yellow">Semânticas</span>
+    - Que procuram expressar o significado da palavra em função do nome do objeto;
+  - <span style="background-color:green">**REAIS OU LÓGICAS**</span>
+    - Que fixam a **essencia do objeto**, fornecendo as suas notas básicas;
+- Neste capítulo, Nader (2016, p.75) aborda quatro (04) definições para o Direito.
+
+<center>
+<p><b>Figura:</b> Definições do Direito </p>
+
+```mermaid
+flowchart LR
+    DD[Definições<br>do Direito] --> N[Nominais]
+    N --> E[Etimológicas]
+    N --> S[Semântica]
+    DD --> RL[Reais ou Logicas]
+```
+
+<p><b>Fonte: Nader (2016, p. 75)</b></p>
+</center>
 
 ### Definição Etimológica
 
