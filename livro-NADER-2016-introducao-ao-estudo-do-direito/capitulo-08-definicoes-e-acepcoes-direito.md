@@ -25,22 +25,30 @@
 
 <center><b>SUMÁRIO</b></center>
 
-<!-- TOC updateonsave:false-->
+<!-- TOC updateonsave:false -->
 
-- [Considerações Prévias](#considerações-prévias)
-- [Definições Nominais](#definições-nominais)
-  - [Definição Etimológica](#definição-etimológica)
-  - [Definição Semântica](#definição-semântica)
-- [Definições Reais ou Lógicas](#definições-reais-ou-lógicas)
-- [Definições Históricas do Direito](#definições-históricas-do-direito)
-- [Acepções da Palavra Direito](#acepções-da-palavra-direito)
-  - [Considerações Prévias](#considerações-prévias-1)
-  - [Ciência do Direito](#ciência-do-direito)
-  - [Direito Natural e Direito Positivo](#direito-natural-e-direito-positivo)
-  - [Direito Objetivo e Direito Subjetivo](#direito-objetivo-e-direito-subjetivo)
-  - [O Emprego do Vocábulo no Sentido de Justiça](#o-emprego-do-vocábulo-no-sentido-de-justiça)
-- [Conceito de Ordem Jurídica](#conceito-de-ordem-jurídica)
+- [Definições e Acepções da Palavra Direito](#definições-e-acepções-da-palavra-direito)
+  - [Considerações Prévias](#considerações-prévias)
+  - [Definições Nominais](#definições-nominais)
+    - [Definição Etimológica](#definição-etimológica)
+      - [A palavra DIREITO](#a-palavra-direito)
+      - [A palavra JUS](#a-palavra-jus)
+    - [Definição Semântica](#definição-semântica)
+  - [Definições Reais ou Lógicas](#definições-reais-ou-lógicas)
+    - [Conjunto de normas de conduta social](#conjunto-de-normas-de-conduta-social)
+    - [Imposto coercitivamente pelo Estado](#imposto-coercitivamente-pelo-estado)
+    - [Para a realização da segurança segundo os critérios de justiça](#para-a-realização-da-segurança-segundo-os-critérios-de-justiça)
+    - [Conclusão sobre as definições reais ou lógicas](#conclusão-sobre-as-definições-reais-ou-lógicas)
+  - [Definições Históricas do Direito](#definições-históricas-do-direito)
+  - [Acepções da Palavra Direito](#acepções-da-palavra-direito)
+    - [Considerações Prévias](#considerações-prévias-1)
+    - [Ciência do Direito](#ciência-do-direito)
+    - [Direito Natural e Direito Positivo](#direito-natural-e-direito-positivo)
+    - [Direito Objetivo e Direito Subjetivo](#direito-objetivo-e-direito-subjetivo)
+    - [O Emprego do Vocábulo no Sentido de Justiça](#o-emprego-do-vocábulo-no-sentido-de-justiça)
+  - [Conceito de Ordem Jurídica](#conceito-de-ordem-jurídica)
 
+<!-- /TOC -->
 <!-- /TOC -->
 
 ## Considerações Prévias
@@ -135,30 +143,126 @@ flowchart LR
 
 ### Definição Etimológica
 
-- Esta espécie explica a origem do vocábulo, a sua genealogia.
-A palavra Direito é oriunda do adjetivo latino directus, a, um (qualidade do que está conforme a reta; o que não tem inclinação, desvio ou curvatura), que provém do particípio passado do verbo dirigo, is, rexi,
-rectum, dirigere, equivalente a guiar, conduzir, traçar, alinhar.
-- O vocábulo surgiu na Idade Média, aproximadamente no século IV, e não foi empregado pelos romanos, que se utilizaram de jus, para designar o que era lícito e de injuria, para expressar o ilícito.
-- A etimologia de jus é discutida pelos filólogos. 
-  - Para uma corrente, provém do latim Jussum (mandado), particípio passado do verbo jubere, que corresponde, em nossa língua, a mandar, ordenar. O radical seria do sânscrito Yu (vínculo). 
-  - Para outra corrente, o vocábulo estaria ligado a Justum (o que é justo), que teria o seu radical no védico Yós, que significa bom, santidade, proteção. Do vocábulo jus surgiram outros termos, que se incorporaram à terminologia jurídica: justiça, juiz, juízo, jurisconsulto, jurista, jurisprudência, jurisdição. 
-- A preferência dos povos em geral pelo emprego do vocábulo Direito decorre, provavelmente, do fato de possuir significado mais amplo do que jus.
+- A definição etimológica explica a origem do vocábulo, a sua genealogia.
+
+#### A palavra DIREITO
+
+- A palavra Direito
+  - É oriunda do adjetivo latino **_directus_**, a, um
+    - Qualidade do que está conforme a reta;
+    - Que não tem inclinação, desvio ou curvatura;
+    - Provém do particípio passado do verbo **_dirigo_**, is, rexi,
+**_rectum_**, **_dirigere_**, equivalente a:
+      - Guiar, conduzir, traçar, alinhar.
+- O vocábulo Direito:
+  - Surgiu aproximadamente no séc. IV, na Idade Média;
+  - Não foi empregado pelos romanos
+    - Que se utilizaram de **_jus_**, para designar o que era lícito; e
+    - Que se utilizaram de **_injuria_**, para expressar o ilícito.
+
+#### A palavra JUS
+
+- A **ETIMOLOGIA DE JUS** é discutida pelos filólogos:
+  - **PARA UMA CORRENTE**:
+    - Provém do latim **_Jussum_** (mandado)
+      - Particípio passado do verbo **_jubere_**, que corresponde, em nossa língua:
+        - A mandar, ordenar.
+      -  O radical seria do sânscrito **_Yu_** (vínculo). 
+  - **PARA OUTRA CORRENTE**:
+    - O vocábulo estaria ligado a **_Justum_** (o que é justo)
+      - Que teria o seu radical no védico **_Yós_**, que significa:
+        - Bom, santidade, proteção.
+- Do **VOCÁBULO JUS** surgiram outros termos, que se incorporaram à terminologia jurídica:
+  - justiça, juiz, juízo, jurisconsulto, jurista, jurisprudência, jurisdição. 
+- A <u>**preferência dos povos em geral**</u> pelo emprego do **vocábulo Direito** decorre, provavelmente, do <u>**fato de possuir significado mais amplo do que jus**</u>.
 
 ### Definição Semântica
 
-- Semântica é a parte da gramática que registra os diferentes sentidos que a palavra alcança em seu desenvolvimento. O mundo das palavras possui vida e é dinâmico. O povo cria a linguagem e é agente de sua evolução. 
-- A palavra Direito também possui história. 
-  - Desde a sua formação, até o presente, passou por significados vários. 
-  - Expressou, primeiramente, a qualidade do que está conforme a reta; e
-  - Sucessivamente, designou: Aquilo que está conforme a lei; a própria lei; conjunto de leis; a ciência que estuda as leis.
-- A definição nominal, a par de algumas contribuições que oferece, não pode ser indicada como fator decisivo à formação do conhecimento científico. 
-  - O excessivo recurso à lexicografia, Herman Kantorowicz denomina de “<span style="background-color:yellow">**REALISMO VERBAL**</span>” e o condena: “uma definição científica não pode ser estruturada através da lexicografia, ainda quando uma grande parte dos juristas de todos os tempos haja acreditado na possibilidade da utilização desse método.
-  - Constitui, pois, erro fundamental, que tem viciado numerosas investigações em todos os campos do conhecimento, o fato de estimar as definições como algo relacionado com a questão do uso verdadeiro ou errôneo da linguagem.”
-
+- Semântica é a parte da gramática que **registra os diferentes sentidos** que a palavra alcança em seu desenvolvimento.
+- O mundo das palavras possui vida e é dinâmico;
+- O povo cria a linguagem e é agente de sua evolução;
+- A **PALAVRA DIREITO** também possui história. 
+  - Desde a sua formação, até o presente, passou por significados vários; 
+  - 1️⃣ Expressou, <u>**primeiramente**</u>:
+    - A qualidade do que está conforme a reta; e
+  - 2️⃣ <u>**Sucessivamente**</u>, designou:
+    - Aquilo que está conforme a lei;
+    - A própria lei;
+    - Conjunto de leis;
+    - A ciência que estuda as leis.
+- A **definição nominal**, a par de algumas contribuições que oferece:
+  - <span style="background-color:yellow;color:red;font-weight:bold">**Não pode ser indicada**</span> como fator decisivo à formação do conhecimento científico; 
+  - <span style="background-color:yellow">**O excessivo recurso à lexicografia**</span>, Herman Kantorowicz denomina de “<span style="background-color:yellow">**REALISMO VERBAL**</span>” e o condena: “uma definição científica não pode ser estruturada através da lexicografia, ainda quando uma grande parte dos juristas de todos os tempos haja acreditado na possibilidade da utilização desse método.
+  - <span style="background-color:yellow">**Constitui, pois, erro fundamental** </span>, que tem viciado numerosas investigações em todos os campos do conhecimento, o fato de 
+    - **Estimar as definições** como algo relacionado com a questão do **uso verdadeiro** ou **uso errôneo** <u>da **linguagem**</u>.”
 
 
 ## Definições Reais ou Lógicas
 
+- Definir:
+  - **IMPLICA**:
+    - Delimitar;
+    - Assinalar as notas mais gerais; e
+    - Assinalar as específicas do objeto
+  - **COM A FINALIDADE DE**:
+    - Distingui-lo de qualquer outro
+- A **TAREFA DE DEFINIR**
+  - Corresponde a uma necessidade de ordem e de firmeza dos conhecimentos (indispensável à organização das ciências);
+- Os romanos afirmaram:
+  - **_Omne definitio periculosa est_** (toda definição é perigosa); assim como
+  - **_Definitio est initium omni disputationi_** (a definição é o princípio para toda disputa).
+- A <span style="background-color:green">**TÉCNICA DAS DEFINIÇÕES REAIS**</span> exige a <span style="background-color:yellow">escolha de um **MÉTODO ADEQUADO**</span>;
+- Para se atender aos <span style="background-color:green">**PRESSUPOSTOS DA LÓGICA FORMAL**</span>:
+    - A definição <u>deverá apontar</u>:
+      - O **GÊNERO PRÓXIMO**; e
+      - A **DIFERENÇA ESPECÍFICA**.
+- Este critério era conhecido e adotado pelos antigos romanos, que já afirmavam:
+  - **_Definitio fit per genus proximum et differentiam specificam_** (A definição se torna um gênero próximo e uma diferença específica).
+  - O <span style="background-color:green">**GÊNERO PRÓXIMO**</span> de uma definição **apresenta as notas comuns** às diversas espécies que compõem um gênero;
+  - A <span style="background-color:green">**DIFERENÇA ESPECÍFICA**</span> **fornece o traço peculiar, exclusivo, que vai distinguir o objeto** definido das demais espécies;
+- Em **relação ao Direito**:
+  - O <span style="background-color:yellow">**gênero próximo**</span> da definição é constituído pelo núcleo comum aos diferentes instrumentos de controle social: Direito, Moral, Regras de Trato Social e Religião.
+  - A <span style="background-color:yellow">**diferença específica**</span> deve apontar a característica que somente o Direito possui e o separa dos demais processos de conduta social
+- Examinando <span style="background-color:green">o **vocábulo Direito**</span> do <span style="background-color:yellow">ponto de vista **objetivo**</span>:
+  - <span style="background-color:green">**Direito**</span> é um conjunto de normas de conduta social, imposto coercitivamente pelo Estado, para a realização da segurança, segundo os critérios de justiça.
+  - **Nos subitens abaixo**, dividiremos essa definição do Direito em partes e detalharemos o que as partes significam.
+
+### Conjunto de normas de conduta social
+
+- <span style="background-color:yellow">**Conjunto de normas de conduta social**</span>:
+  - É o gênero próximo;
+  - Nesta primeira parte da definição:
+    - É comum aos demais instrumentos de controle social;
+    - Estão presentes **DOIS** importantes **ELEMENTOS**:
+      - Normas; e
+        - As normas definem os procedimentos a serem adotados pelos destinatários do Direito;
+        - As normas Fixam pautas de comportamento social;
+        - As normas estabelecem os limites de liberdade para os homens em sociedade;
+        - As proibições impostas pelas normas jurídicas traçam a linha divisória entre o **lícito** e o **ilícito**;
+        - As normas impõem obrigações apenas do ponto de vista social
+      - Conduta social.
+        - A <span style="background-color:green">**conduta exigida**</span> <span style="color:red;font-weight:bold">**não alcança**</span> o homem na sua <span style="background-color:yellow">**intimidade**</span>;
+          - Este âmbito é <span style="background-color:yellow">reservado à **Moral** e à **Religião**</span>.
+    - É <span style="background-color:green">**fundamental para a vida do Direito**</span>:
+      - 1️⃣ Que **haja adesão** às **normas jurídicas** (aos comandos jurídicos);
+      - 2️⃣ Que as **condutas sociais** <u>sigam</u> os ditames das **normas jurídicas**.
+    - <span style="background-color:yellow">O Direito **sem efetividade**</span> é <u>**letra morta**</u>; existirá apenas formalmente.
+    - <span style="background-color:green">**Além de normas que disciplinam o convívio social**</span>, o **ordenamento jurídico** reúne disposições:
+      - Que organizam o Estado e se impõem a quem detém parcela de poder;
+      - Cuida ainda das relações entre as pessoas e os órgãos públicos.
+    
+### Imposto coercitivamente pelo Estado
+
+### Para a realização da segurança segundo os critérios de justiça
+
+
+
+### Conclusão sobre as definições reais ou lógicas
+
+- <span style="background-color:yellow;color:red">**Não há**</span>, entre os **filósofos do Direito**:
+  - <span style="background-color:green">**Uma definição padronizada sobre a JUSTIÇA**</span>;
+  - **A ideia matriz** de <u>**quase todas as concepções**</u> partiu de **Ulpiano**, jurisconsulto romano, que a empregou como virtude moral:
+    - **_Iustitia est constans et perpetua voluntas ius suum quique tribuendi_** (a justiça é a constante e permanente vontade de dar a cada um o seu direito)
 
 ## Definições Históricas do Direito
 
