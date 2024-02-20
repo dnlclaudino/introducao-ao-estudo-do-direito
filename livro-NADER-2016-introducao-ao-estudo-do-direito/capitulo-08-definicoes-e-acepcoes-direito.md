@@ -120,8 +120,8 @@
     - Que fixam a **essencia do objeto**, fornecendo as suas notas básicas;
 - Neste capítulo, Nader (2016, p.75) aborda quatro (04) definições para o Direito.
 
-<center>
-<p><b>Figura:</b> Definições do Direito </p>
+
+<p align="center"><b>Figura:</b> Definições do Direito </p>
 
 ```mermaid
 flowchart LR
@@ -131,8 +131,7 @@ flowchart LR
     DD --> RL[Reais ou Logicas]
 ```
 
-<p><b>Fonte: Nader (2016, p. 75)</b></p>
-</center>
+<p align="center"><b>Fonte: Nader (2016, p. 75)</b></p>
 
 ### Definição Etimológica
 
