@@ -223,35 +223,75 @@ flowchart LR
 - Em **relação ao Direito**:
   - O <span style="background-color:yellow">**gênero próximo**</span> da definição é constituído pelo núcleo comum aos diferentes instrumentos de controle social: Direito, Moral, Regras de Trato Social e Religião.
   - A <span style="background-color:yellow">**diferença específica**</span> deve apontar a característica que somente o Direito possui e o separa dos demais processos de conduta social
-- Examinando <span style="background-color:green">o **vocábulo Direito**</span> do <span style="background-color:yellow">ponto de vista **objetivo**</span>:
-  - <span style="background-color:green">**Direito**</span> é um conjunto de normas de conduta social, imposto coercitivamente pelo Estado, para a realização da segurança, segundo os critérios de justiça.
+- Examinando <span style="background-color:green">o **vocábulo Direito**</span> do <span style="background-color:yellow">ponto de vista **objetivo**</span>.
+
+<table border="1" id="quadro-definicao-o-que-e-o-direito">
+  <tr>
+    <td align="center" width="140px" style="border-right-style:hidden">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-definicao.png?raw=true" heigh="80" width="80"><br>
+      <b>Definição</b>
+    </td>
+    <td valign="top">
+     <p style="text-align:center"><b>O QUE É O DIREITO ?🤔</b></p>
+     <p style="text-align:justify">Para Nader (2016, p.XX)</b>, <span style="background-color:green"><b>O DIREITO</b></span> é um <span style="color:brown;font-weight:bold">conjunto de normas de conduta social</span>, <span style="color:red;font-weight:bold">imposto coercitivamente pelo Estado</span>, <span style="color:green;font-weight:bold">para a realização da segurança</span>, <span style="color:violet;font-weight:bold">segundo os critérios de justiça</span>.</p>
+    </td>
+  </tr>
+</table>
+
   - **Nos subitens abaixo**, dividiremos essa definição do Direito em partes e detalharemos o que as partes significam.
 
 ### Conjunto de normas de conduta social
 
-- <span style="background-color:yellow">**Conjunto de normas de conduta social**</span>:
+- <span style="background-color:yellow">**Conjunto de NORMAS DE CONDUTA SOCIAL**</span>:
   - É o gênero próximo;
   - Nesta primeira parte da definição:
     - É comum aos demais instrumentos de controle social;
     - Estão presentes **DOIS** importantes **ELEMENTOS**:
-      - Normas; e
-        - As normas definem os procedimentos a serem adotados pelos destinatários do Direito;
-        - As normas Fixam pautas de comportamento social;
-        - As normas estabelecem os limites de liberdade para os homens em sociedade;
-        - As proibições impostas pelas normas jurídicas traçam a linha divisória entre o **lícito** e o **ilícito**;
+      - 1️⃣ **NORMAS**; e
+        - As normas **definem os procedimentos** a serem adotados pelos destinatários do Direito;
+        - As normas **fixam pautas de comportamento** social;
+        - As normas **estabelecem os limites de liberdade** para os homens em sociedade;
+        - As proibições impostas pelas normas jurídicas **traçam a linha divisória** entre o **lícito** e o **ilícito**;
         - As normas impõem obrigações apenas do ponto de vista social
-      - Conduta social.
+      - 2️⃣ **CONDUTA SOCIAL**.
         - A <span style="background-color:green">**conduta exigida**</span> <span style="color:red;font-weight:bold">**não alcança**</span> o homem na sua <span style="background-color:yellow">**intimidade**</span>;
           - Este âmbito é <span style="background-color:yellow">reservado à **Moral** e à **Religião**</span>.
-    - É <span style="background-color:green">**fundamental para a vida do Direito**</span>:
+    - **DUAS COISAS** são <span style="background-color:yellow">**fundamentais para a vida do Direito**</span>:
       - 1️⃣ Que **haja adesão** às **normas jurídicas** (aos comandos jurídicos);
       - 2️⃣ Que as **condutas sociais** <u>sigam</u> os ditames das **normas jurídicas**.
     - <span style="background-color:yellow">O Direito **sem efetividade**</span> é <u>**letra morta**</u>; existirá apenas formalmente.
-    - <span style="background-color:green">**Além de normas que disciplinam o convívio social**</span>, o **ordenamento jurídico** reúne disposições:
-      - Que organizam o Estado e se impõem a quem detém parcela de poder;
-      - Cuida ainda das relações entre as pessoas e os órgãos públicos.
+    - <span style="background-color:yellow">**ALÉM DE NORMAS QUE DISCIPLINAM O CONVÍVIO SOCIAL**</span>, o **ordenamento jurídico** reúne disposições:
+      - Que **organizam o Estado** e **se impõem a quem detém parcela de poder**;
+      - Cuida ainda das **relações entre as pessoas e os órgãos públicos**.
     
 ### Imposto coercitivamente pelo Estado
+
+- Essa é a diferença específica;
+- <span style="color:red">**Apenas as NORMAS JURÍDICAS**</span> <span style="background-color:yellow">**requerem a participação do Estado**</span>, <span style="color:red;font-weight:bold">**AO CONTRÁRIO**</span> das outras espécies de normas;
+- O **ESTADO** controla a vida jurídica do país;
+  - É indispensável que esteja devidamente estruturado de acordo com a clássica divisão dos poderes:
+    - Legislativo;
+    - Executivo; e
+    - Judiciário
+  - É indispensável que esses poderes cumpram as funções que lhes são próprias;
+- O <span style="background-color:yellow">**comando que o Estado exerce**</span> <span style="color:red;font-weight:bold">**não significa**</span>, <u>obrigatoriamente</u>, o <span style="background-color:yellow">**MONOPÓLIO DAS FONTES CRIADORAS DO DIREITO**</span>;
+- Ao Estado compete
+  - Estabelecer o **ELENCO DAS FONTES FORMAIS DO DIREITO**;
+  - Estabelecer a **HIERARQUIA DAS FONTES FORMAIS DO DIREITO**.
+- Na dependência dos **CRITÉRIOS** adotados pelo **SISTEMA JURÍDICO DO ESTADO**:
+  - Os **COSTUMES** podem figurar, ao lado da LEI, uma FONTE DO DIREITO (elemento fontal do Direito)
+  - Os **DECISÕES UNIFORMES DOS TRIBUNAIS (JURISPRUDÊNCIA)** podem figurar, ao lado da LEI, uma FONTE DO DIREITO (elemento fontal do Direito).
+  - Assim ocorrendo, asociedade e os tribunais, diretamente, poderão introduzir, no mundo jurídico, novas normas de conduta
+social.
+As regras de comportamento não existem apenas como enunciados submetidos à vontade de seus
+destinatários. Os deveres jurídicos se revelam em uma ambiência, onde a liberdade e a força coexistem.
+Como ser racional e responsável, o homem deve ajustar a sua conduta, com vontade própria, aos
+preceitos legais. Esta atitude de espontânea adesão, contudo, não é prática comum a todos os homens.
+Surge, daí, a imperiosa necessidade de o Direito ser dotado de um mecanismo de coerção, em que o
+elemento força se apresente em estado latente, mas apto a ser acionado nas circunstâncias próprias. A
+coercitividade, a cargo do Estado, é uma reserva de força que exerce intimidação sobre os destinatários
+das normas jurídicas.
+
 
 ### Para a realização da segurança segundo os critérios de justiça
 
