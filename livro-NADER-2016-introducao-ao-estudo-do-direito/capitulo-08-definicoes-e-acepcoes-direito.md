@@ -327,3 +327,77 @@ das normas jurídicas.
 
 ## Conceito de Ordem Jurídica
 
+- **ORDEM JURÍDICA** e **ORDENAMENTO JURÍDICO** são expressões sinônimas;
+- **ORDEM JURÍDICA** (ou **ORDENAMENTO JURÍDICO**) é o agrupamento de normas jurídicas:
+  - Que se ajustam entre si;
+  - Que formam um todo harmônico e coerente de preceitos;
+- **ORDEM JURÍDICA** (ou **ORDENAMENTO JURÍDICO**) é o agrupamento de **normas jurídicas** vinculadas entre si por uma **fundamentação unitária**;
+- Uma **ORDEM JURÍDICA** (ou **ORDENAMENTO JURÍDICO**) é um **CORPO NORMATIVO**;
+  - Em decorrência disso, quando sobre um FATO incide uma determinada NORMA JURÍDICA:
+  - Na verdade, NÃO é APENAS <u>**aquela NORMA JURÍDICA**</u> que <u>**se apresenta**</u> sobre o FATO;
+  - Na verdade, TODO o ORDENAMENTO JURÍDICO se faz presente nesse momento;
+  - Para NADER (2016, p XX), <u>**normas apreciadas isoladamente**</u> <span style="background-color:yellow">**não possuem vida**</span>;
+- A **IDÉIA DE ORDEM (ou ORDENAMENTO)** pressupõe uma **pluralidade de ELEMENTOS**:
+  - Que <span style="color:red;background-color:yellow">**NÃO encontram-se**</span> disposto **DE QUALQUER FORMA** ou **EM QUALQUER LUGAR**;
+  - Que estão **ADEQUADAMENTE POSICIONADOS**;
+  - Que possuem UMA **FUNÇÃO DEFINIDA E ADEQUADA**;
+  - Que compõe uma **UNIDADE DE FIM**;
+- A **ORDEM JURÍDICA**
+  - É o **sistema de legalidade do Estado**;
+  - Forma-se pela **totalidade das NORMAS <span style="background-color:yellow">VIGENTES</span>**
+    - Que **SE LOCALIZAM** em **DIVERSAS FONTES**;
+    - Que **SE REVELAM** a partir da <span style="background-color:yellow">**CONSTITUIÇÃO FEDERAL**</span>;
+      - A **CONSTITUIÇÃO** é a responsável pelas regras mais gerais e básicas à organização social;
+      - AS **DEMAIS formas de expressão do Direito** (Leis ordinárias, leis complementares, decretos, costumes etc)
+        - Devem estar ajustadas entre si;
+        - Devem estar conjugadas à Lei Maior (CONSTITUIÇÃO)
+- A **PLURALIDADE DE ELEMENTOS** que o Direito oferece:
+  - Compõe-se de **NORMAS JURÍDICAS** que <span style="color:red;background-color:yellow">**NÃO se acham JUSTAPOSTAS**</span>;
+  - Compõe-se  de **NORMAS JURÍDICAS** que <span style="color:green;background-color:yellow">**se entrelaçam em uma <u>CONEXÃO HARMÔNICA</u>**</span>;
+- A **FORMAÇÃO DE UMA ORDEM JURÍDICA**:
+  - Exige **COERÊNCIA LÓGICA** das **NORMAS JURÍDICAS**;
+  - <span style="background-color:yellow">**CONFLITOS** que eventualmente existam</span>:
+    - **DEVEM SER SOLUCIONADOS** através de uma **INTERPRETAÇÃO SISTEMÁTICA**;
+      - O <span style="background-color:yellow">**APLICADOR DO DIREITO**</span>:
+        - <span style="background-color:yellow">**Deverá**</span> recorrer a subsídios da HERMENÊUTICA JURÍDICA;
+        - <span style="background-color:yellow">**Deverá**</span> **REDEFINIR o DIREITO POSITIVO**:
+          - Como <span style="background-color:yellow">**UM TODO LÓGICO**</span> capaz de irradiar **SEGURANÇA** e **JUSTIÇA**;
+          - Como uma <span style="background-color:yellow">**UNIDADE DE FIM**</span> capaz de irradiar **SEGURANÇA** e **JUSTIÇA**;
+- <span style="background-color:yellow">**CABERÁ AO JURISTA** </span> aplicar seus <span style="background-color:yellow">**conhecimentos CIENTÍFICO e TÉCNICO**</span> <span style="color:green;background-color:yellow">**para relevar a ORDEM JURÍDICA SUBJACENTE**</span>:
+  - AINDA QUE <span style="color:red;background-color:yellow">**as LEIS sejam MAU ELABORADAS**</span>:
+    - Com visível ATRASO em relação ao momento histórico;
+    - Que apresentem **DISPOSIÇÕES CONTRADITÓRIAS**
+    - Que apresentem **numerosas LACUNAS**
+    - Que apresentem **numerosas OMISSÕES**
+  - NESSES CASOS, <span style="background-color:yellow">**CABERÁ AO JURISTA**</span>:
+    - Submeter as normas jurísicas à INTERPRETAÇÃO ATUALIZADORA;
+    - Renovar a sua compreensão à luz das exigências contemporâneas
+    - Expungir, não considerar, NORMAS JURÍDICAS CONFLITANTES com a ordem jurídica
+    - PREENCHER os VAZIOS (LACUNAS) mediante o emprego da ANALOGIA e da PROTEÇÃO DOS PRINCÍPIOS DO DIREITO consagrados no ordenamento jurídico
+
+ <table border="1" id="quadro-nao-cometa-erros-legislador-entrega-as-leis">
+  <tr>
+    <td align="center" width="140px" style="border-right-style:hidden">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-nao-cometa-erros.png?raw=true" heigh="80" width="80"><br>
+      <b>Não Cometa<br>Erros</b>
+    </td>
+    <td valign="top">
+     <p style="text-align:center"><b>FALSA IDEIA DE UMA ENTREGA DE ORDEM JURIDICA PRONTA E ACABADA PELO LEGISLADOR</b></p>
+     <p style="text-align:justify"><u><b><span style="background-color:red">É FALSA</span></u></b> a impressão que o <b>LEGISLADOR</b> <span style="background-color:yellow">entrega à <b>SOCIEDADE</b></span> uma <b>ORDEM JURÍDICA</b> <b><u><span style="background-color:yellow">pronta e acabada</span></u></b>.</p>
+    </td>
+  </tr>
+</table> 
+
+ <table border="1" id="quadro-nao-cometa-erros-papel-do-jurista-apos-elaboracao-das-leis">
+  <tr>
+    <td align="center" width="140px" style="border-right-style:hidden">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-para-saber-mais.png?raw=true" heigh="80" width="80"><br>
+      <b>Para Saber<br>Mais</b>
+    </td>
+    <td valign="top">
+     <p style="text-align:center"><b>O PAPEL DO JURISTA APÓS A ELABORAÇÃO DAS LEIS</b></p>
+     <p style="text-align:justify"><u><b><span style="background-color:green">CABE AO JURISTA</span></u></b> O <span style="background-color:yellow"><b>PAPEL DE BENEFICIAR</b></span> a <b>ORDEM JURÍDICA</b> entregue pelo <b>LEGISLADOR</b> <span style="background-color:yellow"> à <b>SOCIEDADE</b></span>.</p>
+    </td>
+  </tr>
+</table> 
+  
