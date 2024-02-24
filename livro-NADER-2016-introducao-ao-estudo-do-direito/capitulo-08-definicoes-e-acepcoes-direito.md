@@ -54,12 +54,12 @@
 ## Considerações Prévias
 
 - Emmanuel Kant, no século XVIII, dada a ampla divergência entre os juristas da época: "Os Juristas ainda estão a procura de uma definição para o Direito".
-- Segundo Nader (2016, p.73), <span style="background-color:green">esta crítica</span>, sob certo aspecto, <span style="background-color:yellow">ainda se mantém atual</span> haja vista que <span style="background-color:red">não se formulou</span> ainda <span style="background-color:yellow">uma definição que contemple todos os sentidos do vocábulo</span>.
+- Segundo Nader (2016, p.73), <span style="background-color:lightgreen">esta crítica</span>, sob certo aspecto, <span style="background-color:yellow">ainda se mantém atual</span> haja vista que <span style="background-color:red">não se formulou</span> ainda <span style="background-color:yellow">uma definição que contemple todos os sentidos do vocábulo</span>.
   - Existem DOIS MOTIVOS que trazem dificuldades para uma definição que contemple todos os sentidos do vocábulo:
     - Um motivo de NATUREZA METODOLÓGICA
       - Este motivo refere-se à prática de se examinar diretamente o **TEMA DA DEFINIÇÃO**;
     - Um motivo de relacionado com TENDÊNCIAS FILOSÓFICAS perante o Direito
-- <span style="background-color:green">As DEFINIÇÕES</span> <span style="background-color:yellow">sofrem influência</span> das **inclinações do jurista**;
+- <span style="background-color:lightgreen">As DEFINIÇÕES</span> <span style="background-color:yellow">sofrem influência</span> das **inclinações do jurista**;
   - Se de inclinação LEGALISTA:
     - Identificará o Direito com a **NORMA JURÍDICA**;
   - Se de inclinação IDEALISTA:
@@ -94,7 +94,7 @@
 
 ## Definições Nominais
 
-- <span style="background-color:green">**ANTES**</span> de elaborarmos uma <span style="background-color:yellow">**DEFINIÇÃO DO DIREITO**</span>, devemos alcançar o seu <span style="background-color:yellow">**CONCEITO**</span>;
+- <span style="background-color:lightgreen">**ANTES**</span> de elaborarmos uma <span style="background-color:yellow">**DEFINIÇÃO DO DIREITO**</span>, devemos alcançar o seu <span style="background-color:yellow">**CONCEITO**</span>;
   - Entenda-se como **CONCEITO DE DIREITO**  a sua 1º representação intelectual;
   - A familiaridade com o CONCEITO DE DIREITO permitirá a sua DEFINIÇÃO;
 - DEFINIÇÃO:
@@ -119,12 +119,12 @@
       - Um dos paradigmas é o CONCEITO DE DIREITO;
     - Ele deve buscar seu próprio conceito de Direito (_JUS_) como grande referencial que lhe proporcionará o encamihamento para as soluções a apresentar;
 - As DEFINIÇÕES PARA O DIREITO podem ser:
-  - <span style="background-color:green">**NOMINAIS**</span>
+  - <span style="background-color:lightgreen">**NOMINAIS**</span>
     - Podem ser
       - <span style="background-color:yellow">Etimológicas</span>; ou
       - <span style="background-color:yellow">Semânticas</span>
     - Que procuram expressar o significado da palavra em função do nome do objeto;
-  - <span style="background-color:green">**REAIS OU LÓGICAS**</span>
+  - <span style="background-color:lightgreen">**REAIS OU LÓGICAS**</span>
     - Que fixam a **essencia do objeto**, fornecendo as suas notas básicas;
 - Neste capítulo, Nader (2016, p.75) aborda quatro (04) definições para o Direito.
 
@@ -211,19 +211,19 @@ flowchart LR
 - Os romanos afirmaram:
   - **_Omne definitio periculosa est_** (toda definição é perigosa); assim como
   - **_Definitio est initium omni disputationi_** (a definição é o princípio para toda disputa).
-- A <span style="background-color:green">**TÉCNICA DAS DEFINIÇÕES REAIS**</span> exige a <span style="background-color:yellow">escolha de um **MÉTODO ADEQUADO**</span>;
-- Para se atender aos <span style="background-color:green">**PRESSUPOSTOS DA LÓGICA FORMAL**</span>:
+- A <span style="background-color:lightgreen">**TÉCNICA DAS DEFINIÇÕES REAIS**</span> exige a <span style="background-color:yellow">escolha de um **MÉTODO ADEQUADO**</span>;
+- Para se atender aos <span style="background-color:lightgreen">**PRESSUPOSTOS DA LÓGICA FORMAL**</span>:
     - A definição <u>deverá apontar</u>:
       - O **GÊNERO PRÓXIMO**; e
       - A **DIFERENÇA ESPECÍFICA**.
 - Este critério era conhecido e adotado pelos antigos romanos, que já afirmavam:
   - **_Definitio fit per genus proximum et differentiam specificam_** (A definição se torna um gênero próximo e uma diferença específica).
-  - O <span style="background-color:green">**GÊNERO PRÓXIMO**</span> de uma definição **apresenta as notas comuns** às diversas espécies que compõem um gênero;
-  - A <span style="background-color:green">**DIFERENÇA ESPECÍFICA**</span> **fornece o traço peculiar, exclusivo, que vai distinguir o objeto** definido das demais espécies;
+  - O <span style="background-color:lightgreen">**GÊNERO PRÓXIMO**</span> de uma definição **apresenta as notas comuns** às diversas espécies que compõem um gênero;
+  - A <span style="background-color:lightgreen">**DIFERENÇA ESPECÍFICA**</span> **fornece o traço peculiar, exclusivo, que vai distinguir o objeto** definido das demais espécies;
 - Em **relação ao Direito**:
   - O <span style="background-color:yellow">**gênero próximo**</span> da definição é constituído pelo núcleo comum aos diferentes instrumentos de controle social: Direito, Moral, Regras de Trato Social e Religião.
   - A <span style="background-color:yellow">**diferença específica**</span> deve apontar a característica que somente o Direito possui e o separa dos demais processos de conduta social
-- Examinando <span style="background-color:green">o **vocábulo Direito**</span> do <span style="background-color:yellow">ponto de vista **objetivo**</span>.
+- Examinando <span style="background-color:lightgreen">o **vocábulo Direito**</span> do <span style="background-color:yellow">ponto de vista **objetivo**</span>.
 
 <table border="1" id="quadro-definicao-o-que-e-o-direito">
   <tr>
@@ -233,7 +233,7 @@ flowchart LR
     </td>
     <td valign="top">
      <p style="text-align:center"><b>O QUE É O DIREITO ?🤔</b></p>
-     <p style="text-align:justify">Para Nader (2016, p.XX)</b>, <span style="background-color:green"><b>O DIREITO</b></span> é um <span style="color:brown;font-weight:bold">conjunto de normas de conduta social</span>, <span style="color:red;font-weight:bold">imposto coercitivamente pelo Estado</span>, <span style="color:green;font-weight:bold">para a realização da segurança</span>, <span style="color:violet;font-weight:bold">segundo os critérios de justiça</span>.</p>
+     <p style="text-align:justify">Para Nader (2016, p.XX)</b>, <span style="background-color:lightgreen"><b>O DIREITO</b></span> é um <span style="color:brown;font-weight:bold">conjunto de normas de conduta social</span>, <span style="color:red;font-weight:bold">imposto coercitivamente pelo Estado</span>, <span style="color:lightgreen;font-weight:bold">para a realização da segurança</span>, <span style="color:violet;font-weight:bold">segundo os critérios de justiça</span>.</p>
     </td>
   </tr>
 </table>
@@ -254,7 +254,7 @@ flowchart LR
         - As proibições impostas pelas normas jurídicas **traçam a linha divisória** entre o **lícito** e o **ilícito**;
         - As normas impõem obrigações apenas do ponto de vista social
       - 2️⃣ **CONDUTA SOCIAL**.
-        - A <span style="background-color:green">**conduta exigida**</span> <span style="color:red;font-weight:bold">**não alcança**</span> o homem na sua <span style="background-color:yellow">**intimidade**</span>;
+        - A <span style="background-color:lightgreen">**conduta exigida**</span> <span style="color:red;font-weight:bold">**não alcança**</span> o homem na sua <span style="background-color:yellow">**intimidade**</span>;
           - Este âmbito é <span style="background-color:yellow">reservado à **Moral** e à **Religião**</span>.
     - **DUAS COISAS** são <span style="background-color:yellow">**fundamentais para a vida do Direito**</span>:
       - 1️⃣ Que **haja adesão** às **normas jurídicas** (aos comandos jurídicos);
@@ -275,32 +275,31 @@ flowchart LR
     - Judiciário
   - É indispensável que esses poderes cumpram as funções que lhes são próprias;
 - O <span style="background-color:yellow">**comando que o Estado exerce**</span> <span style="color:red;font-weight:bold">**não significa**</span>, <u>obrigatoriamente</u>, o <span style="background-color:yellow">**MONOPÓLIO DAS FONTES CRIADORAS DO DIREITO**</span>;
-- Ao Estado compete
-  - Estabelecer o **ELENCO DAS FONTES FORMAIS DO DIREITO**;
-  - Estabelecer a **HIERARQUIA DAS FONTES FORMAIS DO DIREITO**.
-- Na dependência dos **CRITÉRIOS** adotados pelo **SISTEMA JURÍDICO DO ESTADO**:
-  - Os **COSTUMES** podem figurar, ao lado da LEI, uma FONTE DO DIREITO (elemento fontal do Direito)
-  - Os **DECISÕES UNIFORMES DOS TRIBUNAIS (JURISPRUDÊNCIA)** podem figurar, ao lado da LEI, uma FONTE DO DIREITO (elemento fontal do Direito).
-  - Assim ocorrendo, asociedade e os tribunais, diretamente, poderão introduzir, no mundo jurídico, novas normas de conduta
-social.
-As regras de comportamento não existem apenas como enunciados submetidos à vontade de seus
-destinatários. Os deveres jurídicos se revelam em uma ambiência, onde a liberdade e a força coexistem.
-Como ser racional e responsável, o homem deve ajustar a sua conduta, com vontade própria, aos
-preceitos legais. Esta atitude de espontânea adesão, contudo, não é prática comum a todos os homens.
-Surge, daí, a imperiosa necessidade de o Direito ser dotado de um mecanismo de coerção, em que o
-elemento força se apresente em estado latente, mas apto a ser acionado nas circunstâncias próprias. A
-coercitividade, a cargo do Estado, é uma reserva de força que exerce intimidação sobre os destinatários
-das normas jurídicas.
+- Ao Estado **COMPETE**
+  - Estabelecer o **<u><span style="color:green;font-weight:bold">ELENCO</span></u>** DAS <u><span style="color:blue;font-weight:bold">**FONTES FORMAIS</span></u> DO DIREITO**;
+  - Estabelecer a <span style="color:green;font-weight:bold">**<u>HIERARQUIA</u>**</span> DAS <span style="color:blue;font-weight:bold"><u>**FONTES FORMAIS**</u></span> DO DIREITO.
+- <span style="background-color:yellow">Na dependência dos **CRITÉRIOS**</span> adotados pelo **SISTEMA JURÍDICO DO ESTADO**:
+  - Os **COSTUMES** <span style="color:green;font-weight:bold">**podem figurar**</span>, ao lado da **LEI**, uma **FONTE DO DIREITO** (elemento fontal do Direito)
+  - Os **DECISÕES UNIFORMES DOS TRIBUNAIS (JURISPRUDÊNCIA)** <span style="color:green;font-weight:bold">**podem figurar**</span>, ao lado da **LEI**, uma **FONTE DO DIREITO** (elemento fontal do Direito).
+  - <span style="background-color:yellow">Assim ocorrendo</span>, a <span style="background-color:lightgreen">sociedade</span> e os <span style="background-color:lightgreen">tribunais</span>, diretamente, <span style="background-color:yellow">**poderão introduzir**</span>, no mundo jurídico, **NOVAS NORMAS DE CONDUTA
+SOCIAL**.
+- As <span style="background-color:lightgreen">**REGRAS DE COMPORTAMENTO**</span>
+  - <span style="background-color:red;color:yellow">**NÃO existem**</span> apenas como **enunciados** submetidos à vontade de seus destinatários;
+  - Os **deveres jurídicos** se revelam em uma ambiência, onde a **liberdade** e a **força coexistem**;
+  - Como **ser racional** e **responsável**, o homem **deve ajustar** a sua **conduta**, com vontade própria, **aos preceitos legais**.
+  - <span style="background-color:yellow">**Esta atitude de espontânea adesão, contudo, não é prática comum a todos os homens**</span>.
+  - Surge, daí, a imperiosa <span style="background-color:lightgreen">**necessidade**</span> de **o Direito ser dotado** de um **MECANISMO DE COERÇÃO**, em que <span style="background-color:yellow">**O ELEMENTO FORÇA**</span> se apresente <span style="background-color:yellow">**EM ESTADO LATENTE**</span>, mas apto a ser acionado nas circunstâncias próprias.
+  - A <span style="background-color:lightgreen">**COERCITIVIDADE**</span>, a cargo do Estado, <span style="background-color:yellow">**é uma reserva de força**</span> que **exerce <span style="background-color:yellow">intimidação</span>** sobre os <span style="background-color:yellow">destinatários das normas jurídicas</span>.
 
 
 ### Para a realização da segurança segundo os critérios de justiça
 
-
+- O aparato legal
 
 ### Conclusão sobre as definições reais ou lógicas
 
 - <span style="background-color:yellow;color:red">**Não há**</span>, entre os **filósofos do Direito**:
-  - <span style="background-color:green">**Uma definição padronizada sobre a JUSTIÇA**</span>;
+  - <span style="background-color:lightgreen">**Uma definição padronizada sobre a JUSTIÇA**</span>;
   - **A ideia matriz** de <u>**quase todas as concepções**</u> partiu de **Ulpiano**, jurisconsulto romano, que a empregou como virtude moral:
     - **_Iustitia est constans et perpetua voluntas ius suum quique tribuendi_** (a justiça é a constante e permanente vontade de dar a cada um o seu direito)
 
@@ -353,7 +352,7 @@ das normas jurídicas.
         - Devem estar conjugadas à Lei Maior (CONSTITUIÇÃO)
 - A **PLURALIDADE DE ELEMENTOS** que o Direito oferece:
   - Compõe-se de **NORMAS JURÍDICAS** que <span style="color:red;background-color:yellow">**NÃO se acham JUSTAPOSTAS**</span>;
-  - Compõe-se  de **NORMAS JURÍDICAS** que <span style="color:green;background-color:yellow">**se entrelaçam em uma <u>CONEXÃO HARMÔNICA</u>**</span>;
+  - Compõe-se  de **NORMAS JURÍDICAS** que <span style="color:lightgreen;background-color:yellow">**se entrelaçam em uma <u>CONEXÃO HARMÔNICA</u>**</span>;
 - A **FORMAÇÃO DE UMA ORDEM JURÍDICA**:
   - Exige **COERÊNCIA LÓGICA** das **NORMAS JURÍDICAS**;
   - <span style="background-color:yellow">**CONFLITOS** que eventualmente existam</span>:
@@ -363,7 +362,7 @@ das normas jurídicas.
         - <span style="background-color:yellow">**Deverá**</span> **REDEFINIR o DIREITO POSITIVO**:
           - Como <span style="background-color:yellow">**UM TODO LÓGICO**</span> capaz de irradiar **SEGURANÇA** e **JUSTIÇA**;
           - Como uma <span style="background-color:yellow">**UNIDADE DE FIM**</span> capaz de irradiar **SEGURANÇA** e **JUSTIÇA**;
-- <span style="background-color:yellow">**CABERÁ AO JURISTA** </span> aplicar seus <span style="background-color:yellow">**conhecimentos CIENTÍFICO e TÉCNICO**</span> <span style="color:green;background-color:yellow">**para relevar a ORDEM JURÍDICA SUBJACENTE**</span>:
+- <span style="background-color:yellow">**CABERÁ AO JURISTA** </span> aplicar seus <span style="background-color:yellow">**conhecimentos CIENTÍFICO e TÉCNICO**</span> <span style="color:lightgreen;background-color:yellow">**para relevar a ORDEM JURÍDICA SUBJACENTE**</span>:
   - AINDA QUE <span style="color:red;background-color:yellow">**as LEIS sejam MAU ELABORADAS**</span>:
     - Com visível ATRASO em relação ao momento histórico;
     - Que apresentem **DISPOSIÇÕES CONTRADITÓRIAS**
@@ -396,7 +395,7 @@ das normas jurídicas.
     </td>
     <td valign="top">
      <p style="text-align:center"><b>O PAPEL DO JURISTA APÓS A ELABORAÇÃO DAS LEIS</b></p>
-     <p style="text-align:justify"><u><b><span style="background-color:green">CABE AO JURISTA</span></u></b> O <span style="background-color:yellow"><b>PAPEL DE BENEFICIAR</b></span> a <b>ORDEM JURÍDICA</b> entregue pelo <b>LEGISLADOR</b> <span style="background-color:yellow"> à <b>SOCIEDADE</b></span>.</p>
+     <p style="text-align:justify"><u><b><span style="background-color:lightgreen">CABE AO JURISTA</span></u></b> O <span style="background-color:yellow"><b>PAPEL DE BENEFICIAR</b></span> a <b>ORDEM JURÍDICA</b> entregue pelo <b>LEGISLADOR</b> <span style="background-color:yellow"> à <b>SOCIEDADE</b></span>.</p>
     </td>
   </tr>
 </table> 
