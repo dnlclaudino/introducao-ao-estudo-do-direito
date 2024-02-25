@@ -27,28 +27,27 @@
 
 <!-- TOC updateonsave:false -->
 
-- [Definições e Acepções da Palavra Direito](#definições-e-acepções-da-palavra-direito)
-  - [Considerações Prévias](#considerações-prévias)
-  - [Definições Nominais](#definições-nominais)
-    - [Definição Etimológica](#definição-etimológica)
+- [Definições e Acepções da Palavra Direito](#defini%C3%A7%C3%B5es-e-acep%C3%A7%C3%B5es-da-palavra-direito)
+  - [Considerações Prévias](#considera%C3%A7%C3%B5es-pr%C3%A9vias)
+  - [Definições Nominais](#defini%C3%A7%C3%B5es-nominais)
+    - [Definição Etimológica](#defini%C3%A7%C3%A3o-etimol%C3%B3gica)
       - [A palavra DIREITO](#a-palavra-direito)
       - [A palavra JUS](#a-palavra-jus)
-    - [Definição Semântica](#definição-semântica)
-  - [Definições Reais ou Lógicas](#definições-reais-ou-lógicas)
+    - [Definição Semântica](#defini%C3%A7%C3%A3o-sem%C3%A2ntica)
+  - [Definições Reais ou Lógicas](#defini%C3%A7%C3%B5es-reais-ou-l%C3%B3gicas)
     - [Conjunto de normas de conduta social](#conjunto-de-normas-de-conduta-social)
     - [Imposto coercitivamente pelo Estado](#imposto-coercitivamente-pelo-estado)
-    - [Para a realização da segurança segundo os critérios de justiça](#para-a-realização-da-segurança-segundo-os-critérios-de-justiça)
-    - [Conclusão sobre as definições reais ou lógicas](#conclusão-sobre-as-definições-reais-ou-lógicas)
-  - [Definições Históricas do Direito](#definições-históricas-do-direito)
-  - [Acepções da Palavra Direito](#acepções-da-palavra-direito)
-    - [Considerações Prévias](#considerações-prévias-1)
-    - [Ciência do Direito](#ciência-do-direito)
+    - [Para a realização da segurança segundo os critérios de justiça](#para-a-realiza%C3%A7%C3%A3o-da-seguran%C3%A7a-segundo-os-crit%C3%A9rios-de-justi%C3%A7a)
+    - [Conclusão sobre as definições reais ou lógicas](#conclus%C3%A3o-sobre-as-defini%C3%A7%C3%B5es-reais-ou-l%C3%B3gicas)
+  - [Definições Históricas do Direito](#defini%C3%A7%C3%B5es-hist%C3%B3ricas-do-direito)
+  - [Acepções da Palavra Direito](#acep%C3%A7%C3%B5es-da-palavra-direito)
+    - [Considerações Prévias](#considera%C3%A7%C3%B5es-pr%C3%A9vias)
+    - [Ciência do Direito](#ci%C3%AAncia-do-direito)
     - [Direito Natural e Direito Positivo](#direito-natural-e-direito-positivo)
     - [Direito Objetivo e Direito Subjetivo](#direito-objetivo-e-direito-subjetivo)
-    - [O Emprego do Vocábulo no Sentido de Justiça](#o-emprego-do-vocábulo-no-sentido-de-justiça)
-  - [Conceito de Ordem Jurídica](#conceito-de-ordem-jurídica)
+    - [O Emprego do Vocábulo no Sentido de Justiça](#o-emprego-do-voc%C3%A1bulo-no-sentido-de-justi%C3%A7a)
+  - [Conceito de Ordem Jurídica](#conceito-de-ordem-jur%C3%ADdica)
 
-<!-- /TOC -->
 <!-- /TOC -->
 
 ## Considerações Prévias
@@ -67,14 +66,14 @@
   - Se de inclinação SOCIOLÓGICA:
     - Enfatizará o **ELEMENTO SOCIAL**;
   - Se de inclinação HISTORICISTA:
-    - Enfatizam a questão evolutiva do Direito 
+    - Enfatizam a questão evolutiva do Direito
 - Existem também definições curiosas conduzidas por formas especiais de experiência:
   - Para <span style="background-color:orange">**PITÁGORAS**</span>, sob a ótica da <span style="background-color:yellow">**Matemática**</span>:
     - "O Direito é igual ao múltiplo de si mesmo"
 - Em LÓGICA:
   - O vocáculo Direito é classificado como **termo análogo** ou **termo analógico**:
     - Pelo fato de <span style="background-color:yellow">**possuir vários significados**</span>; e
-    - Pelo fato de que, apesar desses significados se diferenciarem, <span style="background-color:yellow">**guardam entre si alguns nexos**</span>. 
+    - Pelo fato de que, apesar desses significados se diferenciarem, <span style="background-color:yellow">**guardam entre si alguns nexos**</span>.
 - **AO EMPREGARMOS O TERMO DIREITO**:
   - ORA o empregamos em **SENTIDO OBJETIVO**:
     - Como **NORMA DE ORGANIZAÇÃO SOCIAL**;
@@ -128,7 +127,6 @@
     - Que fixam a **essencia do objeto**, fornecendo as suas notas básicas;
 - Neste capítulo, Nader (2016, p.75) aborda quatro (04) definições para o Direito.
 
-
 <p align="center"><b>Figura:</b> Definições do Direito </p>
 
 ```mermaid
@@ -167,13 +165,13 @@ flowchart LR
     - Provém do latim **_Jussum_** (mandado)
       - Particípio passado do verbo **_jubere_**, que corresponde, em nossa língua:
         - A mandar, ordenar.
-      -  O radical seria do sânscrito **_Yu_** (vínculo). 
+      - O radical seria do sânscrito **_Yu_** (vínculo).
   - **PARA OUTRA CORRENTE**:
     - O vocábulo estaria ligado a **_Justum_** (o que é justo)
       - Que teria o seu radical no védico **_Yós_**, que significa:
         - Bom, santidade, proteção.
 - Do **VOCÁBULO JUS** surgiram outros termos, que se incorporaram à terminologia jurídica:
-  - justiça, juiz, juízo, jurisconsulto, jurista, jurisprudência, jurisdição. 
+  - justiça, juiz, juízo, jurisconsulto, jurista, jurisprudência, jurisdição.
 - A <u>**preferência dos povos em geral**</u> pelo emprego do **vocábulo Direito** decorre, provavelmente, do <u>**fato de possuir significado mais amplo do que jus**</u>.
 
 ### Definição Semântica
@@ -181,8 +179,8 @@ flowchart LR
 - Semântica é a parte da gramática que **registra os diferentes sentidos** que a palavra alcança em seu desenvolvimento.
 - O mundo das palavras possui vida e é dinâmico;
 - O povo cria a linguagem e é agente de sua evolução;
-- A **PALAVRA DIREITO** também possui história. 
-  - Desde a sua formação, até o presente, passou por significados vários; 
+- A **PALAVRA DIREITO** também possui história.
+  - Desde a sua formação, até o presente, passou por significados vários;
   - 1️⃣ Expressou, <u>**primeiramente**</u>:
     - A qualidade do que está conforme a reta; e
   - 2️⃣ <u>**Sucessivamente**</u>, designou:
@@ -191,11 +189,10 @@ flowchart LR
     - Conjunto de leis;
     - A ciência que estuda as leis.
 - A **definição nominal**, a par de algumas contribuições que oferece:
-  - <span style="background-color:yellow;color:red;font-weight:bold">**Não pode ser indicada**</span> como fator decisivo à formação do conhecimento científico; 
+  - <span style="background-color:yellow;color:red;font-weight:bold">**Não pode ser indicada**</span> como fator decisivo à formação do conhecimento científico;
   - <span style="background-color:yellow">**O excessivo recurso à lexicografia**</span>, Herman Kantorowicz denomina de “<span style="background-color:yellow">**REALISMO VERBAL**</span>” e o condena: “uma definição científica não pode ser estruturada através da lexicografia, ainda quando uma grande parte dos juristas de todos os tempos haja acreditado na possibilidade da utilização desse método.
-  - <span style="background-color:yellow">**Constitui, pois, erro fundamental** </span>, que tem viciado numerosas investigações em todos os campos do conhecimento, o fato de 
+  - <span style="background-color:yellow">**Constitui, pois, erro fundamental** </span>, que tem viciado numerosas investigações em todos os campos do conhecimento, o fato de
     - **Estimar as definições** como algo relacionado com a questão do **uso verdadeiro** ou **uso errôneo** <u>da **linguagem**</u>.”
-
 
 ## Definições Reais ou Lógicas
 
@@ -213,9 +210,9 @@ flowchart LR
   - **_Definitio est initium omni disputationi_** (a definição é o princípio para toda disputa).
 - A <span style="background-color:lightgreen">**TÉCNICA DAS DEFINIÇÕES REAIS**</span> exige a <span style="background-color:yellow">escolha de um **MÉTODO ADEQUADO**</span>;
 - Para se atender aos <span style="background-color:lightgreen">**PRESSUPOSTOS DA LÓGICA FORMAL**</span>:
-    - A definição <u>deverá apontar</u>:
-      - O **GÊNERO PRÓXIMO**; e
-      - A **DIFERENÇA ESPECÍFICA**.
+  - A definição <u>deverá apontar</u>:
+    - O **GÊNERO PRÓXIMO**; e
+    - A **DIFERENÇA ESPECÍFICA**.
 - Este critério era conhecido e adotado pelos antigos romanos, que já afirmavam:
   - **_Definitio fit per genus proximum et differentiam specificam_** (A definição se torna um gênero próximo e uma diferença específica).
   - O <span style="background-color:lightgreen">**GÊNERO PRÓXIMO**</span> de uma definição **apresenta as notas comuns** às diversas espécies que compõem um gênero;
@@ -238,7 +235,7 @@ flowchart LR
   </tr>
 </table>
 
-  - **Nos subitens abaixo**, dividiremos essa definição do Direito em partes e detalharemos o que as partes significam.
+- **Nos subitens abaixo**, dividiremos essa definição do Direito em partes e detalharemos o que as partes significam.
 
 ### Conjunto de normas de conduta social
 
@@ -263,7 +260,7 @@ flowchart LR
     - <span style="background-color:yellow">**ALÉM DE NORMAS QUE DISCIPLINAM O CONVÍVIO SOCIAL**</span>, o **ordenamento jurídico** reúne disposições:
       - Que **organizam o Estado** e **se impõem a quem detém parcela de poder**;
       - Cuida ainda das **relações entre as pessoas e os órgãos públicos**.
-    
+
 ### Imposto coercitivamente pelo Estado
 
 - Essa é a diferença específica;
@@ -291,38 +288,268 @@ SOCIAL**.
   - Surge, daí, a imperiosa <span style="background-color:lightgreen">**necessidade**</span> de **o Direito ser dotado** de um **MECANISMO DE COERÇÃO**, em que <span style="background-color:yellow">**O ELEMENTO FORÇA**</span> se apresente <span style="background-color:yellow">**EM ESTADO LATENTE**</span>, mas apto a ser acionado nas circunstâncias próprias.
   - A <span style="background-color:lightgreen">**COERCITIVIDADE**</span>, a cargo do Estado, <span style="background-color:yellow">**é uma reserva de força**</span> que **exerce <span style="background-color:yellow">intimidação</span>** sobre os <span style="background-color:yellow">destinatários das normas jurídicas</span>.
 
-
 ### Para a realização da segurança segundo os critérios de justiça
 
-- O aparato legal
+- O <span style="background-color:lightgreen">**APARATO LEGAL**</span>
+  - **DEVE SER** considerando como:
+    - MEIO;
+    - INTRUMENTO;
+    - RECURSO.
+  - Existe em função do **BEM-ESTAR** da sociedade
+- A <span style="background-color:lightgreen">**JUSTIÇA**</span> ⚖️
+  - É a <span style="background-color:yellow">**causa final**</span> do Direito;
+  - É a <span style="background-color:yellow">**razão de ser**</span> do Direito;
+- A <span style="background-color:lightgreen">**fórmula para alcançar a justiça**</span> <span style="background-color:yellow">**JURIDICAMENTE**</span> é através de <span style="background-color:yellow">**NORMAS**</span>;
 
-### Conclusão sobre as definições reais ou lógicas
+<table border="1" id="quadro-atencao-direito-justica-seguranca-juridica">
+  <tr>
+    <td align="center" valign="top"width="140px" style="border-right-style:hidden">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-atencao.png?raw=true" heigh="80" width="80"><br>
+      <b>Atenção</b>
+    </td>
+    <td valign="top">
+     <p style="text-align:justify">
+       Para <span style="background-color:lightgreen"><b>REALIZAR PLENAMENTE A JUSTIÇA</b></span> ⚖️ PRESSUPÕE-SE A <span style="background-color:yellow"><b>SEGURANÇA JURÍDICA</b></span>
+     </p>
+      <ul>
+        <li>Para <span style="background-color:lightgreen"><b>SEGURANÇA JURIDICA</b> </span> ser alcançada <span style="background-color:yellow"><b>DEPENDE-SE DE</b></span>:</li>
+        <ul>
+          <li>Organização;</li>
+          <li>Ordem jurídica bem definida;</li>
+          <li>Garantia de respeito ao patrimônio jurídico do cidadão</li>
+        </ul>
+     </ul>
+     <p style="text-align:justify">
+       É preciso cultivar o <b>VALOR DA SEGURANÇA JURÍDICA</b> para se alcançar a <b>JUSTIÇA.</b>
+     </p>
+     <p style="text-align:justify">
+       A <b>JUSTIÇA</b> é a <b>META</b> o <b>ALVO</b>, o <b>OBJETIVO MAIOR</b> do Direito.
+     </p>
+    </td>
+  </tr>
+</table>
 
-- <span style="background-color:yellow;color:red">**Não há**</span>, entre os **filósofos do Direito**:
-  - <span style="background-color:lightgreen">**Uma definição padronizada sobre a JUSTIÇA**</span>;
-  - **A ideia matriz** de <u>**quase todas as concepções**</u> partiu de **Ulpiano**, jurisconsulto romano, que a empregou como virtude moral:
-    - **_Iustitia est constans et perpetua voluntas ius suum quique tribuendi_** (a justiça é a constante e permanente vontade de dar a cada um o seu direito)
+<!-- Para visualizar os ícones disponíveis, visite: https://github.com/dnlclaudino/imagens#readme -->
+<table border="1" id="quadro-definicao-XXXXX">
+<tr>
+  <td align="center" valign="top"width="140px" style="border-right-style:hidden">
+   <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-lembre-se.png?raw=true" heigh="80" width="80"><br>
+   <b>Lembre-se</b>
+  </td>
+  <td valign="top">
+<p style="text-align:center"><b>A IDEIA DE <u>JUSTICA</u></b></p>
+  <p style="text-align:justify">
+    Entre os filósofos do Direito, <span style="background-color:yellow;color:red;font-weight:bold"><b>NÃO HÁ</b></span> uma <span style="background-color:lightgreen"><b>DEFINIÇÃO <u>PADRONIZADA</u></b></span> sobre a <span style="background-color:yellow"><b><u>JUSTIÇA</u></b></span>.
+  </p>
+  <p style="text-align:justify">
+    A <span style="background-color:lightgreen"><b>IDEIA MATRIZ DE JUSTIÇA</b></span> partiu da definição do jurisconsulto <span style="background-color:yellow"><b>ULPIANO</b></span>:
+  </p>
+   <ul>
+     <li>A <span style="background-color:lightgreen">JUSTIÇA</span> é uma <span style="background-color:yellow"> <b><u>VIRTUDE MORAL</u></b></span>;</li>
+      <li>"A <span style="background-color:lightgreen">JUSTIÇA</span> é a <b>constante</b> e <b>permanente</b> <b><u>vontade</u></b> de <b>dar a cada um o seu direito</b>.</li>
+   </ul>
+   </td>
+</tr>
+</table>
+
+<table border="1" id="quadro-citacao-jurisconsulto-romano-ulpiano-conceito-justica">
+  <tr>
+    <td align="center" width="140px" style="border-right-style:hidden">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-citacao.png?raw=true" heigh="80" width="80"><br>
+      <b>Jurisconsulto romano:<br>Ulpiano (150-223)</b>
+    </td>
+    <td valign="top">
+      <p style="text-align:justify"><b><i>Iutitia est constans perpetua voluntas ius suum quique tribuendi</i></b>.</p>
+      <p style="text-align:justify">A <b>JUSTIÇA</b> é a <b>constante</b> e <b>permanente</b> <b><u>vontade</u></b> de <b>dar a cada um o seu direito</b>.</p>
+    </td>
+  </tr>
+</table>
+
+<table border="1" id="quadro-citacao-jurisconsulto-romano-ulpiano-conceito-direito">
+  <tr>
+    <td align="center" width="140px" style="border-right-style:hidden">
+      <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-para-saber-mais.png?raw=true" heigh="80" width="80"><br>
+      <b>Para Saber<br>Mais</b>
+    </td>
+    <td valign="top">
+    <p style="text-align:center"><b>OUTRA CITAÇÃO ATRIBUÍDA A ULPIANO SOBRE O <u>DIREITO</u></b></p>
+  <p style="text-align:justify">
+      <p style="text-align:justify"><b><i>(...) Juris Praecepta Sunt haec: Honeste Vivere, Alterum Non Laedere, Suum Cuique Tribuere”.</i></b></p>
+      <p style="text-align:justify"> (...) tais são os preceitos do direito: <b>viver honestamente</b>, <b>não ofender ninguém</b>, <b>dar a cada um o que lhe pertence</b>.</p>
+    </td>
+  </tr>
+</table>
 
 ## Definições Históricas do Direito
 
+- As **definições históricas do Direito** também são referenciadas como "**definições clássicas do Direito**";
+- As definições são <u>úteis</u> e <u>importantes</u> na medida em que nos permitem uma **análise crítica** que enriquecerá a nossa **definição de Direito**;
+
+<table border="1" id="quadro-grande-pensador-celso">
+<tr>
+  <td align="center" valign="top"width="140px" style="border-right-style:hidden">
+   <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-grande-pensador.png?raw=true" heigh="80" width="80"><br>
+   <b>Grande Pensador</b>
+  </td>
+  <td valign="top">
+<p style="text-align:center"><b>DEFINIÇÃO CLÁSSICAS DO DIREITO<br>CELSO: O jurisconsulto romano do século I d.C.</b></p>
+  <p style="text-align:justify">
+    O <b>DIREITO</b> é a <u>arte</u> <b>do bom</b> e <b>do justo</b>.
+  </p>
+  <p style="text-align:justify">
+    <b>Análise crítica</b> apresentada por <b>Nader (2016, p. 78)</b>:
+  </p>
+   <ul>
+     <li>Essa definição possui forte influência da <b>Filosofia</b> e da <b>Ética</b>;</li>
+     <li>Essa definição coloca em evidência apenas a <b>finalidade do Direito</b>, tornando-a <b>insuficiente</b>;</li>
+   </ul>
+   </td>
+</tr>
+</table>
+
+<table border="1" id="quadro-grande-pensador-dante-alighieri">
+<tr>
+  <td align="center" valign="top"width="140px" style="border-right-style:hidden">
+   <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-grande-pensador.png?raw=true" heigh="80" width="80"><br>
+   <b>Grande Pensador</b>
+  </td>
+  <td valign="top">
+<p style="text-align:center"><b>DEFINIÇÃO CLÁSSICAS DO DIREITO<br>DANTE ALIGHIERI: O escritor italiano do século XIII d.C.</b></p>
+   <p style="text-align:justify">Em sua obra "<i>De monarchia</i>", o escritor iteliano expos suas ideias político-jurídicas expressando a seguinte definição clássica do Direito:</p>
+  <p style="text-align:justify">
+    O <b>DIREITO</b> é a <u>proporção</u> <b>real</b> e <b>pessoal</b> de homem para homem que, conservada, conserva a sociedade e que, destruída, a destrói.
+  </p>
+  <p style="text-align:justify">
+    <b>Análise crítica</b>: <b>Nader (2016, p. 78)</b> afirma que as qualidades da definição apresentada por Dante Alighieri tornam críticas a sua definição secundários. Acrescento, contudo, com base nas <b>características de uma definição</b> apresentadas na seção "Definições Reais ou Lógicas" (NADER, 2016, p. 76) que:
+  </p>
+   <ul>
+     <li>Essa definição faz dintinçao entre <b>direitos reais</b> e <b>direitos pessoais;</b></li>
+     <li>Essa definição tras a características da <b>alteridade</b>, qualidade do Direito de <b>vincular pessoas e <u>apenas pessoas</u></b>;</li>
+     <li>Essa definição carece de <b>características específicas</b> que distinguam o Direito de outras formas de "proporção" que preserva ou destrói a sociedade, respectivamente, em sua presença ou ausência.;</li>
+     <li>Entendo, com todo o respeito a admiração de Paulo Nader ao autor italiano, que sua definição é por demais abstrata, apesar de refletir que proporcionalidade é característica essencial da justiça sem a qual o Direito não pode atingir sua finalidade;</li>
+   </ul>
+   </td>
+</tr>
+</table>
+
+<table border="1" id="quadro-grande-pensador-hugo-grocio">
+<tr>
+  <td align="center" valign="top"width="140px" style="border-right-style:hidden">
+   <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-grande-pensador.png?raw=true" heigh="80" width="80"><br>
+   <b>Grande Pensador</b>
+  </td>
+  <td valign="top">
+<p style="text-align:center"><b>DEFINIÇÃO CLÁSSICAS DO DIREITO<br>HUGO GRÓCIO: O jurisconsulto holandês do século XVI d.C.</b></p>
+  <p style="text-align:justify">
+    O <b>DIREITO</b> é o <u>conjunto</u> de <b>normas ditadas pela <u>razÃo</u></b> e sugeridas pelo <b><i>appetitus societatis</i></b>.
+  </p>
+  <p style="text-align:justify">
+    <b>Análise crítica</b> apresentada por <b>Nader (2016, p. 78)</b>:
+  </p>
+   <ul>
+     <li>Essa definição carece de <b>diferença específica</b>;</li>
+     <li>O instinto de <b>vida gregária</b> da sociedade não chega a expressar os <b>valores da <u>justiça</u> e da <u>segurança jurídica</u></b>.</li>
+   </ul>
+   </td>
+</tr>
+</table>
+
+<table border="1" id="quadro-grande-pensador-emmanuel-kant">
+<tr>
+  <td align="center" valign="top"width="140px" style="border-right-style:hidden">
+   <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-grande-pensador.png?raw=true" heigh="80" width="80"><br>
+   <b>Grande Pensador</b>
+  </td>
+  <td valign="top">
+<p style="text-align:center"><b>DEFINIÇÃO CLÁSSICAS DO DIREITO<br>EMMANUEL KANT: O filósofo alemão do século XVIII d.C.</b></p>
+  <p style="text-align:justify">
+    O <b>DIREITO</b> é o <u>conjunto</u> das <b><u>condições</u></b> segundo as quais <b><u>o arbítrio de cada um</u></b> pode coexistir com <b><u>o arbítrio de outros</u></b> de acordo com <b><span style="background-color:yellow">uma lei de liberdade</span></b>.
+  </p>
+  <p style="text-align:justify">
+    <b>Análise crítica</b> apresentada por <b>Nader (2016, p. 78)</b>:
+  </p>
+   <ul>
+     <li>Essa definição destaca o <b>papel a ser cumprido pelo Direito</b>;</li>
+     <li>É vago sobre o significado da expressão "<b>conjunto de condições</b>" não fornecendo elementos para se entender o que especificamente estrutura esse conjunto.</li>
+   </ul>
+   </td>
+</tr>
+</table>
+
+<table border="1" id="quadro-grande-pensador-rudolf-ihering">
+<tr>
+  <td align="center" valign="top"width="140px" style="border-right-style:hidden">
+   <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-grande-pensador.png?raw=true" heigh="80" width="80"><br>
+   <b>Grande Pensador</b>
+  </td>
+  <td valign="top">
+<p style="text-align:center"><b>DEFINIÇÃO CLÁSSICAS DO DIREITO<br>RUDOLF VON IHERING: O jurisconsulto alemão do século XIX d.C.</b></p>
+  <p style="text-align:justify">
+    O <b>DIREITO</b> é a <u>soma</u> das <b><u>condições de existência social</u></b>, no seu amplo sentido, assegurando pelo Estado através da <b>coação</b>.
+  </p>
+  <p style="text-align:justify">
+    <b>Análise crítica</b> apresentada por <b>Nader (2016, p. 78-79)</b>:
+  </p>
+   <ul>
+     <li>Essa definição apresenta a <b>diferença específica</b> do Direito apresentar a <b>estatalidade</b> e da possibilidade de <b>coerção institucionalizada do Estado</b>;</li>
+   </td>
+</tr>
+</table>
 
 ## Acepções da Palavra Direito
 
-
 ### Considerações Prévias
 
+- A palavra "Direito" é <span style="background-color:yellow">**polissêmica**</span>, ou seja, apresenta **vários sentidos.**;
+- É de suma importância **teórica** e **prática** que o jurista compreenda as várias **ACEPÇÕES** da palavra "Direito";
+
+<table border="1" id="quadro-reflexao-edmond-picard-polissemia-direito">
+<tr>
+  <td align="center" valign="top"width="140px" style="border-right-style:hidden">
+   <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-reflexao.png?raw=true" heigh="80" width="80"><br>
+   <b>Reflexão</b>
+  </td>
+  <td valign="top">
+<p style="text-align:center"><b>OS MAU ENTENDIDOS DA POLISSEMIA DA PALAVRA "DIREITO"</b></p>
+  <p style="text-align:justify">
+    O jusfilósofo <b>Edmound Picar</b> asseverou: "A que mal-entendidos constantes em decorrência da homonímia entre <b>o Direito</b> e <b>um Direito</b>!". O jurista reclamou que não existe um vocábulo que distingua <b>o Direito <u>total</u></b> de <b>um direito <u>particular</u></b>.
+  </p>
+   </td>
+</tr>
+</table>
 
 ### Ciência do Direito
 
+- Tem o mesmo sentido que "**Dogmática Jurídica**";
+- A <span style="background-color:lightgreen">**Ciência do Direito**</span> investiga e sistematiza <span style="background-color:yellow">**conhecimentos**</span> e o <span style="background-color:yellow">**teor normativo**</span> dos **sistemas jurídicos**;
 
 ### Direito Natural e Direito Positivo
 
+- Constituem **duas ORDENS distintas** mas que possuem **RECÍPROCA CONVERGÊNCIA**;
+
+#### Direito Natural
+
+- Revela <u>ao **LEGISLADOR**</u>:
+  - Os <span style="background-color:lightgreen">**PRINCÍPIOS FUNDAMENTAIS**</span> de <u>**proteção do homem**</u>;
+  - Os <span style="background-color:lightgreen">**PRINCÍPIOS FUNDAMENTAIS**</span> que <u><span style="background-color:yellow">**DEVERÃO SER**</span></u> <u>**consagrados pela legislação**</u> <span style="color:red;font-weight:bold">**<u>sem o qual</u> não se poderá obter**</span> um **ORDENAMENTO JURÍDICO** substancialmente <span style="background-color:yellow">**JUSTO**</span>;
+- O Direito Natural:
+  - <u><span style="color:red;font-weight:bold">**NÃO é**</span></u> escrito;
+  - <u><span style="color:red;font-weight:bold">**NÃO é**</span></u> criado pela sociedade;
+  - <u><span style="color:red;font-weight:bold">**NÃO é**</span></u> formulado pelo Estado;
+  - <u><span style="color:green;font-weight:bold">**É**</span></u> um Direito <u>**expontâneo**</u>;
+    - Se origina da **NATUREZA SOCIAL DO HOMEM**
+    - É revelado pela **EXPERIÊNCIA** e pela **RAZÃO**;
+- É constituído por um CONJUNTO DE PRINCÍPIOS e NÃO DE REGRAS
+- Têm CARÁTER:
+  - UNIVERSAL;
+  - ETERNO;
+  - IMUTÁVEL
+
+- EM CONTATO COM A REALIDADE CONCRETA, ESSES PRINCÍPIOS SÃO DESDOBRADOS PELO LEGISLADOR MENIANTE NORMAS JURÍDICAS QUE DEVEM ADAPTAR-SE A CADA MOMENTO HISTÓRICO;
 
 ### Direito Objetivo e Direito Subjetivo
 
-
 ### O Emprego do Vocábulo no Sentido de Justiça
-
 
 ## Conceito de Ordem Jurídica
 
@@ -385,7 +612,7 @@ SOCIAL**.
      <p style="text-align:justify"><u><b><span style="background-color:red">É FALSA</span></u></b> a impressão que o <b>LEGISLADOR</b> <span style="background-color:yellow">entrega à <b>SOCIEDADE</b></span> uma <b>ORDEM JURÍDICA</b> <b><u><span style="background-color:yellow">pronta e acabada</span></u></b>.</p>
     </td>
   </tr>
-</table> 
+</table>
 
  <table border="1" id="quadro-nao-cometa-erros-papel-do-jurista-apos-elaboracao-das-leis">
   <tr>
@@ -398,5 +625,5 @@ SOCIAL**.
      <p style="text-align:justify"><u><b><span style="background-color:lightgreen">CABE AO JURISTA</span></u></b> O <span style="background-color:yellow"><b>PAPEL DE BENEFICIAR</b></span> a <b>ORDEM JURÍDICA</b> entregue pelo <b>LEGISLADOR</b> <span style="background-color:yellow"> à <b>SOCIEDADE</b></span>.</p>
     </td>
   </tr>
-</table> 
+</table>
   
