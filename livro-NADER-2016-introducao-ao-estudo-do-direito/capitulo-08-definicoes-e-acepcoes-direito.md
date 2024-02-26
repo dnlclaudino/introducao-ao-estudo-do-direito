@@ -648,7 +648,7 @@ SOCIAL**.
         - **ESTABELECER CONSEQUÊNCIAS JURÍDICAS concretas**;
     - Exemplo:
       - Quando dizemos que alguém <u>**tem direito a uma indenização**</u>, afirmamos que ele possui **um direito subjetivo**;
-- É a partir do conhecimento do direito objetivo que deduzimos os Direitos Subjetivos DE CADA PARTE dentro de uma RELAÇÃO JURÍDICA;
+- É a partir do conhecimento do **direito objetivo** que deduzimos os **direitos subjetivos <u>DE CADA PARTE</u>** dentro de uma **RELAÇÃO JURÍDICA**;
 
 ### O Emprego do Vocábulo no Sentido de Justiça
 
