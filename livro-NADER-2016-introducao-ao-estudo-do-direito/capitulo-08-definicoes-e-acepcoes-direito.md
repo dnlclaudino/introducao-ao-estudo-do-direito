@@ -28,26 +28,26 @@
 <!-- TOC updateonsave:false -->
 
 - [Definições e Acepções da Palavra Direito](#defini%C3%A7%C3%B5es-e-acep%C3%A7%C3%B5es-da-palavra-direito)
-  - [Considerações Prévias](#considera%C3%A7%C3%B5es-pr%C3%A9vias)
-  - [Definições Nominais](#defini%C3%A7%C3%B5es-nominais)
-    - [Definição Etimológica](#defini%C3%A7%C3%A3o-etimol%C3%B3gica)
-      - [A palavra DIREITO](#a-palavra-direito)
-      - [A palavra JUS](#a-palavra-jus)
-    - [Definição Semântica](#defini%C3%A7%C3%A3o-sem%C3%A2ntica)
-  - [Definições Reais ou Lógicas](#defini%C3%A7%C3%B5es-reais-ou-l%C3%B3gicas)
-    - [Conjunto de normas de conduta social](#conjunto-de-normas-de-conduta-social)
-    - [Imposto coercitivamente pelo Estado](#imposto-coercitivamente-pelo-estado)
-    - [Para a realização da segurança segundo os critérios de justiça](#para-a-realiza%C3%A7%C3%A3o-da-seguran%C3%A7a-segundo-os-crit%C3%A9rios-de-justi%C3%A7a)
-  - [Definições Históricas do Direito](#defini%C3%A7%C3%B5es-hist%C3%B3ricas-do-direito)
-  - [Acepções da Palavra Direito](#acep%C3%A7%C3%B5es-da-palavra-direito)
     - [Considerações Prévias](#considera%C3%A7%C3%B5es-pr%C3%A9vias)
-    - [Ciência do Direito](#ci%C3%AAncia-do-direito)
-    - [Direito Natural e Direito Positivo](#direito-natural-e-direito-positivo)
-      - [Direito Natural](#direito-natural)
-      - [Direito Positivo](#direito-positivo)
-    - [direito objetivo e direito subjetivo](#direito-objetivo-e-direito-subjetivo)
-    - [O Emprego do Vocábulo no Sentido de Justiça](#o-emprego-do-voc%C3%A1bulo-no-sentido-de-justi%C3%A7a)
-  - [Conceito de Ordem Jurídica](#conceito-de-ordem-jur%C3%ADdica)
+    - [Definições Nominais](#defini%C3%A7%C3%B5es-nominais)
+        - [Definição Etimológica](#defini%C3%A7%C3%A3o-etimol%C3%B3gica)
+            - [A palavra DIREITO](#a-palavra-direito)
+            - [A palavra JUS](#a-palavra-jus)
+        - [Definição Semântica](#defini%C3%A7%C3%A3o-sem%C3%A2ntica)
+    - [Definições Reais ou Lógicas](#defini%C3%A7%C3%B5es-reais-ou-l%C3%B3gicas)
+        - [Conjunto de normas de conduta social](#conjunto-de-normas-de-conduta-social)
+        - [Imposto coercitivamente pelo Estado](#imposto-coercitivamente-pelo-estado)
+        - [Para a realização da segurança segundo os critérios de justiça](#para-a-realiza%C3%A7%C3%A3o-da-seguran%C3%A7a-segundo-os-crit%C3%A9rios-de-justi%C3%A7a)
+    - [Definições Históricas do Direito](#defini%C3%A7%C3%B5es-hist%C3%B3ricas-do-direito)
+    - [Acepções da Palavra Direito](#acep%C3%A7%C3%B5es-da-palavra-direito)
+        - [Considerações Prévias](#considera%C3%A7%C3%B5es-pr%C3%A9vias)
+        - [Ciência do Direito](#ci%C3%AAncia-do-direito)
+        - [Direito Natural e Direito Positivo](#direito-natural-e-direito-positivo)
+            - [Direito Natural](#direito-natural)
+            - [Direito Positivo](#direito-positivo)
+        - [Direito Objetivo E Direito Subjetivo](#direito-objetivo-e-direito-subjetivo)
+        - [O Emprego do Vocábulo no Sentido de Justiça](#o-emprego-do-voc%C3%A1bulo-no-sentido-de-justi%C3%A7a)
+    - [Conceito de Ordem Jurídica](#conceito-de-ordem-jur%C3%ADdica)
 
 <!-- /TOC -->
 
@@ -627,7 +627,7 @@ SOCIAL**.
         - Estiveram em **VIGOR** à época em que o **FATO JURÍDICO** se realizou;
         - Estiveram e ainda estão **LIGADAS** aos**FATOS JURÍDICOS** que ocorreram;
 
-### direito objetivo e direito subjetivo
+### Direito Objetivo e Direito Subjetivo
 
 - São dois "lados" de um <u>**mesmo objeto**</u> (O Direito);
   - Entre o **direito objetivo** e o **direito subjetivo** <span style="color:red;font-weight:bold">**NÃO HÁ**</span> **antítese** ou **oposição**;
