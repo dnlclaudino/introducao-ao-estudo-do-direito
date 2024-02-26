@@ -38,13 +38,14 @@
     - [Conjunto de normas de conduta social](#conjunto-de-normas-de-conduta-social)
     - [Imposto coercitivamente pelo Estado](#imposto-coercitivamente-pelo-estado)
     - [Para a realização da segurança segundo os critérios de justiça](#para-a-realiza%C3%A7%C3%A3o-da-seguran%C3%A7a-segundo-os-crit%C3%A9rios-de-justi%C3%A7a)
-    - [Conclusão sobre as definições reais ou lógicas](#conclus%C3%A3o-sobre-as-defini%C3%A7%C3%B5es-reais-ou-l%C3%B3gicas)
   - [Definições Históricas do Direito](#defini%C3%A7%C3%B5es-hist%C3%B3ricas-do-direito)
   - [Acepções da Palavra Direito](#acep%C3%A7%C3%B5es-da-palavra-direito)
     - [Considerações Prévias](#considera%C3%A7%C3%B5es-pr%C3%A9vias)
     - [Ciência do Direito](#ci%C3%AAncia-do-direito)
     - [Direito Natural e Direito Positivo](#direito-natural-e-direito-positivo)
-    - [Direito Objetivo e Direito Subjetivo](#direito-objetivo-e-direito-subjetivo)
+      - [Direito Natural](#direito-natural)
+      - [Direito Positivo](#direito-positivo)
+    - [direito objetivo e direito subjetivo](#direito-objetivo-e-direito-subjetivo)
     - [O Emprego do Vocábulo no Sentido de Justiça](#o-emprego-do-voc%C3%A1bulo-no-sentido-de-justi%C3%A7a)
   - [Conceito de Ordem Jurídica](#conceito-de-ordem-jur%C3%ADdica)
 
@@ -450,6 +451,7 @@ SOCIAL**.
      <li>Essa definição carece de <b>diferença específica</b>;</li>
      <li>O instinto de <b>vida gregária</b> da sociedade não chega a expressar os <b>valores da <u>justiça</u> e da <u>segurança jurídica</u></b>.</li>
    </ul>
+    <p style="text-align:justify"><b>Observação</b>: Foi <b>HUGO GRÓCIO</b> o criador da expressão "<span style="background-color:yellow"><b>DIREITO NATURAL</b></span>" e do <span style="background-color:yellow"><b>DIREITO INTERNACIONAL PÚBLICO</b></span>.</b></p>
    </td>
 </tr>
 </table>
@@ -539,17 +541,122 @@ SOCIAL**.
   - <u><span style="color:green;font-weight:bold">**É**</span></u> um Direito <u>**expontâneo**</u>;
     - Se origina da **NATUREZA SOCIAL DO HOMEM**
     - É revelado pela **EXPERIÊNCIA** e pela **RAZÃO**;
-- É constituído por um CONJUNTO DE PRINCÍPIOS e NÃO DE REGRAS
-- Têm CARÁTER:
+- <span style="background-color:lightgreen">**É constituído por**</span> um <span style="background-color:yellow"><b>**CONJUNTO DE PRINCÍPIOS**</b></span> e <span style="background-color:yellow"><b>**NÃO DE REGRAS**</b></span>;
+- Têm **CARÁTER**:
   - UNIVERSAL;
   - ETERNO;
   - IMUTÁVEL
+- O **DIREITO NATURAL** quando em contato com a REALIDADE CONCRETA:
+  - Esses **PRINCÍPIOS** são desdobrados pelo **LEGISLADOR** mediante **NORMAS JURÍDICAS** que **DEVEM ADAPTAR-SE** a cada **MOMENTO HISTÓRICO**;
 
-- EM CONTATO COM A REALIDADE CONCRETA, ESSES PRINCÍPIOS SÃO DESDOBRADOS PELO LEGISLADOR MENIANTE NORMAS JURÍDICAS QUE DEVEM ADAPTAR-SE A CADA MOMENTO HISTÓRICO;
+#### Direito Positivo
 
-### Direito Objetivo e Direito Subjetivo
+- <span style="background-color:lightgreen">**DIREITO POSITIVO**</span>
+  - <u><span style="color:green;font-weight:bold">**É**</span></u> uma expressão <span style="color:red;font-weight:bold"><u>**imprópria**</u></span>, segundo **(NADER, 2016, p. 79)**;
+  - <u><span style="color:green;font-weight:bold">**É**</span></u> uma expressão que foi cunhada <span style="color:red;font-weight:bold"><u>**para efeito de distinção**</u></span> com o **Direito Natural**;
+  - <u><span style="color:green;font-weight:bold">**É**</span></u> o Direito institucionalizado pelo Estado;
+  - <u><span style="color:green;font-weight:bold">**É**</span></u> a **ORDEM JURÍDICA** <u><span style="color:red;font-weight:bold">**obrigatória**</span></u> em determinado <span style="background-color:yellow">**LUGAR**</span> e <span style="background-color:yellow">**TEMPO**</span>;
+  - Pode adotar diversas <span style="background-color:yellow">**FORMAS DE EXPRESSÃO**</span>:
+    - Admitidas pelo **SISTEMA JURÍDICO** <u>**adotado pelo Estado**</u> que <span style="background-color:yellow">**se encontram <u>VIGENTE</u>**</span>;
+
+<table border="1" id="quadro-reflexao-nader-expressao-direito-positivo">
+  <tr>
+    <td align="center" valign="top"width="140px" style="border-right-style:hidden">
+    <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-duvidas.png?raw=true" heigh="80" width="80"><br>
+    <b>Dúvida</b>
+    </td>
+    <td valign="top">
+      <p style="text-align:center"><b>E SE...NÃO EXISTISSE O DIREITO NATURAL ? 🤔</b></p>
+      <p style="text-align:justify">
+        Segundo <b>Nader (2016, p. 80)</b>, se não houvesse o <b>DIREITO NATURAL</b> <b><u><span style="color:red;font-weight:bold">não haveria razão de ser</span></u></b> <b><span style="background-color:yellow">do adjetivo "Positivo"</span></b>, na expressão "Direito  Positivo".
+      </p>
+      <p style="text-align:justify">Consulte o quadro dedicado a <a href="#quadro-grande-pensador-hugo-grocio">HUGO GRÓCIO</a> <b>em sua Definição do Direito</b>, logo acima.
+      </p>
+    </td>
+  </tr>
+</table>
+
+- <span style="color:red;font-weight:bold"><u>**NÃO É NECESSÁRIO que**</u></span> o **Direito Positivo** <u><span style="background-color:yellow">**seja ESCRITO**</span></u>;
+  - Dependerá do SISTEMA JURÍDICO adotado pelo Estado;
+- <span style="background-color:lightgreen">**CONFIGURA o DIREITO POSITIVO**</span>: AS <span style="background-color:yellow">**DIVERSAS FORMAS**</span> DE <span style="background-color:yellow">**EXPRESSÃO DO JURÍDICA**</span> admitidas pelo <span style="background-color:yellow">**SISTEMA JURÍDICO**</span> adotado pelo Estado;
+
+<table border="1" id="quadro-lembre-se-direito-posito-na-roma-antiga">
+<tr>
+  <td align="center" valign="top"width="140px" style="border-right-style:hidden">
+   <img src="https://github.com/dnlclaudino/imagens/blob/master/gestao-do-conhecimento/icone-lembre-se.png?raw=true" heigh="80" width="80"><br>
+   <b>Lembre-se</b>
+  </td>
+  <td valign="top">
+<p style="text-align:center"><b>A <u>DOUTRINA</u> PODE FAZER PARTE DO <u>DIREITO POSITIVO</u>?</b></p>
+  <p style="text-align:justify">
+   Como foi abordado acima, a depender do <b>SISTEMA JURÍDICO</b> adotado pelo Estado, o <b>Direito Positivo</b> pode aceitar diversas <span style="background-color:yellow"><b>FORMAS DE EXPRESSÃO</b></span>.
+  </p>
+  <p style="text-align:justify">
+   No Roma Antiga, por exemplo, a <b>DOUTRINA</b> de alguns <b>JURISCONSULTOS</b> constituía parte do <b>Direito Positivo</b> já que <span style="background-color:yellow"><b>CONDICIONAVA AS DECISÕES</b></span> prolatadas pelo <b>PRETORES</b>.
+  </p>
+   <ul>
+     <li>Foram <b>JURISCONSULTOS</b> cuja <b>DOUTRIANA</b> condicionava a decisão dos <b>PRETORES</b>:</li>
+     <ul>
+     <li>Ulpiano;</li>
+     <li>Papiano;</li>
+     <li>Modestino;</li>
+     <li>Gaio; e</li>
+     <li>Paulo;</li>
+     </ul>
+   </ul>
+   </td>
+</tr>
+</table>
+
+- Para <span style="background-color:lightgreen">**ALGUNS ALTORES**</span>:
+  - Separam a **POSITIVIDADE** da **VIGÊNCIA**
+    - ADMITEM como DIREITO POSITIVO
+      - Normas EM VIGOR;
+      - Normas AB-ROGADAS e DERROGADAS (que não estão em vigor, que organizaram a vida no passado e já se encontram REVOGADAS)
+- Para **NADER** e **OUTROS AUTORES**:
+  - Consideram que, <span style="color:red;font-weight:bold"><u>**apesar de serem CONCEITOS distintos**</u></span>, a **POSITIVIDADE** e **VIGÊNCIA** <span style="color:red;font-weight:bold"><span style="background-color:yellow"><u>**se INTERDEPENDEM**</u></span></span>
+  - O **DIREITO** é o conjunto normativo que ordena o **convívio social**
+    - O **Direito** que perdeu a vigência <span style="color:red;font-weight:bold"><u>**não se impõe mais**</u></span> às **relações interindividuais**, <span style="color:red;font-weight:bold"><u>**deixando de ser**</u></span> **Direito** para ser **História do Direito**;
+      - <span style="background-color:yellow">**PERDEM A CARACTERÍSTICA DE GENERALIDADE**</span>
+        - Transformando-se em **NORMAS INDIVIDUALIZADAS**;
+        - Se **ASSEMELHAM-SE** às normas de um **CONTRATO**;
+    - <span style="color:red;font-weight:bold"><u>**NÃO SE DEVE**</u></span> entender que o <b>Direito Positivo</b> prescinde da **VINGÊNCIA**, ainda quando ocorre a <span style="background-color:yellow">**ULTRATIVIDADE**</span>;
+      - Na **ULTRATIVIDADE**, as **NORMAS JURÍDICAS**:
+        - <span style="color:red;font-weight:bold">**NÃO**</span> estão mais **VIGENTES**;
+        - <span style="color:red;font-weight:bold">**NÃO**</span> são mais <span style="background-color:yellow">**DIREITO POSITIVO (_JUS POSITUM_)**</span>;
+        - Estiveram em **VIGOR** à época em que o **FATO JURÍDICO** se realizou;
+        - Estiveram e ainda estão **LIGADAS** aos**FATOS JURÍDICOS** que ocorreram;
+
+### direito objetivo e direito subjetivo
+
+- São dois "lados" de um <u>**mesmo objeto**</u> (O Direito);
+  - Entre o **direito objetivo** e o **direito subjetivo** <span style="color:red;font-weight:bold">**NÃO HÁ**</span> **antítese** ou **oposição**;
+- O **Direito Positivo** pode ser analisado de **duas perspectivas diferentes**:
+  - **Do ponto de vista** do **direito objetivo**;
+    - É o **Direito** visto como **NORMA ORGANIZADORA SOCIAL**;
+    - É o **DIREITO COMO NORMA DE AGIR** (_Jus norma agendi_);
+    - Exemplo:
+      - Quando se afirma que **o Direito do Trabalho** não é formalista...
+        - Emprega-se o vocábulo **Direito** em **SENTIDO OBJETIVO** como referência ao **CONJUNTO DE NORMAS** que **ORGANIZAM AS RELAÇÕES DE EMPREGO**;
+  - **Do ponto de vista** do **direito subjetivo**:
+    - É o **Direito** visto como:
+      - **POSSIBILIDADE DE AGIR** que a **ORDEM JURÍDICA** garante a alguém;
+      - **PODER DE AGIR** que a **ORDEM JURÍDICA** garante a alguém;
+    - É **um DIREITO** que foi **PERSONALIZADO**:
+      - Em que **a NORMA** projeta-se na **RELAÇÃO JURÍDICA CONCRETA** para:
+        - **PERMITIR UMA CONDUTA**; ou
+        - **ESTABELECER CONSEQUÊNCIAS JURÍDICAS concretas**;
+    - Exemplo:
+      - Quando dizemos que alguém <u>**tem direito a uma indenização**</u>, afirmamos que ele possui **um direito subjetivo**;
+- É a partir do conhecimento do direito objetivo que deduzimos os Direitos Subjetivos DE CADA PARTE dentro de uma RELAÇÃO JURÍDICA;
 
 ### O Emprego do Vocábulo no Sentido de Justiça
+
+- É comum observar o **emprego da palavra Direito**:
+  - <span style="background-color:yellow">Como referência **AO QUE É JUSTO**</span>;
+    - Exemplo:
+      -  Ao se afirma que **alguém** **É UM HOMEM JUSTO**...
+         - Pretende-se dizer que ele é **JUSTO EM SUAS ATITUDES**;
 
 ## Conceito de Ordem Jurídica
 
