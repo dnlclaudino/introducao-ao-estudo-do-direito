@@ -236,7 +236,7 @@ flowchart LR
     </td>
     <td valign="top">
      <p style="text-align:center"><b>O QUE É O DIREITO ?🤔</b></p>
-     <p style="text-align:justify">Para Nader (2016, p.XX)</b>, <span style="background-color:lightgreen"><b>O DIREITO</b></span> é um <span style="color:brown;font-weight:bold">conjunto de normas de conduta social</span>, <span style="color:red;font-weight:bold">imposto coercitivamente pelo Estado</span>, <span style="color:lightgreen;font-weight:bold">para a realização da segurança</span>, <span style="color:violet;font-weight:bold">segundo os critérios de justiça</span>.</p>
+     <p style="text-align:justify">Para Nader (2016, p.XX)</b>, <span style="background-color:lightgreen"><b>O DIREITO</b></span> é um <span style="color:brown;font-weight:bold">conjunto de normas de conduta social</span>, <span style="color:red;font-weight:bold">imposto coercitivamente pelo Estado</span>, <span style="color:green;font-weight:bold">para a realização da segurança</span>, <span style="color:violet;font-weight:bold">segundo os critérios de justiça</span>.</p>
     </td>
   </tr>
 </table>
@@ -691,7 +691,7 @@ SOCIAL**.
         - Devem estar conjugadas à Lei Maior (CONSTITUIÇÃO)
 - A **PLURALIDADE DE ELEMENTOS** que o Direito oferece:
   - Compõe-se de **NORMAS JURÍDICAS** que <span style="color:red;background-color:yellow">**NÃO se acham JUSTAPOSTAS**</span>;
-  - Compõe-se  de **NORMAS JURÍDICAS** que <span style="color:lightgreen;background-color:yellow">**se entrelaçam em uma <u>CONEXÃO HARMÔNICA</u>**</span>;
+  - Compõe-se  de **NORMAS JURÍDICAS** que <span style="color:green;background-color:yellow">**se entrelaçam em uma <u>CONEXÃO HARMÔNICA</u>**</span>;
 - A **FORMAÇÃO DE UMA ORDEM JURÍDICA**:
   - Exige **COERÊNCIA LÓGICA** das **NORMAS JURÍDICAS**;
   - <span style="background-color:yellow">**CONFLITOS** que eventualmente existam</span>:
@@ -701,7 +701,7 @@ SOCIAL**.
         - <span style="background-color:yellow">**Deverá**</span> **REDEFINIR o DIREITO POSITIVO**:
           - Como <span style="background-color:yellow">**UM TODO LÓGICO**</span> capaz de irradiar **SEGURANÇA** e **JUSTIÇA**;
           - Como uma <span style="background-color:yellow">**UNIDADE DE FIM**</span> capaz de irradiar **SEGURANÇA** e **JUSTIÇA**;
-- <span style="background-color:yellow">**CABERÁ AO JURISTA** </span> aplicar seus <span style="background-color:yellow">**conhecimentos CIENTÍFICO e TÉCNICO**</span> <span style="color:lightgreen;background-color:yellow">**para relevar a ORDEM JURÍDICA SUBJACENTE**</span>:
+- <span style="background-color:yellow">**CABERÁ AO JURISTA** </span> aplicar seus <span style="background-color:yellow">**conhecimentos CIENTÍFICO e TÉCNICO**</span> <span style="color:green;background-color:yellow">**para relevar a ORDEM JURÍDICA SUBJACENTE**</span>:
   - AINDA QUE <span style="color:red;background-color:yellow">**as LEIS sejam MAU ELABORADAS**</span>:
     - Com visível ATRASO em relação ao momento histórico;
     - Que apresentem **DISPOSIÇÕES CONTRADITÓRIAS**
