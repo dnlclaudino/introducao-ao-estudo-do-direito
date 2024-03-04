@@ -27,27 +27,27 @@
 
 <!-- TOC updateonsave:false -->
 
-- [Definições e Acepções da Palavra Direito](#defini%C3%A7%C3%B5es-e-acep%C3%A7%C3%B5es-da-palavra-direito)
-    - [Considerações Prévias](#considera%C3%A7%C3%B5es-pr%C3%A9vias)
-    - [Definições Nominais](#defini%C3%A7%C3%B5es-nominais)
-        - [Definição Etimológica](#defini%C3%A7%C3%A3o-etimol%C3%B3gica)
-            - [A palavra DIREITO](#a-palavra-direito)
-            - [A palavra JUS](#a-palavra-jus)
-        - [Definição Semântica](#defini%C3%A7%C3%A3o-sem%C3%A2ntica)
-    - [Definições Reais ou Lógicas](#defini%C3%A7%C3%B5es-reais-ou-l%C3%B3gicas)
-        - [Conjunto de normas de conduta social](#conjunto-de-normas-de-conduta-social)
-        - [Imposto coercitivamente pelo Estado](#imposto-coercitivamente-pelo-estado)
-        - [Para a realização da segurança segundo os critérios de justiça](#para-a-realiza%C3%A7%C3%A3o-da-seguran%C3%A7a-segundo-os-crit%C3%A9rios-de-justi%C3%A7a)
-    - [Definições Históricas do Direito](#defini%C3%A7%C3%B5es-hist%C3%B3ricas-do-direito)
-    - [Acepções da Palavra Direito](#acep%C3%A7%C3%B5es-da-palavra-direito)
-        - [Considerações Prévias](#considera%C3%A7%C3%B5es-pr%C3%A9vias)
-        - [Ciência do Direito](#ci%C3%AAncia-do-direito)
-        - [Direito Natural e Direito Positivo](#direito-natural-e-direito-positivo)
-            - [Direito Natural](#direito-natural)
-            - [Direito Positivo](#direito-positivo)
-        - [Direito Objetivo E Direito Subjetivo](#direito-objetivo-e-direito-subjetivo)
-        - [O Emprego do Vocábulo no Sentido de Justiça](#o-emprego-do-voc%C3%A1bulo-no-sentido-de-justi%C3%A7a)
-    - [Conceito de Ordem Jurídica](#conceito-de-ordem-jur%C3%ADdica)
+- [Definições e Acepções da Palavra Direito](#definições-e-acepções-da-palavra-direito)
+  - [Considerações Prévias](#considerações-prévias)
+  - [Definições Nominais](#definições-nominais)
+    - [Definição Etimológica](#definição-etimológica)
+      - [A palavra DIREITO](#a-palavra-direito)
+      - [A palavra JUS](#a-palavra-jus)
+    - [Definição Semântica](#definição-semântica)
+  - [Definições Reais ou Lógicas](#definições-reais-ou-lógicas)
+    - [Conjunto de normas de conduta social](#conjunto-de-normas-de-conduta-social)
+    - [Imposto coercitivamente pelo Estado](#imposto-coercitivamente-pelo-estado)
+    - [Para a realização da segurança segundo os critérios de justiça](#para-a-realização-da-segurança-segundo-os-critérios-de-justiça)
+  - [Definições Históricas do Direito](#definições-históricas-do-direito)
+  - [Acepções da Palavra Direito](#acepções-da-palavra-direito)
+    - [Considerações Prévias](#considerações-prévias-1)
+    - [Ciência do Direito](#ciência-do-direito)
+    - [Direito Natural e Direito Positivo](#direito-natural-e-direito-positivo)
+      - [Direito Natural](#direito-natural)
+      - [Direito Positivo](#direito-positivo)
+    - [Direito Objetivo e Direito Subjetivo](#direito-objetivo-e-direito-subjetivo)
+    - [O Emprego do Vocábulo no Sentido de Justiça](#o-emprego-do-vocábulo-no-sentido-de-justiça)
+  - [Conceito de Ordem Jurídica](#conceito-de-ordem-jurídica)
 
 <!-- /TOC -->
 
@@ -210,6 +210,11 @@ flowchart LR
   - **_Omne definitio periculosa est_** (toda definição é perigosa); assim como
   - **_Definitio est initium omni disputationi_** (a definição é o princípio para toda disputa).
 - A <span style="background-color:lightgreen">**TÉCNICA DAS DEFINIÇÕES REAIS**</span> exige a <span style="background-color:yellow">escolha de um **MÉTODO ADEQUADO**</span>;
+
+- A **LÓGICA** é uma área da filosofia que **visa estudar** a **estrutura formal dos enunciados (proposições)** e **suas regras**.
+  - Em suma, a lógica serve para se pensar corretamente, sendo assim, uma ferramenta do correto pensar.
+  - Lógica tem origem na palavra grega logos, que significa razão, argumentação ou fala.
+
 - Para se atender aos <span style="background-color:lightgreen">**PRESSUPOSTOS DA LÓGICA FORMAL**</span>:
   - A definição <u>deverá apontar</u>:
     - O **GÊNERO PRÓXIMO**; e
