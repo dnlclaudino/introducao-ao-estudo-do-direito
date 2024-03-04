@@ -27,27 +27,27 @@
 
 <!-- TOC updateonsave:false -->
 
-- [Definições e Acepções da Palavra Direito](#defini%C3%A7%C3%B5es-e-acep%C3%A7%C3%B5es-da-palavra-direito)
-    - [Considerações Prévias](#considera%C3%A7%C3%B5es-pr%C3%A9vias)
-    - [Definições Nominais](#defini%C3%A7%C3%B5es-nominais)
-        - [Definição Etimológica](#defini%C3%A7%C3%A3o-etimol%C3%B3gica)
-            - [A palavra DIREITO](#a-palavra-direito)
-            - [A palavra JUS](#a-palavra-jus)
-        - [Definição Semântica](#defini%C3%A7%C3%A3o-sem%C3%A2ntica)
-    - [Definições Reais ou Lógicas](#defini%C3%A7%C3%B5es-reais-ou-l%C3%B3gicas)
-        - [Conjunto de normas de conduta social](#conjunto-de-normas-de-conduta-social)
-        - [Imposto coercitivamente pelo Estado](#imposto-coercitivamente-pelo-estado)
-        - [Para a realização da segurança segundo os critérios de justiça](#para-a-realiza%C3%A7%C3%A3o-da-seguran%C3%A7a-segundo-os-crit%C3%A9rios-de-justi%C3%A7a)
-    - [Definições Históricas do Direito](#defini%C3%A7%C3%B5es-hist%C3%B3ricas-do-direito)
-    - [Acepções da Palavra Direito](#acep%C3%A7%C3%B5es-da-palavra-direito)
-        - [Considerações Prévias](#considera%C3%A7%C3%B5es-pr%C3%A9vias)
-        - [Ciência do Direito](#ci%C3%AAncia-do-direito)
-        - [Direito Natural e Direito Positivo](#direito-natural-e-direito-positivo)
-            - [Direito Natural](#direito-natural)
-            - [Direito Positivo](#direito-positivo)
-        - [Direito Objetivo E Direito Subjetivo](#direito-objetivo-e-direito-subjetivo)
-        - [O Emprego do Vocábulo no Sentido de Justiça](#o-emprego-do-voc%C3%A1bulo-no-sentido-de-justi%C3%A7a)
-    - [Conceito de Ordem Jurídica](#conceito-de-ordem-jur%C3%ADdica)
+- [Definições e Acepções da Palavra Direito](#definições-e-acepções-da-palavra-direito)
+  - [Considerações Prévias](#considerações-prévias)
+  - [Definições Nominais](#definições-nominais)
+    - [Definição Etimológica](#definição-etimológica)
+      - [A palavra DIREITO](#a-palavra-direito)
+      - [A palavra JUS](#a-palavra-jus)
+    - [Definição Semântica](#definição-semântica)
+  - [Definições Reais ou Lógicas](#definições-reais-ou-lógicas)
+    - [Conjunto de normas de conduta social](#conjunto-de-normas-de-conduta-social)
+    - [Imposto coercitivamente pelo Estado](#imposto-coercitivamente-pelo-estado)
+    - [Para a realização da segurança segundo os critérios de justiça](#para-a-realização-da-segurança-segundo-os-critérios-de-justiça)
+  - [Definições Históricas do Direito](#definições-históricas-do-direito)
+  - [Acepções da Palavra Direito](#acepções-da-palavra-direito)
+    - [Considerações Prévias](#considerações-prévias-1)
+    - [Ciência do Direito](#ciência-do-direito)
+    - [Direito Natural e Direito Positivo](#direito-natural-e-direito-positivo)
+      - [Direito Natural](#direito-natural)
+      - [Direito Positivo](#direito-positivo)
+    - [Direito Objetivo e Direito Subjetivo](#direito-objetivo-e-direito-subjetivo)
+    - [O Emprego do Vocábulo no Sentido de Justiça](#o-emprego-do-vocábulo-no-sentido-de-justiça)
+  - [Conceito de Ordem Jurídica](#conceito-de-ordem-jurídica)
 
 <!-- /TOC -->
 
@@ -231,7 +231,7 @@ flowchart LR
     </td>
     <td valign="top">
      <p style="text-align:center"><b>O QUE É O DIREITO ?🤔</b></p>
-     <p style="text-align:justify">Para Nader (2016, p.XX)</b>, <span style="background-color:lightgreen"><b>O DIREITO</b></span> é um <span style="color:brown;font-weight:bold">conjunto de normas de conduta social</span>, <span style="color:red;font-weight:bold">imposto coercitivamente pelo Estado</span>, <span style="color:lightgreen;font-weight:bold">para a realização da segurança</span>, <span style="color:violet;font-weight:bold">segundo os critérios de justiça</span>.</p>
+     <p style="text-align:justify">Para Nader (2016, p.XX)</b>, <span style="background-color:lightgreen"><b>O DIREITO</b></span> é um <span style="color:brown;font-weight:bold">conjunto de normas de conduta social</span>, <span style="color:red;font-weight:bold">imposto coercitivamente pelo Estado</span>, <span style="color:green;font-weight:bold">para a realização da segurança</span>, <span style="color:violet;font-weight:bold">segundo os critérios de justiça</span>.</p>
     </td>
   </tr>
 </table>
@@ -686,7 +686,7 @@ SOCIAL**.
         - Devem estar conjugadas à Lei Maior (CONSTITUIÇÃO)
 - A **PLURALIDADE DE ELEMENTOS** que o Direito oferece:
   - Compõe-se de **NORMAS JURÍDICAS** que <span style="color:red;background-color:yellow">**NÃO se acham JUSTAPOSTAS**</span>;
-  - Compõe-se  de **NORMAS JURÍDICAS** que <span style="color:lightgreen;background-color:yellow">**se entrelaçam em uma <u>CONEXÃO HARMÔNICA</u>**</span>;
+  - Compõe-se  de **NORMAS JURÍDICAS** que <span style="color:green;background-color:yellow">**se entrelaçam em uma <u>CONEXÃO HARMÔNICA</u>**</span>;
 - A **FORMAÇÃO DE UMA ORDEM JURÍDICA**:
   - Exige **COERÊNCIA LÓGICA** das **NORMAS JURÍDICAS**;
   - <span style="background-color:yellow">**CONFLITOS** que eventualmente existam</span>:
@@ -696,7 +696,7 @@ SOCIAL**.
         - <span style="background-color:yellow">**Deverá**</span> **REDEFINIR o DIREITO POSITIVO**:
           - Como <span style="background-color:yellow">**UM TODO LÓGICO**</span> capaz de irradiar **SEGURANÇA** e **JUSTIÇA**;
           - Como uma <span style="background-color:yellow">**UNIDADE DE FIM**</span> capaz de irradiar **SEGURANÇA** e **JUSTIÇA**;
-- <span style="background-color:yellow">**CABERÁ AO JURISTA** </span> aplicar seus <span style="background-color:yellow">**conhecimentos CIENTÍFICO e TÉCNICO**</span> <span style="color:lightgreen;background-color:yellow">**para relevar a ORDEM JURÍDICA SUBJACENTE**</span>:
+- <span style="background-color:yellow">**CABERÁ AO JURISTA** </span> aplicar seus <span style="background-color:yellow">**conhecimentos CIENTÍFICO e TÉCNICO**</span> <span style="color:green;background-color:yellow">**para relevar a ORDEM JURÍDICA SUBJACENTE**</span>:
   - AINDA QUE <span style="color:red;background-color:yellow">**as LEIS sejam MAU ELABORADAS**</span>:
     - Com visível ATRASO em relação ao momento histórico;
     - Que apresentem **DISPOSIÇÕES CONTRADITÓRIAS**
